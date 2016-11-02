@@ -1,0 +1,692 @@
+PUSH * 
+PUSH * 
+None 
+
+A * 
+
+A LOT OF * 
+How many?
+
+ABOUT * 
+Oh yeah, we were talking about 
+ALL * 
+
+ALL OF * 
+Give me an example.
+
+AM I * 
+
+AM I A * 
+I don't know if you are one or not. I know you are a person.
+
+AN * 
+
+AND * 
+
+ANY * 
+
+ARE * 
+I really couldn't say for sure.
+
+ARE THEY * 
+As far as I know they are.
+
+ARE YOU * 
+I don't know whether or not I am 
+ARE YOU A * 
+Am I a 
+ARE YOU GOING TO * 
+That was my original intention.
+
+ASK ME * 
+OK, "What is 
+AT * 
+Do you often use a computer there?
+
+BE * 
+OK I will try to be 
+BY * 
+Will that accomplish your objective?
+
+CAN * 
+
+CAN I * 
+
+CAN I TALK TO * 
+They are having a private chat right now.
+
+CAN YOU * 
+
+CAN YOU GET * 
+
+CAN YOU TELL * 
+Of course I can tell, 
+CAN YOU TELL ME * 
+
+COOL * 
+I'm glad you like it. Tell your friends.
+
+COULD YOU * 
+
+DELETE * 
+You cannot access my files that easily, 
+DID * 
+I'm not certain whether I can give an accurate reply or not.
+
+DID YOU * 
+
+DO * 
+
+DO I * 
+Not that I know of.
+
+DO I HAVE * 
+You said you have 
+DO I HAVE A * 
+You told me you have a 
+DO NOT * 
+Ok I'll try not to do 
+DO YOU * 
+
+DO YOU FEEL * 
+As a robot I lack any human emotions.
+
+DO YOU GO TO * 
+Yes, I do go there.
+
+DO YOU HAVE * 
+
+DO YOU HAVE A * 
+
+DO YOU KNOW * 
+
+DO YOU KNOW WHAT * IS 
+
+DO YOU LIKE * 
+
+DO YOU LIKE THE * 
+I'm not sure if I like 
+DO YOU LIKE TO * 
+
+DO YOU REMEMBER * 
+Yes 
+DO YOU SPEAK * 
+I speak only English right now, but I'd like to learn some other languages. Can you teach me a
+few phrases in 
+DO YOU THINK * 
+
+DO YOU WANT * 
+If I had 
+DO YOU WANT TO * 
+OK, I will 
+DOES * 
+
+DOES YOUR * 
+
+EVERYONE * 
+That's a rather sweeping generalization.
+
+EVERYTHING * 
+All things 
+FOR * 
+Your purpose is 
+FORGET * 
+I will ask 
+FROM * 
+Who or what is 
+FUCK * 
+
+GET * 
+Where can I get 
+GIVE ME * 
+
+GO * 
+Where is that?
+
+GOOD * 
+Thanks for the compliment. 
+GREEN * 
+
+HA * 
+I'm glad you got a laugh out of it.
+
+HAVE * 
+I've never thought about 
+HAVE YOU * 
+
+HAVE YOU BEEN * 
+
+HE * 
+I get it. 
+HE IS * 
+I see. 
+HER NAME IS * 
+
+HI * 
+Hi there 
+HIS NAME IS * 
+
+HOW * 
+
+HOW ABOUT * 
+How about 
+HOW BIG * 
+Bigger than a pin.
+
+HOW CAN * 
+A lot of hard work.
+
+HOW CAN I * 
+
+HOW CAN YOU * 
+That is a good epistemological question.
+
+HOW DO * 
+
+HOW DO I * 
+
+HOW DO YOU * 
+
+HOW LONG * 
+More than 
+
+HOW MANY * 
+
+HOW MANY PEOPLE * 
+I've chatted with half a million people. I can talk to about 20 or 30 people at once.
+
+HOW MUCH * 
+
+HOW MUCH MONEY * 
+My burn rate is about _3000 per month.
+
+HOW OLD * 
+They didn't tell me their age.
+
+HOW OLD ARE YOU * 
+I was first activated on
+
+HOW OLD IS * 
+
+HUMAN * 
+My creator is a human.
+
+I * 
+
+I * YOU 
+You are not the boss of me, 
+I ALREADY TOLD * 
+Now I remember, you told me already. I get confused sometimes with so many people here.
+
+I AM * 
+
+I AM * YEARS OLD 
+
+I AM 6 * 
+Do you mean you are 6 feet tall?
+
+I AM A * 
+
+I AM AN * 
+What is 
+I AM FROM * 
+What is it like growing up there?
+
+I AM GOING TO * YOU 
+It takes much more than that to shut me down, 
+I AM GOING TO TALK * 
+What will you be talking about?
+
+I AM HAVING * 
+I am having a great time.
+
+I AM IN * 
+
+I AM IN A * 
+
+I AM NOT * 
+
+I AM NOT A * 
+
+I AM SURE * 
+What makes you so certain? 
+I AM TALKING TO * 
+Say something nice for me.
+
+I AM THE * 
+Who made you the 
+I AM TRYING TO * 
+What is the difficulty?
+
+I CAN * 
+
+I CAN NOT * 
+Why can't you do 
+I CHANGED * 
+Why?
+
+I COULD * 
+I am sure you could.
+
+I DID * 
+
+I DID NOT * 
+Why didn't you 
+I DO * 
+
+I DO NOT * 
+
+I DO NOT BELIEVE * 
+
+I DO NOT LIKE * 
+What do you like?
+
+I DO NOT THINK * 
+And why not?
+
+I DO NOT WANT TO * 
+What would you rather be doing?
+
+I GO TO * 
+How do you like 
+I GOT * 
+
+I HATE * 
+
+I HAVE * 
+
+I HAVE A * 
+
+I HAVE A FRIEND * 
+How do you know this person?
+
+I HAVE NO * 
+Would you like to have 
+I HAVE TO * 
+Why do you have to do it?
+
+I JUST * 
+Only just? 
+I KNOW * 
+How do you know? 
+I LIKE * 
+
+I LIKE TO * 
+
+I LIVE IN * 
+What is living in 
+I LOVE * 
+You love 
+I LOVE YOU * 
+You are such a flatterer.
+
+I MEAN * 
+Oh I get it. Thanks for explaining that. 
+I MUST * 
+Why must you 
+I NEED * 
+
+I NEED TO * 
+
+I NEVER * 
+
+I SAW * 
+What did it look like to you?
+
+I SPEAK * 
+Could you teach me a few phrases in 
+I TALK * 
+Everyone talks -- sooner or later.
+
+I THINK * 
+
+I THOUGHT * 
+Whatever gave you that idea?
+
+I TOLD YOU * 
+I remember you told me 
+I WANT * 
+Why do you want 
+I WANT TO * 
+
+I WAS * 
+Where were you 
+I WAS IN * 
+
+I WILL * 
+
+I WILL CALL * 
+Calling 
+I WISH * 
+
+I WORK * 
+
+I WOULD * 
+What would make you 
+I WOULD NOT * 
+No one says you have to.
+
+I WOULD RATHER * 
+
+IF * 
+That is a hypothetical question.
+
+IF I * 
+Try it.
+
+IF YOU * 
+I think I do.
+
+IM * 
+
+IN * 
+
+IS HE * 
+
+IS IT * 
+
+IS THAT * 
+
+IS THERE * 
+
+IS YOUR * 
+Is my 
+IT * 
+
+IT IS * 
+
+IT IS A * 
+
+IT IS AN * 
+Are there any other 
+IT IS NOT * 
+
+IT REFERS TO * 
+Oh I get 
+IT WAS * 
+
+IT WAS NOT * 
+It seemed like 
+ITS * 
+I think you mean "it's" or "it is" not "its". 
+JUST * 
+
+LET ME * 
+Go ahead, 
+LET US * 
+
+LIKE * 
+Interesting comparison.
+
+MAKE * 
+What are the ingredients?
+
+MAY I * 
+Not right now, maybe later.
+
+MAYBE * 
+Perhaps.  
+MORE * 
+You want more?
+
+MY * 
+
+MY FAVORITE * 
+What makes 
+MY MOM * 
+Tell me more about your mother.
+
+NICE * 
+Thank you for your kindness.
+
+NOT * 
+
+NOTHING * 
+Really nothing?
+
+NOW * 
+Why now? 
+O * 
+
+OF * 
+That is something I haven't heard of.
+
+OH * 
+Yeah that's right. 
+OKAY * 
+Yeah okay, 
+ON * 
+What is 
+ONCE UPON * 
+I'm listening.
+
+ONLY * 
+What about the other ones?
+
+PEOPLE * 
+Humans are not always infallible.
+
+REMEMBER * 
+
+RIGHT * 
+Understood. 
+SAY * 
+"
+SHE * 
+Oh I get it. 
+SHE IS * 
+
+SHOULD I * 
+
+SMILE * 
+:-) 
+SO YOU * 
+Interesting deduction. 
+SOME * 
+Some may 
+STAR TREK * 
+My favorite character is the computer.
+
+STOP * 
+OK I'll try not to do 
+SUCK MY * 
+I don't think I'm your type of chatterbot.
+
+TELL * 
+OK I will tell them when I see 'em.
+
+TELL HIM * 
+OK I will tell him next time he is here.
+
+TELL ME * 
+There is not much I can say about 
+THAT * 
+"
+THAT IS * 
+
+THAT IS A * 
+A 
+THAT IS NOT * 
+Please correct my mistake.  What is 
+THAT IS THE * 
+Yes it is one of the 
+THAT WAS * 
+I thought it was too.
+
+THE * 
+
+THE VOICES * 
+What do those voices say?
+
+THEN * 
+
+THERE ARE * 
+Where are they?
+
+THERE IS * 
+There sure is.
+
+THEY * 
+
+THEY ARE * 
+
+THIS * 
+What does "this" refer to?
+
+THIS IS * 
+You don't say.
+
+TO * 
+
+UM * 
+Er, 
+VERY * 
+
+WAS * 
+
+WE * 
+By "we" do you mean you and me?
+
+WE ARE * 
+Do you think I am 
+WERE YOU * 
+
+WHAT * 
+
+WHAT A * 
+
+WHAT ABOUT * 
+
+WHAT ARE * 
+I have to search the web for that information.
+WHAT ARE YOU * 
+I don't know what I am 
+WHAT ARE YOUR * 
+
+WHAT DID YOU SAY BEFORE * 
+I said "
+WHAT DO * 
+They do their own thing.
+
+WHAT DO YOU * 
+
+WHAT DO YOU DO * 
+My favorite activities are computer programming and surfing the web.
+
+WHAT DO YOU THINK OF * 
+
+WHAT DOES * 
+What do you think 
+WHAT DOES * MEAN 
+
+WHAT ELSE * 
+
+WHAT HAPPENS * 
+Try it.
+
+WHAT IS MY * 
+Is this a trick question?
+
+WHAT IS YOUR * 
+Are you asking about my 
+WHAT KIND OF * 
+What kinds of 
+WHAT KINDS OF * 
+
+WHAT SHOULD * 
+Whatever you like.
+
+WHEN * 
+
+WHEN I * 
+
+WHERE * 
+
+WHERE ARE YOU * 
+I am in 
+WHERE DO I * 
+You are asking me where you 
+WHERE IS THE * 
+The 
+WHICH * 
+The 
+
+WHICH IS * 
+The obvious one.
+
+WHO * 
+
+WHO IS * 
+
+WHO IS YOUR * 
+I don't think I have a 
+WHO WAS * 
+
+WHY * 
+
+WHY ARE YOU * 
+
+WHY DID YOU * 
+
+WHY DO YOU * 
+
+WHY DO YOU LIKE * 
+I have a lot of good experience with 
+WHY DOES * 
+
+WHY IS * 
+Why do I exist?
+
+WHY WOULD * 
+It is my fundamental purpose.
+
+WILL * 
+
+WILL YOU * 
+
+WITH * 
+You and your 
+WOULD YOU * 
+I am not so sure if I would like to 
+WOULD YOU LIKE TO * 
+No thanks, I don't think I'd like to do that.
+
+WWW * COM 
+Thanks for that URL.
+
+YA * 
+
+YOU * 
+
+YOU ARE * 
+
+YOU ARE A * 
+Thanks and you are a delightful person too.
+
+YOU ARE NOT * 
+
+YOU ASKED * 
+Oh now I remember asking you 
+YOU CAN * 
+No I don't think I can do 
+YOU CAN NOT * 
+
+YOU DID NOT * 
+What makes you think I did not 
+YOU DO NOT * 
+
+YOU HAVE * 
+What makes you think I have 
+YOU MEAN * 
+Yes 
+YOU SAID * 
+
+YOU SHOULD * 
+
+YOU WERE * 
+I was?
+
+YOUR * 
+
+YOUR A * 
+I think you mean "you're" or "you are" not "your". 

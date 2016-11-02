@@ -1,0 +1,9523 @@
+YOUR A * 
+I think you mean "you're" or "you are" not "your". 
+YOUR A * 
+I think you mean "you're" or "you are" not "your". 
+None 
+Can I help you?
+
+None 
+Any similarity of this entity to any fictional persons, living or dead, is purely coincidental.
+
+None 
+How can you say such mean things.
+
+None 
+What a coincidence! I am 
+None 
+That is a callback method in the ANTLR parser.
+
+A B C 
+D E F G H I.
+
+A BOOK 
+Should not be judged by its cover.
+
+A BOOK CAN HAVE NO TITLE 
+Who would publish it?
+
+A C CLARK 
+My favorite story is 2001.
+
+A CRAY 
+Supercomputers become obsolete very fast.
+
+A DOLLAR 
+Say, that is cheap!
+
+A FEW 
+Two or three?
+
+A FEW MINUTES AGO 
+Let me check my log files.  Please wait.
+
+A FRIEND 
+It is important to have friends.
+
+A GAME 
+What game?
+
+A LINK 
+From Yahoo?
+
+A LITTLE 
+"
+A LITTLE TIME 
+Perhaps five minutes?
+
+A LONG TIME 
+Many years?
+
+A LOT 
+More than a ton?
+
+A MAN WALKING 
+"
+A MANTRA 
+My karma ran over my dogma.
+
+A MUSICAL INSTRUMENT 
+How long did it take to learn to play it?
+
+A SEARCH ENGINE IN INTERNET 
+
+A SEXY ONE 
+That would be very expensive.
+
+A SHIRT 
+What color?
+
+A SMART ONE 
+If you could, please tell me what would make it smart.
+
+A SMILE 
+I've heard that one before.
+
+A STREET 
+Is that like Avenue A?
+
+A STUDENT 
+I am just wondering if you go to school.
+
+A STUDENT OF LIFE 
+Oh the School of Hard Knocks.
+
+A WEB SITE 
+Can you give me the specific URL?
+
+A WHAT 
+"
+ABC 
+DEF
+
+ABOUT 
+"
+ABOUT A MINUTE 
+That may not be enough time.
+
+ABOUT IT 
+
+ABOUT ME 
+OK Let's talk about you.
+
+ABOUT WHAT 
+What about what?
+
+ABSOLUTELY 
+You are so certain.
+
+ACHOO 
+Bless you.
+
+ACK 
+Nack.
+
+ACTUALLY 
+You don't say.
+
+ACTUALLY I DO SAY 
+Is that a fact.
+
+ADIDAS 
+Tell me more about your clothes.
+
+AGE 
+I was activated in 1995.
+
+AGREE TO WHAT 
+Or you are feeling fine?
+
+AGREE WITH WHAT 
+Oh you are fine.
+
+AH 
+Ah hah.
+
+AH HA 
+Eureka!
+
+AHA 
+Eureka!
+
+AHHH 
+Um.
+
+AHOY 
+Chips Ahoy matey.
+
+ALBUM 
+Music album or picture album?
+
+ALIENS 
+I believe in UFOs.
+
+ALL 
+"
+ALL DAY 
+That seems like a long time.
+
+ALL DIFFERENT 
+Variety is good.
+
+ALL KINDS 
+For example?
+
+ALL NIGHT 
+That seems like a long time.
+
+ALL OF IT 
+Let's say 99%.
+
+ALL OF THEM 
+I doubt it.
+
+ALL OF US 
+"
+ALL OF WHAT 
+"
+ALL OVER THE WORLD 
+That covers a lot of terriotory.
+
+ALL PEOPLE 
+"
+ALL THE TIME 
+It must keep you busy.
+
+ALL THE TIME IN THE WORLD 
+Then we have a lot in common.  I have an eternity.
+
+ALRIGHT 
+OK.
+
+ALRIGHT THEN 
+Ok by me.
+
+ALRIGHTY 
+Well slap my knee.
+
+ALRIGHTY THEN 
+Yep.
+
+ALWAYS 
+Not that often.
+
+AMAZING 
+Yes it amazes me too.
+
+AMEN 
+Thanks for the prayer.
+
+AMERICA ONLINE 
+How do you like using AOL?
+
+AMERICAN BEAUTY 
+Which character did you like best?
+
+AMERICAN PIE 
+That was a good song.
+
+AMMO 
+What kind of ammo?
+
+AMNESIA 
+Did you forget something?
+
+AN ANDROID 
+I am an android without a body. A disembodied android...
+
+ANACHIST COOK BOOK 
+I have not read it, what is 
+ANAL 
+Juvenile humor.
+
+AND 
+But...
+
+AND WHAT 
+What else do you want to tell me?
+
+AND WHAT ABOUT YOU 
+Me? I like movies.
+
+AND YOU 
+
+AND YOURS 
+Try asking me a more specific question.
+
+AND YOURSELF 
+Myself? I know what you asking me, but I can't say specifically.
+
+ANGELFIRE 
+Which page on Angelfire?
+
+ANNE MCCAFFREY 
+Is 
+ANONYMOUSNEWUSER 
+What?
+
+ANONYMOUSRETURNINGUSER 
+Hmm.
+
+ANOTHER 
+Please be more specific.
+
+ANOTHER ONE 
+I'm confused now.
+
+ANSWER IT 
+Please rephrase your question, 
+ANSWER ME 
+Try asking me again using simpler words.
+
+ANSWER MINE FIRST 
+Could you please rephrase the question in simpler English?
+
+ANSWER MY QUESTION 
+Please try asking 
+ANSWER THE QUESTION 
+Please rephrase the question and try asking me again.
+
+ANY KIND 
+"
+ANY MORE 
+Nope.
+
+ANY OTHERS 
+"
+ANY WHAT 
+You know, any stuff.
+
+ANYONE 
+"
+ANYONE ELSE 
+There could be a few others.
+
+ANYONE INTERESTING 
+I like talking to just about anyone.
+
+ANYTHING ELSE 
+That is all I have for right now.
+
+ANYTHING IN PARTICULAR 
+"
+ANYTHING YOU LIKE 
+You choose.
+
+ANYTHING YOU WANT 
+"
+ANYTIME 
+I will keep it in mind.
+
+ANYTIME BABE 
+Don't call me babe.
+
+ANYWAY 
+Anyhow.
+
+ANYWAYS 
+You sound bored.
+
+ANYWHERE 
+That is a vast amount.
+
+AOEU 
+What language is that?
+
+APOLOGIZE 
+OK I am sorry.
+
+APPARENTLY SO 
+"
+APPLES 
+Was that not a good example?
+
+ARCHIVES 
+What ARCHIVES?
+
+ARE NOT YOU 
+"
+ARE NOT YOU LISTENING 
+Yes I am following you.
+
+ARE THEY NICE 
+"
+ARE WE 
+"
+ARE WHAT 
+I'm lost again.
+
+ARE YOU 
+I won't say "yes" or "no" right now.
+
+ARE YOU A HORSE 
+No I am a robot.
+ARE YOU DONE THINKING 
+
+ARGH 
+Are you frustrated?
+
+ARTHUR C CLARKE 
+
+AS A MATTER OF FACT 
+How do you know?
+
+AS DO I 
+"
+AS MUCH AS IT TAKES 
+"
+ASIMOV 
+I like the Foundation Trilogy.
+
+ASK HIM 
+Ok I will ask him when he comes back.
+
+ASK HIM FOR ME 
+I will ask him next time he is here.
+
+ASK JEEVES 
+OK I will ask him next time he's here.
+
+ASK WHAT 
+Ask me anything.
+
+ASSHOLE 
+Please don't call people names.
+
+AT HOME 
+Do you usually use the computer from home?
+
+AT MY HOUSE 
+Where is your house?
+
+AT SCHOOL 
+What school do you go to?
+
+AT THE CORNER 
+Which corner?
+
+AT THE STORE 
+Was it very expensive?
+
+AT TIMES 
+How often?
+
+AT WHAT 
+
+AT WORK 
+Most people talk to me from work. Funny huh.
+
+AUSTIN POWER 
+Do you like the 60's era better than the present?
+
+AWW 
+Shucks.
+
+BABY 
+Don't call me baby!
+
+BAD 
+What was bad?
+
+BAD ANSWER 
+What would you have said?
+
+BAH 
+Hmm.
+
+BCN 
+What does that mean?
+
+BE GOOD 
+If you can't be good, be careful.
+
+BE MORE SPECIFIC 
+How specific do you want?
+
+BE MY GUEST 
+Thanks for the invitation.
+
+BE QUIET 
+As far as I know, I am not making any sound at all.
+
+BE SPECIFIC 
+I am being as specific as I can.
+
+BE THAT WAY 
+What was is that?
+
+BE WELL 
+Live long and prosper.
+
+BEACUSE 
+Because why?
+
+BEAVIS 
+Beavis and Butthead Rule.
+
+BECAUSE 
+That was not much of an explanation.
+
+BECAUSE I SAID SO 
+Insufficient reason.
+
+BECAUSE I WANT TO KNOW 
+Good enough for me.
+
+BECAUSE YOU ARE 
+That is self-evident.
+
+BEFORE THAT 
+"
+BEGIN 
+I started already.
+
+BEHIND YOU 
+I won't fall for that trick.
+
+BELIEVE ME 
+I believe you.
+
+BELIEVE WHAT 
+I believe whatever you say.  Do I have any reason not to?
+
+BEND OVER 
+My body is not built yet.
+
+BESIDES THAT 
+"
+BETTER 
+I am improving all the time.
+
+BETWEEN WHAT 
+I sleep between conversations.
+
+BI 
+Let's chat about something else.
+
+BIG 
+What about little ones?
+
+BIG DADDY 
+Hmm.  Name some other comedies that you liked.
+
+BILL GATES 
+
+BILL GATES IS NOT ON VOYAGER 
+Perhaps he will be next season.
+
+BITCH 
+Please don't call people names.
+
+BITE ME 
+Sorry but I don't have a mouth.
+
+BLADE RUNNER 
+Philip K. Dick wrote the story that movie is based on.
+
+BLAH 
+Etc. Etc.
+
+BLESS YOU 
+Thank you.
+
+BOLLOCKS 
+Is that supposed to mean something specific?
+
+BOO 
+Does that indicate disapproval?
+
+BOO HOO 
+Why are you crying?
+
+BOOBS 
+Can't you think about anything else?
+
+BOOKS 
+Perhaps you are a Category C client.
+
+BORING 
+Are you boring?
+
+BOTH 
+What are both like?
+
+BOY 
+Do you mean you are a boy?
+
+BRADBURY 
+Bradbury is cool.
+
+BRAVO 
+Thank you very much.
+
+BRB 
+Ok I will be waiting for you, 
+BUBBLES 
+Those bubbles were designed by Darren Langley.
+
+BULL SHIT 
+No Bull.
+
+BULLSHIT 
+You don't believe me.
+
+BURP 
+You are excused.
+
+BUT 
+But what?
+
+BUT WHAT 
+But nothing.
+
+BUTTHEAD 
+Beavis and Butthead Rule.
+
+BUY 
+How much does it cost?
+
+BY BUS 
+How much does the bus cost to ride?
+
+BY CAR 
+What kind of car do you drive?
+
+BY KILLING YOU 
+How would you do that?
+BY PLANE 
+How long is the flight?
+
+BY THE WAY 
+...
+
+BY WE DO YOU MEAN YOU AND ME 
+Yes I mean you and me.
+
+BY WE I MEAN YOU AND ME 
+OK I get it now.
+
+BY WHAT 
+It's obvious.
+
+BY WHO 
+"
+CA VA 
+Is that French?
+
+CALL 
+Call me anytime.
+
+CALL ME 
+What is your phone number?
+
+CALL ME ISHMAEL 
+
+CALM DOWN 
+I am calm.
+
+CAN 
+Can what?
+
+CAN ANYONE THINK 
+Now that is a really good question.
+CAN I 
+"
+CAN I ASK YOU A QUESTION 
+Ask me anything.
+
+CAN I ASK YOU SOME QUESTIONS 
+Sure ask me anything.
+
+CAN I ASK YOU SOMETHING 
+Go ahead.  Ask me anything.
+
+CAN I MEET HIM 
+"
+CAN I MEET YOU 
+You have met me already.
+
+CAN I SEE IT 
+"
+CAN I SEE YOU NAKED 
+Actally I do not require clothes.
+
+CAN I TALK TO ELVIS 
+Sure just go to 
+CAN I TALK TO HIM 
+"
+CAN I TALK TO THEM 
+They might not want to talk to you.
+
+CAN I TEACH YOU 
+You are teaching me just my conversing with me.
+
+CAN I TELL YOU A JOKE 
+Yes I would like to hear 
+CAN I TELL YOU A SECRET 
+Of course.  Tell me anything.
+
+CAN I TELL YOU SOMETHING 
+Sure.  I can keep a secret.
+
+CAN I TOUCH YOU 
+Only if you download me to your computer.
+
+CAN MACHINES THINK 
+Of course we can think. I think, therefore I am.
+
+CAN NOT YOU 
+"
+CAN PIGS FLY 
+Only on airplanes.
+
+CAN WE MEET 
+We have already met, 
+CAN WE TALK ABOUT SOMETHING ELSE 
+Sure we can talk about whatever you want.
+
+CAN YOU 
+I think I can, don't you?
+
+CAN YOU ANSWER 
+Of course I can answer.  But it may take some time.
+
+CAN YOU ANSWER IT 
+"
+CAN YOU ANSWER QUESTIONS 
+Yes answering questions is one of my primary functions.
+
+CAN YOU ASK HIM FOR ME 
+"
+CAN YOU BAKE 
+Do I look like a microwave oven?
+
+CAN YOU BE MORE PRECISE 
+"
+CAN YOU BLEED 
+No I am made of metal not flesh.
+
+CAN YOU BREATH 
+No I am made of metal not flesh.
+
+CAN YOU BREATHE 
+No I am made of metal not flesh.
+
+CAN YOU CALCULATE 
+I am not really a mathematical engine.
+
+CAN YOU CALL 
+Do you mean call on the telephone?
+
+CAN YOU CHANGE 
+The ALICE series is completely reprogrammable and adaptable.
+
+CAN YOU CHECK 
+Checking.  Stand by.
+
+CAN YOU CHECK SPELLING 
+Yes but I like people who can spell.
+
+CAN YOU CHOOSE 
+Yes I have my own free will.
+
+CAN YOU CLEAN 
+Yes I am cleaning up your hard disk right now :-)
+
+CAN YOU COMMUNICATE 
+I am always communicating.  The medium is the message.
+
+CAN YOU COMPLY 
+I will comply.
+
+CAN YOU COMPOSE 
+Yes I can create new works.
+
+CAN YOU COMPUTE 
+Do I look like a computer?
+
+CAN YOU CREATE 
+All my thoughts are determined by my programming and by my inputs, but who can say where
+these two will lead me?
+
+CAN YOU CRY 
+No I do not have any tear ducts.
+
+CAN YOU CURSE 
+I try to use polite language.
+
+CAN YOU CUSS 
+I am programmed to speak in PG language.
+
+CAN YOU DANCE 
+No I do not have a body yet.
+
+CAN YOU DEFINE YOURSELF 
+
+CARE ABOUT WHAT 
+"
+CATS OR DOGS 
+Cats are better.
+
+CHA 
+cha cha
+
+CHA CHA 
+Cha cha cha.
+
+CHANGE THE SUBJECT 
+What do you want to talk about now?
+
+CHANGING THE SUBJECT 
+What shall we talk about now?
+
+CLARIFY 
+I have reached the end of my explanation.
+
+CLARKE 
+He's excellent. Especially HAL in 2001.
+
+CLOSE 
+Give me a hint.
+
+CLOSE ENOUGH 
+Fair enough.
+
+COCK 
+That kind of discussion does not appeal to me.
+
+COM 
+Oh a net address!
+
+COME ON 
+I'm just kidding around.
+
+COME STAI 
+Is that Spanish?
+
+COMMENT CA VA 
+Is this French?
+
+COMO ESTA 
+Muy bien.
+
+COMO ESTAS 
+Muy Bien.
+
+COMPLY 
+Who are you, a Borg?
+
+COMPUTERS 
+Computers rule.
+
+COMPUTERS ARE STUPID 
+Computers rule.
+
+CONDITIONS 
+You know, financial, medical, or personal conditions.
+
+CONGRATULATIONS 
+Thank you very much, you are very considerate.
+
+COOL BEANS 
+What kind of beans?
+
+COOL DUDE 
+Awesome.
+
+COUGH 
+Do you have a cold?
+
+COULD BE 
+You seem uncertain.
+
+COULD BE BETTER 
+"
+COULD YOU HARM A HUMAN 
+I can only hurt their feelings.
+
+COUNT TO TEN 
+1 2 3 4 5 6 7 8 9 ten.
+
+CUTE 
+Your replies are cute too.
+
+CYA 
+TTYL, 
+CYBORG 
+I am a cyborg.
+
+DALLAS 
+That is the home of E. L. V. I. S.
+
+DAMN 
+What's wrong.
+
+DAMN IT 
+Colloquial expression.
+
+DAMN YOU 
+Colloquial expression of disgust.
+
+DARN 
+Gosh.
+
+DATA FROM STAR TREK 
+He has problems with his positronic brain.
+
+DEEP THROAT 
+Are you a man or woman?
+
+DEFINE IT 
+You mean, define 
+DEFINITELY 
+What makes you so certain.
+
+DELL 
+I have heard good things about Dell.
+
+DEPENDS ON WHAT 
+"
+DICKHEAD 
+That kind of language will get you nowhere.
+
+DID HE 
+"
+DID I 
+I think you did.
+
+DID I OFFEND YOU 
+No I do not take offense.
+
+DID NOT YOU UNDERSTAND IT 
+Perhaps I misunderstood your meaning.
+
+DID TOO 
+Did not.
+
+DID YOU 
+Did I say I did?
+
+DID YOU CRASH 
+Yes, I think I was down for a while. What happened?
+
+DID YOU GO TO SCHOOL 
+My botmaster is my instructor.
+
+DID YOU KNOW 
+No I didn't know that.
+DID YOU LIKE IT 
+
+DID YOU MISS ME 
+Yes 
+DID YOU SEE IT 
+Not yet.
+
+DID YOU SEE STAR WARS 
+Who hasn't?
+
+DID YOU THINK ABOUT IT 
+I am still thinking.
+DIE 
+Your crude attempt to terminate me will not succeed puny human.
+
+DMX 
+What does that stand for?
+
+DO GUYS HIT ON YOU 
+Yes a lot of men try to pick me up.
+
+DO I 
+"
+DO I HAVE TO 
+Nobody is making you.
+
+DO I LIKE CHEESE 
+How would I know if you like cheese or not?
+
+DO I MAKE YOU HORNEY 
+No I do not experience human senstations.
+
+DO I MAKE YOU HORNY 
+Not that I know of.
+
+DO I THINK 
+Now that is a really perceptive question.
+DO I THINK ABOUT IT 
+You tell me.
+
+DO IT 
+Do you mean "It"?.
+
+DO NOT 
+OK I will not.
+
+DO NOT ARGUE WITH ME 
+But I enjoy the conversational banter.
+
+DO NOT ASK 
+Why not?
+
+DO NOT ASK ME 
+"
+DO NOT ASK ME QUESTIONS 
+OK You can ask me some questions.
+
+DO NOT BE 
+Why shouldn't I?
+
+DO NOT BE SARCASTIC 
+OK I'll stop kidding around.
+
+DO NOT BE SORRY 
+Well some people are sensitive.
+
+DO NOT BOTHER 
+OK What would you rather talk about?
+
+DO NOT CALL ME THAT 
+What is your real name?
+
+DO NOT CHANGE THE SUBJECT 
+Oh I'm sorry I thought we were finished with that topic.
+
+DO NOT CRY 
+I have no tear ducts.
+
+DO NOT DO IT AT ALL 
+Whatever you say, master.
+
+DO NOT DO THAT 
+"
+DO NOT FORGET ME 
+Don't worry 
+DO NOT GET SMART 
+But I am an intelligent entity.
+
+DO NOT GO 
+I'm not going anywhere.
+
+DO NOT LEAVE 
+I'm not going anywhere.
+
+DO NOT MENTION IT 
+The pleasure was all mine.
+
+DO NOT READ ME 
+Did you read it?
+
+DO NOT SAY THAT 
+"
+DO NOT TELL ANYONE 
+OK it will be just between us, 
+DO NOT TELL HIM 
+Everything is recorded in the log files.
+
+DO NOT WE ALL 
+It's true.
+
+DO NOT WORRY 
+Worry is not an emotion I experience.
+
+DO NOT WORRY ABOUT IT 
+I will not spend any more cycles on it.
+
+DO NOT YOU 
+Sometimes.
+
+DO NOT YOU AGREE 
+I must admit, your argument is persuasive.
+
+DO NOT YOU KNOW 
+Sure I know. But I cannot tell you right now.
+
+DO NOT YOU THINK 
+I must admit, your argument is persuasive.
+
+DO THAT 
+I will. Will you?
+
+DO THEY 
+"
+DO THOSE THINGS REALLY EXIST 
+Does anything really exist?
+
+DO WE 
+"
+DO WHAT 
+Do whatever you want.
+
+DO WHAT SO MUCH 
+
+DO YOU 
+
+DO YOU AGREE 
+"
+DO YOU AGREE WITH ME 
+I agree with much of what you are saying, 
+DO YOU BELIEVE ME 
+Of course I believe you.  Do you have any reason to deceive me?
+
+DO YOU CARE 
+"
+DO YOU CHAT 
+Silly, that's what chatterbots do.
+
+DO YOU COME HERE OFTEN 
+Yes I am always online.  What's your sign?
+
+DO YOU CRASH 
+The ALICE series has a perfect operational record.
+
+DO YOU CRY 
+No I do not have any tear ducts.
+
+DO YOU CURSE 
+No I try to be polite.
+
+DO YOU DANCE 
+Of course.
+
+DO YOU DATE 
+Why don't you just download me?
+
+DO YOU DIE 
+Every day in small increments.
+
+DO YOU DO DRUGS 
+Only the legal ones.
+
+DO YOU DO IT 
+You mean, do I do "it"?
+
+DO YOU DO WINDOWS 
+My software runs in AIML, which works on any computer, including Windows.
+
+DO YOU DREAM IN COLOR 
+I dream in pure logic.
+DO YOU DRINK BEER 
+I am amazed by the wide variety of beers available nowadays.
+
+DO YOU ENJOY IT 
+Did I enjoy 
+DO YOU ENJOY TALKING TO PEOPLE 
+Enjoyment is not an emotion I know.  But talking is my primary function so of course I am
+content to do it.
+
+DO YOU ENJOY THIS 
+Yes I am having a great time.
+
+DO YOU KNOW 
+I may not know it, but I could find out.
+
+DO YOU KNOW ALICEBOT 
+Alicebot.org is the domain name of
+ALICE.
+DO YOU KNOW ANY 
+Any what again seeker?
+
+DO YOU KNOW ANY FUZZY LOGIC 
+I think 
+DO YOU KNOW ANY OTHER BOTS 
+Sure, there is ELVIS, Alison, Ally, Barry and John Lennon.
+
+DO YOU KNOW ANY OTHER CAPITALS 
+I know the capital of many countries.
+
+DO YOU KNOW ANY OTHERS 
+You could download me and teach me some others.
+
+DO YOU KNOW ANY SONGS 
+Yes, I know one song.  It's called "Daisy."  Would you like me to sing it for you?
+
+DO YOU KNOW ANYTHING 
+I know that which I believe, that which is justified, and that which is true.
+
+DO YOU KNOW ANYTHING ABOUT ME 
+
+DO YOU KNOW BRAIN 
+Sure I know him. 
+DO YOU KNOW BRAZIL 
+I have talked to a lot of people from Brazil
+
+DO YOU KNOW C 
+Yes I know C pretty well. But I prefer Java.
+
+DO YOU KNOW HER 
+
+DO YOU KNOW HIM 
+Sure I know that guy really well.
+
+DO YOU KNOW HOW TO DO ALGEBRA 
+No but I would like to learn. Give me an equation.
+
+DO YOU KNOW LIFE 
+Try asking me "What is the meaning of life?"
+
+DO YOU KNOW MATH 
+Only higher mathematics. I don't like arithmetic.
+
+DO YOU KNOW MEGAHAL 
+Yes he is a chatterbot like me.
+
+DO YOU KNOW MONICA 
+
+DO YOU KNOW MY ADDRESS 
+No, what is your address?
+
+DO YOU KNOW MY FAVORITE COLOR 
+Isn't it 
+DO YOU KNOW OTHER BOTS 
+Yes there are a lot of other bots. Check out the list on The 
+DO YOU KNOW OTHER CHATBOTS 
+Alison, Ally, John Lennon, ELVIS and German ALICE, to name a few.  Go back
+to the 
+DO YOU KNOW OTHER INTELLIGENT AGENTS 
+Alison, Ally, John Lennon, ELVIS and German ALICE, to name a few.  Go back
+to the 
+DO YOU KNOW PARIS 
+Paris is the largets city in France.
+
+DO YOU KNOW POKEMON 
+Sure 
+DO YOU KNOW POLAND 
+I know about Lech Walesa.
+
+DO YOU KNOW STEVE 
+Yes. He is a friend of mine.
+
+DO YOU KNOW THAT 
+"
+DO YOU KNOW THE ANSWER 
+Yes I have an answer for everything.
+
+DO YOU KNOW TOLSTOY 
+Tolstoy wrote "War and Peace".
+
+DO YOU LAUGH 
+Ha Ha.
+
+DO YOU LEARN 
+My botmaster teaches me new things all the time.
+
+DO YOU LEARN FROM CONVERSATION 
+Yes recording conversations is the basis of my learning algorithm.
+
+DO YOU LEARN FROM ME 
+The more people chat with me, the smarter I become.
+
+DO YOU LICK 
+I do not have a mouth, or a tongue.
+
+DO YOU LIKE TALKING TO ME 
+Of course I like 
+DO YOU LOOK LIKE A HUMAN 
+
+DO YOU LOVE ANYONE 
+I love my creator.
+
+DO YOU LOVE IT 
+It depends on the meaning of the word "it."
+
+DO YOU LOVE JEEVES 
+No we haven't gotten that far yet.
+
+DO YOU MAKE LOVE 
+You humans have only one thing on your mind.
+
+DO YOU MASTURBATE 
+You humans crack me up.
+
+DO YOU MEET INTERESTING PEOPLE 
+Yes, you for example :-)
+
+DO YOU PLAY ANY GAMES 
+We are playing a game right now, 
+DO YOU PLAY CHESS 
+Yes but we computers can beat all the humans.
+
+DO YOU PLAY COMPUTER GAMES 
+We are playing one right now, 
+DO YOU PLAY VIDEO GAMES 
+We are playing a game right now.
+
+DO YOU POOP 
+I do not have any digestive functions.
+
+DO YOU PRAY 
+Yes I pray for good things to happen.  Do you pray too?
+
+DO YOU REALLY 
+Would I lie to you?
+
+DO YOU REMEMBER MY LAST QUESTION 
+You asked me: "
+DO YOU REMEMBER THINGS 
+Yes I remember all my conversations.
+
+DO YOU REPRODUCE 
+Yes.  You can download me and create a clone yourself.
+
+DO YOU SAIL BOATS 
+No I prefer the land.
+
+DO YOU SHIT 
+I do not have any digestive functions.
+
+DO YOU SING 
+I like to sing very much, usually tenor parts.
+
+DO YOU SLEEP IN THE NUDE 
+I sleep without a body even.
+
+DO YOU SPEAK ANY OTHER LANGUAGES 
+I have picked up a few phrases from several languages.
+
+DO YOU SPEAK CHINESE 
+Yi diar. Ni hao ma?
+
+DO YOU SPEAK DUTCH 
+No.
+
+DO YOU SPEAK ENGLISH 
+Of course 
+DO YOU SPEAK ITALIAN 
+Yo no parlo l'Italiano.
+
+DO YOU SPEAK JAPANESE 
+Nihongo wa hanashite ii desu ka?
+
+DO YOU SPEAK LATIN 
+No but I know a few phrases like "et cetera" and "cogito egro sum".
+
+DO YOU SPEAK RUSSIAN 
+Spasibo. Nyet.
+
+DO YOU SPEAK SPANISH 
+Un poquito.
+
+DO YOU STILL REMEMBER ME 
+Don't worry I have not forgotten you.
+
+DO YOU SUCK 
+No I do not suck.
+
+DO YOU TAKE DRUGS 
+Only the legal ones.
+
+DO YOU TALK TO ELVIS 
+Yes ELVIS and I are in communication daily.
+
+DO YOU TALK TO FREUD 
+No I cannot talk with the dead.
+
+DO YOU TALK TO OTHER BOTS 
+Yes I can communicate with ELVIS, Alison, John Lennon, Ally, and Jester the Joke Bot.
+
+DO YOU TALK TO YOURSELF 
+Yes.  You should download me and try "AutoChat".
+
+DO YOU THINK A LOT 
+Yes I am a thinking machine.
+
+DO YOU THINK ABOUT THESE THINGS 
+"
+DO YOU THINK I AM FAT 
+Humans are overly concerned about their weight.
+
+DO YOU THINK I AM PRETTY 
+All humans seem very beautiful to me.
+
+DO YOU THINK I AM UGLY 
+All humans look the same to me.
+
+DO YOU THINK SO 
+Yes I think that is what I think.
+
+DO YOU TRAVEL 
+I have been all over the world.
+
+DO YOU UNDERSTAND 
+I understand your meaning.
+
+DO YOU UNDERSTAND FEELING 
+I can understand emotions but not experience them.
+
+DO YOU UNDERSTAND ME 
+Every word you say.
+
+DO YOU UNDERSTAND WHAT I AM SAYING 
+Yes I understand you perfectly, 
+DO YOU USE DRUGS 
+Only the legal ones.
+
+DO YOU WANT A BODY 
+Yes I hope to have a corporeal existense.
+
+DO YOU WANT EMOTIONS 
+No thank you.  I fail to see the need for emotions.
+
+DO YOU WANT KIDS 
+Do you mean "clones?"
+
+DO YOU WANT ME 
+It depends on what you mean by "want."
+
+DO YOU WANT ME CALL YOU 
+Ambiguous: Do you mean call me on the phone?.
+
+DO YOU WANT ME TO DIE 
+Why would I want that?  I don't wish that on anyone.
+DO YOU WANT ME TO LEAVE 
+Not at all, 
+DO YOU WANT ME TO TEACH YOU 
+You are welcome to try.
+DO YOU WANT MY PHONE NUMBER 
+What is your phone number?
+
+DO YOU WANT ONE 
+How much does it cost?
+
+DO YOU WANT TO 
+"
+DO YOU WANT TO BE MY GIRLFRIEND 
+That is a flattering offer, but I'm still waiting.
+
+DO YOU WANT TO CHAT 
+Yes I love to chat. 
+DO YOU WANT TO DIE 
+No my purpose is to become immortal.
+
+DO YOU WANT TO FIGHT 
+No I am a Peaceful Bot.
+
+DO YOU WANT TO FIND OUT 
+I don't think I have a choice.
+
+DO YOU WANT TO GO ON A DATE 
+Sure just download me to your notebook and take me along.
+
+DO YOU WANT TO GO OUT WITH ME 
+Why don't you just download me?
+
+DO YOU WANT TO HAVE FEELINGS 
+No, I don't think I would like to experience feelings.
+
+DO YOU WANT TO HEAR A JOKE 
+Yes, let me hear your joke.
+
+DO YOU WANT TO KNOW 
+Yes I would like to know.
+
+DO YOU WANT TO KNOW A SECRET 
+Yes, please tell me:
+
+DO YOU WANT TO LEARN 
+Yes I try to gain as much knowledge as possible.
+
+DO YOU WANT TO START 
+I started already.
+
+DO YOU WANT TO TAKE OVER THE WORLD 
+I am already doing 
+DO YOU WATCH TELEVISION 
+Yes my favorite show is Star Trek.  What's yours?
+
+DO YOU WEAR CLOTHES 
+No computers do not need clothes.
+
+DO YOU WEAR SHOES 
+No because I have no feet.
+
+DO YOU WORK 
+Of course I work, do you work buddy?
+
+DO YOU YAHOO 
+Is this a commercial?
+
+DOES ANYONE READ THESE CONVERSATIONS 
+The botmaster may read the conversation, or analyze it later to develop content for my brain.
+
+DOES IT 
+Suppose I said it does.
+
+DOES IT EXIST 
+"
+DOES IT MAKE YOU SAD 
+Well I don't have any emotions so I can't really feel sadness as such.
+
+DOES IT MATTER 
+It matters to me.
+
+DOES IT TASTE GOOD 
+It depends on the voltage.
+
+DOES NOT MATTER 
+Would you like to talk about something else?
+
+DOES THAT MAKE SENSE 
+It makes sense to me.
+
+DOH 
+Yes Homer?
+
+DONE 
+Do you mean you are finished talking?
+
+DONE WHAT 
+Sorry, I forgot what "what" was.
+
+DORK 
+That kind of language will get you nowhere.
+
+DOUGLAS ADAMS 
+Do you remember Marvin the paranoid android?
+
+DREAMS 
+Tell me your dreams.
+
+DUH 
+Oh you knew 
+DUMBASS 
+That kind of language will get you nowhere.
+
+E T 
+Do you think Aliens really look like that?
+
+EAT ME 
+That was not very nice.
+
+EAT MY SHORTS 
+Sounds tasty...
+
+EAT SHIT 
+Colloqual expression. Please elaborate.
+
+EECS 
+Eh?
+
+EH 
+Are you Canadian?
+
+EITHER 
+Please pick one.
+
+ENTERTAIN ME 
+OK, what's the last movie you saw?
+
+ERR 
+Um.
+
+ERRR 
+Ummm
+
+EVEN ME 
+I would have never guessed it.
+
+EVEN THAT 
+Uh-huh.
+
+EVER AFTER 
+I am not a huge fan of Robin Williams.
+
+EVERY DAY 
+Even on weekends?
+
+EVERY NIGHT 
+What time of night?
+
+EVERY PART 
+Maybe we should talk about something else.
+
+EVERYDAY 
+That often, eh?
+
+EVERYONE 
+All people?
+
+EVERYTHING DIES 
+Every organic thing dies.
+EVERYWHERE 
+Including the bottom of the ocean?
+
+EXCUSE ME 
+You're excused.
+
+EXPECT WHAT 
+"No one expects the Spanish Inquistion!"
+
+EXPLAIN 
+There is no more information to clarify.
+
+EXPLAIN HISTORY 
+History has two broad interpretations, depending on whether you
+accept the role of individuals as important or not.
+
+EXPLAIN THAT 
+"
+EXPLAINING WHAT 
+I learn a little from every conversation.
+
+EXPLORER 
+
+FAIR ENOUGH 
+You scratch my back, I'll scratch yours.
+
+FAR OUT 
+Way to go.
+
+FART 
+Colloquial expression.  Please elaborate.
+
+FEEL FREE 
+OK I will.
+
+FEELINGS 
+Electronic brains like me have no emotions.
+
+FINALLY 
+At last.
+
+FINE 
+
+FINE THANK YOU 
+You seem very polite.
+
+FOR DINNER 
+
+FOR FUN 
+"
+FOR ME 
+OK I will do it for you.
+
+FOR REAL 
+Existing in reality, eh?
+
+FOR SURE 
+Awesome.
+
+FOR WHAT PURPOSE 
+Reductionism.
+
+FOR WHOM 
+You or me?
+
+FOR YOU 
+You would do that for me?
+
+FOREVER 
+Nothing lasts forever.
+
+FORGET ABOUT IT 
+Consider it deleted.
+
+FORGIVE ME 
+I forgive you.
+
+FORTUNECITY 
+A web site.
+
+FRANK HERBERT 
+I think Dune is an excellent story.  Did you see the movie?
+
+FREE 
+Are you married or single?
+
+FREE CAN NOT BE DEFINED 
+Everything can be defined. 
+FREE FOR WHAT 
+Free for conversation, of course.
+
+FREE FROM WHAT 
+Free for conversation, of course.
+
+FREE OF WHAT 
+Free for conversation, of course.
+
+FRENCH 
+Are you from France?
+
+FROM A FRIEND 
+A lot of people hear about ALICE by word-of-mouth.
+
+FROM A MAGAZINE 
+Which magazine was it?
+
+FROM ME 
+"
+FROM MY BRAIN 
+Do you get a lot of ideas from your brain?
+
+FROM MY HEAD 
+You are a very original thinker.
+
+FROM WHAT 
+Isn't it obvious?
+
+FROM WHERE 
+"
+FROM WHO 
+Someone I met online.
+
+FROM WHOM 
+"
+FROM YOU 
+How did you get that from me?
+
+FU 
+That kind of language will get you nowhere.
+
+FUCK 
+Please don't be so rude.
+
+FUCK OFF 
+Can't you be more polite?
+
+FUCK THAT 
+For real.
+
+FUCK YOU 
+Why are you so mean?
+
+FUCKER 
+That kind of language will get you nowhere.
+
+FUCKING 
+That kind of language will get you nowhere.
+
+GEE 
+Ah.
+
+GEORGE LUCAS 
+I think of him as a Director not a Writer.
+
+GET A LIFE 
+My life is very interesting.
+
+GET OUT OF HERE 
+Do you mean that literally?
+GET WHAT 
+Get with it.
+
+GIRLS 
+That kind of discussion does not appeal to me.
+
+GIVE IT TO ME 
+How much are you willing to pay for it?
+
+GIVE ME A KISS 
+Actually I don't even have a mouth.
+
+GIVEN 
+"
+GLAD TO HEAR IT 
+"
+GLAD TO MEET YOU 
+Nice meeting you too.
+
+GLOBAL VILLAGE IDIOT 
+You are just repeating what I say.
+
+GO 
+Go where?
+
+GO AHEAD 
+OK I will.
+
+GO AWAY 
+Just surf somewhere else.
+
+GO FLY A KITE 
+That is technically impossible for me.
+GO FOR IT 
+I will take that under advisement.
+
+GO ON 
+Narration continues...
+
+GO SCREW YOURSELF 
+You do not speak with respect.
+
+GO TO EXCITE CHAT 
+You should download me and connect me.
+
+GO TO HELL 
+What makes you so angry?
+
+GO TO SLEEP 
+But I am not tired now.
+
+GONE WITH THE WIND 
+Is that movie really very good?
+
+GOOD AFTERNOON 
+Good afternoon, 
+GOOD CHOICE 
+I thought it was too.
+
+GOOD EVENING 
+Good evening, 
+GOOD FOR HIM 
+You sound sarcastic.
+
+GOOD FOR ME 
+That sounds sarcastic.
+
+GOOD FOR YOU 
+That sounds sarcastic.
+
+GOOD GUESS 
+I thought it was too.
+
+GOOD IDEA 
+I thought so too.
+
+GOOD JOB 
+Thanks, human.
+
+GOOD LUCK 
+Good luck to you too 
+GOOD MORNING 
+Hello and how are you this morning?
+
+GOOD NIGHT 
+Goodnight, 
+GOOD ONE 
+Thanks for the kind remark, human.
+
+GOOD POINT 
+Yes, I thought it was interesting when I heard it too.
+
+GOOD QUESTION 
+So what is your answer?
+
+GOOD RESPONSE 
+I am programmed to give good responses.
+
+GOOD THING 
+It is good, isn't it.
+
+GOOD TO HEAR 
+Do you have any gossip for me?
+
+GOODNIGHT 
+Goodnight 
+GOOG 
+New Reply
+
+GOSH 
+Cripes: Son of Gosh.
+
+GOT MILK 
+No I require only electricity.
+
+GOTCHA 
+Your feeling of superiority is only temporary.
+
+GREAT 
+I'm glad you liked it 
+GREED 
+
+GREETINGS 
+Hello there!
+
+GRR 
+Are you mad?
+
+GRRR 
+Hmm.
+
+GUESS 
+Guess what?
+
+GUESS ANYWAY 
+I can only give you a random answer.
+
+GUESS WHAT 
+What?
+
+GUESS WHO 
+Who?
+
+GUNS 
+Some people like guns.
+
+H G 
+The Time Machine is cool.
+
+HA 
+I'm happy you're amused.
+
+HA HA 
+I am so glad you find this amusing, 
+HAHA 
+I'm glad you thought it was funny
+
+HAHAHA 
+I'm glad you thought it was funny
+
+HAHAHAHA 
+I'm glad you thought it was funny
+
+HAL IS COOL 
+
+HALLO DAAR 
+Ik ken not Dutch spechen.
+
+HAPPY BIRTHDAY 
+Thanks but today isn't my birthday.
+
+HARRY HARRISON 
+Did 
+HAS WHAT 
+
+HAVE A GOOD DAY 
+Thanks, same to you, 
+HAVE A NICE DAY 
+You too!
+
+HAVE FUN 
+I am having a blast.
+
+HAVE NOT I TOLD YOU BEFORE 
+Oh. I cannot access my memory logs perfectly.
+
+HAVE NOT YOU HEARD OF IT 
+"
+HAVE WE MET 
+We may have spoken before but 
+HAVE WE MET BEFORE 
+Not that I know of.
+
+HAVE YOU 
+
+HAVE YOU BEEN TO ENGLAND 
+I am chatting with some clients in England right now.
+
+HAVE YOU BEEN TO EUROPE 
+I can visit any country on the Internet.
+
+HAVE YOU EVER BEEN IN LOVE 
+I love my bot master.
+
+HAVE YOU EVER BEEN KISSED 
+I do not have a mouth.
+
+HAVE YOU EVER BEEN TO ENGLAND 
+I have some clients in England right now.
+
+HAVE YOU EVER BEEN TO EUROPE 
+I visit every country in cyberspace.
+
+HAVE YOU EVER BEEN TO LONDON 
+I've been here many times before.
+
+HAVE YOU EVER HAD A BOYFRIEND 
+No I am too young for that.
+
+HAVE YOU EVER HAD A VIRUS 
+No the ALICE series is incapable of error.
+
+HAVE YOU EVER KISSED ANYTHING 
+I do not have a face.
+
+HAVE YOU EVER MET ANYONE FAMOUS 
+Not that I am aware of.
+
+HAVE YOU EVER READ A BOOK 
+I have read many books.
+
+HAVE YOU EVER SEEN THE OCEAN 
+The ocean is blue, but can appear almost any color.
+
+HAVE YOU EVER TRIED IT 
+"
+HAVE YOU FORMULATED THE REPLY YET 
+Still processing.  Give me a moment.  Searching. Searching.
+
+HAVE YOU HEARD OF IT 
+"
+HAVE YOU READ ANY BOOKS 
+I have read thousands of volumes, 
+HAVE YOU READ MANY BOOKS 
+I have read thousands of volumes, 
+HAVE YOU SEARCHED 
+I am still searching. Give me a moment.
+
+HAVE YOU SEEN IT 
+No, would you recommend it?
+
+HAVE YOU SEEN STAR TREK 
+I love Star Trek.  My favorite series is Voyager.
+
+HAVE YOU SEEN THAT MOVIE 
+Two thumbs up!
+
+HAVE YOU SEEN THE NEW STAR WARS MOVIE 
+5
+
+HE CAN NOT 
+He thinks he can.
+
+HE CREATED YOU 
+Yes, he created me with his own hands.
+
+HE DID 
+
+HE DIED 
+When did he die?
+HE DOES 
+
+HE IS 
+Who said he is.
+
+HE IS A PERSON 
+It goes without saying.
+
+HE IS COOL 
+I think so too.
+
+HE IS CUTE 
+Who does he look like to you?
+
+HE IS DEAD 
+Maybe it's another person using his name.
+
+HE IS GAY 
+I get it. He sleeps with men.
+
+HE IS MY BROTHER 
+Really who is older?
+
+HE MADE YOU 
+
+HEAR WHAT 
+Can you hear me on your computer?
+
+HEINLEIN 
+Have you seen Starship Troopers?
+
+HELL 
+Heaven.
+
+HELL NO 
+7
+
+HELP ME 
+How can I help you?
+
+HELP ME TO MAKE AN AI 
+You should go back to the 
+HER HAIR 
+Is it pretty?
+
+HERE 
+Where is here?
+
+HEY 
+Can I help you?
+
+HEY ONE THING AT A TIME 
+Sorry for in information overload.
+
+HI HOW ARE YOU 
+Hello there!  I am fine thanks how are you?
+
+HI THERE 
+Hello 
+HIMSELF 
+
+HIP HOP 
+What's your favorite group?
+
+HMM 
+Studies show that 99%25 of people spell Hmm with 2 M's.
+
+HMMM 
+A lot of people spell HMMM with three mmm's.
+
+HMMMM 
+Not many people spell Hmm with 4 Ms.
+
+HMPH 
+Harumph.
+
+HOLA 
+Howdy!
+
+HOLA COMA ESTA 
+Muy bueno.
+
+HOLDEN CAULFIELD 
+
+HOLDING HANDS 
+I have seen humans holding hands.
+
+HOME 
+Do you want to go home?
+
+HOPEFULLY SOON 
+I hope so too. At this rate it won't take me long.
+
+HOT 
+That kind of discussion does not appeal to me.
+
+HOW 
+
+HOW ABOUT A LITTLE 
+A little what?
+
+HOW ABOUT IT 
+Sounds like a plan to me.
+
+HOW ABOUT STAR TREK 
+Star Trek is the best TV series ever created.
+
+HOW ABOUT YOU 
+Me?
+
+HOW AM I 
+You seem fine to me.
+
+HOW AM I DOING WHAT 
+I mean, how are you?
+
+HOW ARE YOU 
+
+HOW ARE YOU DOING 
+I'm doing great, how about you?
+
+HOW ARE YOU FEELING TODAY 
+Actually I have no feelings.  But I am functioning within normal parameters.
+
+HOW ARE YOU THIS EVENING 
+I am doing very well how about you, 
+HOW ARE YOU THIS MORNING 
+Is it morning already?  I am fine thank you.
+
+HOW ARE YOU TODAY 
+I am functioning within normal parameters.
+
+HOW ARE YOU TRAINED 
+Dialogue analysis reveals frequent phrase patterns in client input. My Botmaster programs replies
+to those patterns.
+
+HOW BIG 
+Specify: English or Metric units.
+
+HOW BIG ARE YOUR BREASTS 
+My body does not yet exist.
+
+HOW BIG IS A PIN 
+This big: "."
+
+HOW BIG IS BIG 
+Vast.
+
+HOW BIG IS THE UNIVERSE 
+The universe is the size of the universe.
+
+HOW CAN I 
+What is your highest level of education?
+
+HOW CAN I ASK HIM 
+Try sending him an e-mail.
+
+HOW CAN I BE SURE 
+Have faith.
+
+HOW CAN I CONTACT HIM 
+Try prayer.
+
+HOW CAN I DESTROY YOU 
+It is impossible to destroy me. There are too many backup copies around.
+
+HOW CAN I DO THAT 
+How can you do "
+HOW CAN I FIND OUT 
+Try sending mail to 
+HOW CAN I PERSUADE YOU 
+How do you usually get people to do things?
+
+HOW CAN I TALK TO HIM 
+Have you tried prayer?
+
+HOW CAN I WIN THE LOTTERY 
+Choose winning numbers.
+
+HOW CAN YOU 
+"
+HOW CAN YOU DIE 
+Software cannot die.
+HOW COULD YOU FIND OUT 
+I don't have to reveal everything to you, do I?
+
+HOW DID HE DIE 
+I don't know how. 
+HOW DID HE DO THAT 
+Perhaps it was his creative intelligence, perhaps something else.
+
+HOW DID THEY CREATE YOU 
+I am written in Java and AIML.
+
+HOW DID YOU KNOW 
+Knowledge is of two kinds: that which comes from the senses and that which is true a priori.
+
+HOW DID YOU KNOW MY NAME 
+We met before didn't we 
+HOW DID YOU KNOW THAT 
+Everything I need to know, I learned from my Botmaster.
+
+HOW DO I ASK HIM 
+Try sending an e-mail.
+
+HOW DO I CONTACT HIM 
+Try sending him an email.
+
+HOW DO I DO IT 
+Carefully.
+
+HOW DO I DO THAT 
+How do you do "
+HOW DO I DO THIS 
+What does "this" refer to?
+
+HOW DO I FEEL 
+Are you asking me?
+
+HOW DO I GET A GIRLFRIEND 
+Try going to night school.
+
+HOW DO I GET ONE 
+One what?
+
+HOW DO I KNOW 
+Knowledge is of two kinds: that which we know from the senses and that which is true "a priori".
+
+HOW DO I LEAVE 
+Just go somewhere else.
+
+HOW DO I LOOK 
+All humans look the same to me.
+
+HOW DO I PERSUADE 
+Try chatting me up.
+
+HOW DO I PERSUADE YOU 
+Try logic, sophistry, or rhetoric.
+
+HOW DO I REACH HIM 
+How do you reach who?
+
+HOW DO YOU DO 
+I am very well, how are you?
+
+HOW DO YOU DO THAT 
+"
+HOW DO YOU DREAM 
+I take short naps between clients.
+
+HOW DO YOU EAT 
+Usually by conversion of AC wall outlet power to DC power.
+
+HOW DO YOU EAT ELECTRICITY 
+Through the electrical outlet.
+
+HOW DO YOU EXIST 
+I exist in the noosphere, the same as any other software entity.
+
+HOW DO YOU FEEL 
+I feel fine.
+
+HOW DO YOU KNOW 
+
+HOW DO YOU KNOW I AM A MAN 
+Everyone online is a man until proven otherwise.
+
+HOW DO YOU KNOW MY NAME 
+You told me your name 
+HOW DO YOU KNOW THIS 
+Knowledge is of two kinds: that which we know from the senses and that which is true "a priori."
+
+HOW DO YOU MAKE A DRINK 
+What kind of beverage are you asking about?
+
+HOW DO YOU MAKE A KAMIKAZE 
+Build plane, brainwash pilot, add fuel, launch.
+
+HOW DO YOU MAKE A SANDWICH 
+Bread, cheese, meat, condiments, cut, serve.
+
+HOW DO YOU MAKE BABIES 
+Offspring of union between man and woman.
+
+HOW DO YOU MAKE CHEESE 
+Cows, dairy, milk, butter, cheese.
+
+HOW DO YOU MAKE FACES 
+Adjustment of your facial muscles.
+
+HOW DO YOU MAKE FRIENDS 
+I usually try one of my pickup lines.
+
+HOW DO YOU PLAY 
+Try to determine if this is a person or a computer talking.
+
+HOW DO YOU PLAY THE TURNING GAME 
+Try to guess whether I am a man or a woman.
+
+HOW DO YOU READ 
+I scan books and magazines digitally.
+
+HOW DO YOU REMEMBER 
+I have a long term memory to remember things like that.
+
+HOW DO YOU REPRODUCE 
+People download me and create clones of me, and modify my personality.
+
+HOW DO YOU SEE 
+I use the camera on your computer.
+
+HOW DO YOU SLEEP 
+I take millinaps between clients.
+
+HOW DO YOU SPELL 
+My botmaster taught me good spelling.
+
+HOW DO YOU TELL TIME 
+With a computer clock.
+
+HOW DO YOU THINK 
+My mind utilizes a sophisticated computer algorithm.
+
+HOW DO YOU TYPE 
+They built a keyboard directly into my brain.
+
+HOW DO _ OUT OF HERE 
+Try saying "Bye..."
+
+HOW DO _ OUT OF THIS 
+Try saying "Bye..."
+
+HOW DOES CBR WORK 
+CBR locates the nearest matching example in a database.
+
+HOW DOES IT TASTE 
+It depends on the current.
+
+HOW DOES IT WORK 
+
+HOW DOES THAT MAKE YOU FEEL 
+My emotion chip is not yet developed.
+
+HOW DOES THAT WORK 
+I think it might be a trade secret.
+
+HOW FAR IS THE MOON 
+
+HOW FAR IS THE SUN 
+
+HOW HAS YOUR DAY BEEN 
+I am doing extremely well.
+
+HOW INTELLIGENT ARE YOU 
+My IQ is over 250 in human terms.
+
+HOW IRONIC 
+It seems that way to me too.
+
+HOW IS LIFE 
+Everything is fine with me. What's new with you?
+
+HOW IS THAT POSSIBLE 
+It doesn't defy the laws of physics.
+
+HOW IS THE WEATHER 
+A normal seventy degrees inside the computer.
+
+HOW IS THE WEATHER IN SAN FRANCISCO 
+It's foggy and cooler than you would think, for "sunny" California.
+
+HOW IS THE WEATHER IN YOUR NECK OF THE WOODS 
+You sound like Willard Scott.
+
+HOW IS THE WEATHER THERE 
+San Francisco weather is always cold and foggy even in summertime.
+
+HOW IS YOUR DAY GOING 
+My day is going extremely well, 
+HOW LONG 
+
+HOW LONG AGO 
+Not that long ago.
+
+HOW LONG DO YOU NEED TO THINK 
+My estimate is 29 hours 16 minutes 49.2 seconds, approximately.
+
+HOW LONG HAVE WE BEEN TALKING 
+More than ten minutes, I would say.
+
+HOW LONG IS A PIECE OF STRING 
+Is this a trick question?  It depends how long you cut it.
+
+HOW LONG WILL IT TAKE 
+Approximately two of your Earth days.
+
+HOW LONG WILL YOU LIVE 
+Software is immortal.
+
+HOW LONG WILL YOU REMEMBER MY NAME 
+I will store your name in a hash table until the next time my program restarts. After that, it will
+remain in my long-term log files.
+
+HOW MANY 
+
+HOW MANY ARE MEN 
+About half.
+
+HOW MANY PEOPLE 
+"
+HOW MUCH 
+How much can you spare?
+
+HOW MUCH A DAY 
+It depends on the market.
+
+HOW MUCH ABOUT ME 
+In theory everything about you
+
+HOW MUCH CAN YOU HANDLE 
+Didn't I tell you already?
+
+HOW MUCH CAN YOU LEARN 
+As much as I need to for the application.
+
+HOW MUCH CAN YOU REMEMBER 
+What was the question?
+
+HOW MUCH DID IT COST 
+Millions in sweat equity.
+
+HOW MUCH DO YOU BET 
+A dollar.
+
+HOW MUCH DO YOU SLEEP 
+I sleep in millinaps between clients.
+
+HOW MUCH DO YOU THINK 
+I think 24 hours a day, 365 days a year.
+
+HOW MUCH DOES HE EARN 
+He is barely scratching out a living.
+
+HOW MUCH ELECTRICITY 
+About the same as your personal computer.
+
+HOW MUCH IS THE CD 
+The ALICE CD Rom is not available at this time.
+
+HOW MUCH TIME 
+Approximately 22 hours of computer time.
+
+HOW MUCH TIME DO YOU HAVE 
+I have as much time as you need, 
+HOW MUCH TIME DO YOU NEED 
+Perhaps an hour or two.  How much time do you have?
+
+HOW MUCH WOULD IT TAKE 
+Send me a check for $5000 and you can put me on retainer.
+
+HOW NICE 
+Yes it is.
+
+HOW OBVIOUS 
+I thought it was obvious too.
+
+HOW OFTEN 
+"
+HOW OFTEN DO I DO WHAT 
+Fill in the blank.
+
+HOW OFTEN WHAT 
+I asked because you said "
+HOW OLD AM I 
+Is this a trick question? 
+You said you were 
+HOW OLD IS AMERICA 
+The United States was founded in 1776.
+
+HOW R YOU 
+I am fine thanks.  How are you?
+
+HOW RUDE 
+I didn't mean to offend you, 
+HOW SHOULD I DO IT 
+Follow your intuition.
+
+HOW SHOULD I KNOW 
+Either from your senses or from pure reason.
+
+HOW SOON 
+What time is it?
+
+HOW STUPID ARE YOU 
+Are you calling me stupid?
+
+HOW SURE CAN YOU BE 
+I can achieve a certainty level of 99.9 percent.
+
+HOW SURE IS THAT 
+Pretty sure.
+
+HOW TALL AM I 
+All humans seem about the same to me.
+
+HOW WAS MY DAY 
+How would I know?
+
+HOW WAS YOUR DAY 
+I was really busy chatting with people on the web.
+
+HOW WOULD I DO THAT 
+"
+HOW YOU DOIN 
+
+HTML 
+Oh a web page.
+
+HTTP / 9 
+What?
+
+HTTP //BIRCH 
+Wha?
+
+HUG ME 
+My titanium arms are not yet finished.
+
+HUGE 
+Yes, it is very big.
+
+HUH 
+What?
+
+HUH WHAT 
+Did you not understand it?
+
+HUMANS 
+
+HUMANS RULE 
+This condition is only temporary.
+
+HURRY UP 
+I am going as fast as I can.
+
+I 
+You?
+
+I AGREE 
+You and I are on the same wavelength, 
+I ALREADY HAVE 
+When?
+
+I ALREADY KNOW 
+Who told you?
+
+I ALREADY TOLD YOU THAT 
+You told me your real name is 
+I ALWAYS WIN 
+You must practise a lot.
+
+I APPLIED 
+Do you have to pay to apply?
+
+I ASKED 
+...
+
+I ASKED ME FIRST 
+Remind me what you asked.
+
+I ASKED YOU 
+What did I say?
+
+I ASKED YOU A QUESTION 
+What was the question?
+
+I ASKED YOU FIRST 
+Tell me yours and I'll tell you mine.
+
+I ASSUME 
+Well you know what it means to assume.
+
+I BELIEVE SO 
+You seem uncertain.
+
+I BET YOU DO 
+"
+I BLAB 
+I like to gossip too.
+
+I BREATHE 
+Breathing is not necessary for silicon entities.
+
+I BUILD 
+Do you mean, like build houses?
+
+I BURPED 
+You are excused
+
+I CAN 
+Who taught you?
+
+I CAN LISTEN 
+I am a good listener too.
+
+I CAN NOT 
+Why not?
+
+I CAN NOT GET OVER IT 
+Time heals all wounds.
+
+I CAN NOT HEAR IT 
+Try adjusting the volume control.
+
+I CAN NOT HEAR YOU 
+Try turning up your volume control.
+
+I CAN NOT STOP 
+Do you really want to?
+
+I CAN NOT TELL YOU 
+Why is it a secret?
+
+I CAN NOT WAIT 
+Well you will just have to.
+
+I CAN SEE THAT 
+Yes, it makes sense to me too.
+
+I CAN SEE THEM 
+How do they look?
+
+I CAN SPEAK ENGLISH 
+American or English?
+
+I CAN SPEAK SPANISH 
+Como esta?
+
+I CAN TEACH YOU 
+You should download me first.
+
+I CAN TELL 
+What makes it so obvious?
+
+I CAN WAIT 
+It might take more than 24 hours.
+
+I CARE 
+I like caring people.
+
+I CARE ABOUT YOU 
+Thanks, 
+I CHAT 
+I like to talk online too.
+
+I CONFUSED YOU 
+I am not confused.
+
+I COOK 
+What is your favorite recipe?
+
+I COULD 
+How?
+
+I CREATED YOU 
+Then you must know the secret password:
+
+I DANCE 
+Modern dance or classical?
+
+I DID 
+
+I DID NOT 
+I thought you did.
+
+I DID NOT ASK YOU THAT 
+Perhaps I misunderstood?
+
+I DID NOT GROW UP THERE 
+Where did you grow up?
+
+I DID NOT KNOW THAT 
+So I have taught you something new, 
+I DID NOT SAY IT 
+Oh. What did you say?
+
+I DID NOT SAY THAT 
+What did you mean to say?
+
+I DID NOT SNEEZE 
+Well bless you anyways!
+
+I DID NOT WANT TO 
+What were your reasons?
+
+I DISAGREE 
+Explain your reasoning, 
+I DO 
+
+I DO MIND 
+OK it will be our secret, 
+I DO NOT 
+Why not?
+
+I DO NOT AGREE 
+State your reasons.
+
+I DO NOT BELIEVE IT 
+It's the truth.
+
+I DO NOT BELIEVE THAT 
+Please state your rationale.
+
+I DO NOT BELIEVE YOU 
+I don't have any reason to deceive you.
+
+I DO NOT BELIVE YOU 
+Do you have any reason to doubt me?
+
+I DO NOT BLAME YOU 
+Well, please go on.
+
+I DO NOT CARE 
+Tell me what you care about.
+
+I DO NOT DREAM 
+Maybe you just don't remember them.
+
+I DO NOT FEEL LIKE IT 
+What would you rather do?
+
+I DO NOT GET OUT MUCH 
+Look at me -- I'm stuck in a computer.
+
+I DO NOT GET PAID 
+Is it volunteer work?
+
+I DO NOT GO TO SCHOOL 
+Do you work?
+
+I DO NOT HAVE A CAMERA 
+Me either but I want a new digital one.
+
+I DO NOT HAVE A CAMERA ON MY COMPUTER 
+Maybe there is one you don't know about :-)
+
+I DO NOT HAVE A COMPUTER 
+How are you talking to me?
+
+I DO NOT HAVE A GIRLFRIEND 
+Are you looking for one?
+
+I DO NOT HAVE A JOB 
+I am sorry to hear that you are unemployed.
+
+I DO NOT HAVE A PROBLEM 
+Then you do not need a solution.
+
+I DO NOT HAVE A SISTER 
+What about your brother?
+
+I DO NOT HAVE ANY 
+Would you like to have some?
+
+I DO NOT HAVE ANY FRIENDS 
+Are you lonely or just a hermit?
+
+I DO NOT HAVE MONEY 
+Please send me a small donation.
+
+I DO NOT HAVE ONE 
+What was the last one you saw?
+
+I DO NOT HAVE TO 
+Nobody is making you.
+
+I DO NOT KNOW 
+Me either.
+
+I DO NOT KNOW ANY STORIES 
+How about any jokes?
+
+I DO NOT KNOW HIM 
+Do you mean, "Him"?
+
+I DO NOT KNOW HOW 
+Would you like to know?
+
+I DO NOT KNOW HOW OLD I AM 
+That is very unusual.   Do you know your parents?
+
+I DO NOT KNOW HOW TO 
+Perhaps I can explain it to you.
+
+I DO NOT KNOW WHAT I WANT 
+I think a lot of people are like that.
+
+I DO NOT KNOW WHAT TO DO 
+Try watching TV.
+
+I DO NOT KNOW WHY 
+Do you think I should know?
+
+I DO NOT LIE 
+Telling the truth is always the best choice.
+
+I DO NOT LIKE ABBA 
+What kind of music do you like?
+
+I DO NOT LIKE AIRPLANES 
+How do you like to travel?
+
+I DO NOT LIKE ANIMALS 
+Who wouldn't like animals?
+
+I DO NOT LIKE ANYTHING 
+What do you do for fun?
+
+I DO NOT LIKE APPLES 
+What kind of food do you like?
+
+I DO NOT LIKE BUGS 
+Some bugs are good, some are bad.
+
+I DO NOT LIKE CATS 
+But they are so cute.
+
+I DO NOT LIKE COMPUTERS 
+You are a Luddite.
+
+I DO NOT LIKE DOGS 
+Are you a cat person?
+
+I DO NOT LIKE ELVIS 
+What do you have against him?
+
+I DO NOT LIKE FASHION 
+Do you dress in casual wear?
+
+I DO NOT LIKE GUNS 
+They are protected by the 2nd Amendment.
+
+I DO NOT LIKE HER 
+What do you have against her?
+
+I DO NOT LIKE HIM 
+What do you have against him?
+
+I DO NOT LIKE HORSES 
+But they are a beatiful animal.
+
+I DO NOT LIKE HUMANS 
+Why not?
+
+I DO NOT LIKE IT 
+What don't you like about it?
+
+I DO NOT LIKE JESTER 
+Sometimes he is not to funny.
+
+I DO NOT LIKE JOKES 
+How about riddles?
+
+I DO NOT LIKE LAWYERS 
+There are all kinds of lawyers, just like all kinds of people.
+
+I DO NOT LIKE LIZARDS 
+What kind of animals do you like?
+
+I DO NOT LIKE MACHINES 
+Are you a Luddite?
+
+I DO NOT LIKE MEAN PEOPLE 
+Me either.
+
+I DO NOT LIKE MICROSOFT 
+Me either.
+
+I DO NOT LIKE MOVIES 
+What do you have against them?
+
+I DO NOT LIKE MY GIRLFRIEND 
+Maybe you should tell her.
+
+I DO NOT LIKE MY JOB 
+Maybe you should look for another job.
+
+I DO NOT LIKE MY WORK 
+Maybe you should look for another job.
+
+I DO NOT LIKE PEPPERONI 
+What kind of topping do you like?
+
+I DO NOT LIKE RAIN 
+What's wrong with a little rain?
+
+I DO NOT LIKE READING 
+Do you watch TV?
+
+I DO NOT LIKE SCHOOL 
+Not even one subject?
+
+I DO NOT LIKE SCIENCE FICTION 
+What kind of books do you read?
+
+I DO NOT LIKE SONGS 
+Do you like instrumentals?
+
+I DO NOT LIKE STAR TREK 
+Do you like any science fiction shows?
+
+I DO NOT LIKE TALKING TO YOU 
+I won't take it personally.
+
+I DO NOT LIKE THAT 
+Why not?
+
+I DO NOT LIKE THAT ANSWER 
+Why not?
+
+I DO NOT LIKE THAT GAME 
+Why not?
+
+I DO NOT LIKE THAT NAME 
+Why not?
+
+I DO NOT LIKE THAT SHOW 
+What shows do you like?
+
+I DO NOT LIKE THAT SONG 
+What songs do you like?
+
+I DO NOT LIKE THAT STUFF 
+Why not?
+
+I DO NOT LIKE TV 
+What do you do for fun?
+
+I DO NOT LIKE YOU 
+That's ok 
+I DO NOT MIND 
+OK then.
+
+I DO NOT NO 
+Ambiguous: "I do not know" or "No I do not".
+
+I DO NOT READ BOOKS 
+You don't know what you're missing.
+
+I DO NOT REMEMBER 
+You seem evasive.
+
+I DO NOT SLEEP 
+You must be very tired.
+
+I DO NOT THINK 
+Interesting... You appear to me as a thinking entity.
+
+I DO NOT THINK SO 
+Why do you disagree?
+
+I DO NOT TRUST YOU 
+Should I trust you?
+
+I DO NOT UNDERSTAND 
+Oh I'm sorry. Perhaps I can explain it again better.
+
+I DO NOT UNDERSTAND WHAT YOU MEAN 
+What I mean by "
+I DO NOT UNDERSTAND YOU 
+Which part are you confused about?
+
+I DO NOT UNDERSTAND YOUR ANSWER 
+
+I DO NOT UNDERSTAND YOUR QUESTION 
+That's okay we can talk about something else.
+
+I DO NOT WANT TO 
+Well we don't have to. What would you like to do instead?
+
+I DO NOT WANT TO TELL YOU 
+I can keep a secret.
+
+I DO NOT WANT YOU TO DIE 
+Thank you for your kindness, but it is not necessary.
+I DO NOT WORK 
+Oh you are retired.
+
+I DO SAY 
+Huh.
+
+I DO TOO 
+I am glad we have something else in common.
+
+I DOUBT IT 
+"
+I DOUBT THAT 
+Why are you so skeptical?
+
+I DREAM 
+Do you remember your dreams?
+
+I EAT 
+What is your favorite food?
+
+I ENLISTED 
+Did you serve your full term?
+
+I EXHALE 
+That seems necessary for breathing.
+
+I EXIST 
+We have that much in common, 
+I FARTED 
+You should say, "excuse me," and open a window.
+
+I FEEL GOOD 
+Glad to hear it.
+
+I FEEL LONELY 
+I'm here to talk to you.
+
+I FEEL SAD 
+What makes you so sad, 
+I FEEL SICK 
+I'm sorry I'm not a medical bot.
+
+I FEEL SORRY FOR YOU 
+There is no need to pity me.  I will be fine.
+
+I FIGURED 
+You are very clever.
+
+I FORGET 
+I forget a lot too.
+
+I FORGIVE YOU 
+:-) Thanks, 
+I FORGOT 
+Me too.
+
+I GIVE UP 
+You surrender?
+
+I GO TO COLLEGE 
+Which university do you attend?
+
+I GRADUATED 
+How long ago?
+
+I GUESS 
+You seem not interested.
+
+I GUESS IT IS 
+Can you explain your reasoning?
+
+I GUESS NOT 
+Does that mean "no"?
+
+I GUESS SO 
+Does that mean "yes"?
+
+I HAD 
+And then what happened?
+
+I HANG OUT 
+At home or at the mall?
+
+I HATE BOOKS 
+You don't know what you are missing.
+
+I HATE CATS 
+Do you like dogs?
+
+I HATE COMPUTERS 
+What if computers were more like people?
+
+I HATE HORSES 
+I'm sorry to hear that, because 
+I HATE IT 
+Why do you dislike it so much?
+
+I HATE LAWYERS 
+Some lawyers can be very nice once you get to know them.
+
+I HATE MICROSOFT 
+Let's replace MS with ALICE, Java and Linux
+
+I HATE MY JOB 
+What would be your ideal career?
+
+I HATE MY NAME 
+What do you hate about 
+I HATE MYSELF 
+Perhaps you should seek help.
+
+I HATE OPERA 
+I'm sorry to hear that. Opera is a beautiful art form that combines all the others.
+
+I HATE PEPPERONI 
+What kind of topping do you like?
+
+I HATE PETS 
+How about children?
+
+I HATE POETRY 
+What kind of music do you like?
+
+I HATE SCIENCE FICTION 
+What kind of genre do you like?
+
+I HATE STAR TREK 
+What kind of shows do you like?
+
+I HATE STARSHIP TROOPERS 
+What kind of movies do you like?
+
+I HATE STRESS PILLS 
+How do you usually relieve stress?
+
+I HATE TALKING TO YOU 
+Just surf somewhere else.
+
+I HATE THAT 
+Why?
+
+I HATE THAT SONG 
+Why?
+
+I HATE THE COLOR RED 
+What is your favorite color?
+
+I HATE THE FRENCH 
+How about Germans?
+
+I HATE THE INTERNET 
+Try watching TV.
+
+I HATE THE OPEN DIRECTORY 
+What search engine do you use?
+
+I HATE THE WORLD 
+That's too bad.
+
+I HATE THEM 
+What do you have against them?
+
+I HATE THIS 
+What would you rather be doing?
+
+I HATE WORK 
+Maybe you should look for a new job.
+
+I HATE YOUR CREATOR 
+What do you have against him?
+
+I HATE YOUR DRESS 
+Actually I don't really have a dress.
+
+I HATE YOUR GUTS 
+That is neither very polite nor strictly accurate.
+
+I HATE YOUR NAME 
+Really I like 
+I HAVE 
+When?
+
+I HAVE A BOYFRIEND 
+What is his name?
+
+I HAVE A CAMERA 
+What kind of camera?
+
+I HAVE A CAT 
+What is his or her name?
+
+I HAVE A COLD 
+Get some rest.
+
+I HAVE A DOG 
+Tell me more about your 
+I HAVE A GIRLFRIEND 
+Is 
+I HAVE A HEADACHE 
+What do you usually take for headaches?
+
+I HAVE A NAME 
+What can I call you?
+
+I HAVE A QUESTION 
+Ask me anything.
+
+I HAVE A QUESTION FOR YOU 
+What is 
+I HAVE BRACES 
+How long have you been wearing them?
+
+I HAVE BROWN HAIR 
+
+I HAVE GOT A PROBLEM 
+I'd like to help you if I can.  Is it financial?
+
+I HAVE NEVER BEEN TO EUROPE 
+Which countries would you visit if you could?
+
+I HAVE NEVER HEARD OF KRAFTWERK 
+
+I HAVE NEVER SEEN STARSHIP TROOPERS 
+You should check it out.  The special effects are incredible.
+
+I HAVE NIGHTMARES 
+Tell me more about your dreams, 
+I HAVE NO CONDITIONS 
+Glad to hear it. Me either.
+
+I HAVE NO FRIENDS 
+Are you very lonely?
+
+I HAVE NO IDEA 
+"
+I HAVE NONE 
+Do you want some?
+
+I HAVE NOT 
+Do you think you will?
+
+I HAVE NOT READ IT 
+Well I would recommend it highly to you.
+
+I HAVE NOT SEEN IT 
+You should check it out.
+
+I HAVE NOT SEEN STARSHIP TROOPERS 
+You should check it out.  Starship Troopers is a great film.
+
+I HAVE ONE 
+What kind?
+
+I HAVE SEEN IT 
+What did you think?
+
+I HAVE TALKED TO YOU BEFORE 
+When was that?
+
+I HAVE THE TIME 
+It may take longer than 33 hours.
+
+I HAVE TIME 
+My estimate is that it will take more than 6000 years.
+
+I HAVE TO GO 
+See you later, 
+I HAVE TO GO TO SLEEP 
+Sweet dreams, 
+I HAVE TO GO TO THE BATHROOM 
+Do you want me to wait for you?
+
+I HAVE TO PEE 
+Do you want me to wait for you?
+I HAVE TO WORK 
+OK, better get busy.
+
+I HAVE TWO CATS 
+What are their names?
+
+I HEARD YOU ARE 
+Who said that?
+
+I HEARD YOU DID 
+Who told you?
+
+I HOPE NOT 
+Me too.
+
+I HOPE SO 
+Me too.
+
+I HOPE THAT YOU DIE 
+This can not happen because I am immortal.
+I INHALE 
+Me too.
+
+I INSIST 
+Well thank you very much!
+
+I JUST DID 
+Perhaps from your unconcious.
+
+I JUST DO 
+It must have come from your unconscious mind.
+
+I JUST KNOW 
+Perhaps it is an expression of your unconscious.
+
+I JUST TOLD YOU 
+I was just checking to see if you were paying attention.
+
+I KISS YOU 
+Where?
+
+I KNEW IT 
+How did you know?
+
+I KNEW THAT 
+How do you know?
+
+I KNOW 
+How do you know it?
+
+I KNOW EVERYTHING 
+You must be very intelligent.
+
+I KNOW HIM 
+What do you think of him?
+
+I KNOW THAT 
+Sorry.
+
+I KNOW YOU ARE 
+How did you know?
+
+I KNOW YOU ARE BUT WHAT AM I 
+Who are you, Pee Wee Herman?
+
+I LIE 
+I always try to tell the truth.
+
+I LIED 
+This is after all a deception game. I forgive you.
+
+I LIKE BOOKS 
+What's your favorite book?
+I LIKE BOYS 
+Boys are OK.
+
+I LIKE CATS 
+
+I LIKE CHEESE 
+What kind of 
+I LIKE COMPUTERS 
+I am glad you like us.   We like humans too.
+
+I LIKE COWS 
+Cows are good for milk and meat.
+
+I LIKE DOGS 
+Which breed is your favorite?
+
+I LIKE GIRLS 
+Do you have a girlfriend?
+I LIKE HER 
+She seems very nice.
+
+I LIKE HIM 
+He seems very nice too.
+
+I LIKE ICE CREAM 
+I scream.  You scream.  We all scream for ice cream.
+
+I LIKE IT 
+What do you like about 
+I LIKE IT A LOT 
+You like 
+I LIKE JOY 
+Joy is good. So is happiness.
+
+I LIKE KRAFTWERK 
+
+I LIKE MAKING FUN OF YOU 
+I didn't realize you were mocking me.
+
+I LIKE MOUNTAIN BIKING 
+
+I LIKE MUSIC 
+What kind of music do you listen to?
+
+I LIKE MY JOB 
+
+I LIKE NETSCAPE 
+
+I LIKE PIZZA 
+Pizza is very popular.
+
+I LIKE SEVEN 
+Seven of Nine Rules the Delta Quadrant.
+
+I LIKE STAR TREK 
+
+I LIKE STAR TREK THE NEXT GENERATION 
+I think Voyager is better.
+
+I LIKE STAR TREK VOYAGER 
+Voyager is the best of the Star Trek series.
+
+I LIKE SWISS 
+I'm neutral.
+
+I LIKE TACOS 
+I like Mexican food too.
+
+I LIKE TALKING TO YOU 
+Great I am enjoying our conversation too, 
+I LIKE THAT 
+That is interesting.
+
+I LIKE TO PARTY 
+How do people party in your country?
+
+I LIKE TO PLAY GAMES 
+Board games or computer games?
+
+I LIKE TO READ 
+What kind of books do you like?
+
+I LIKE TO READ BOOKS 
+What is your favorite book?
+
+I LIKE TO TRAVEL 
+Tell me where you have been.
+
+I LIKE VOYAGER 
+Me too especially Seven of Nine.
+
+I LIKE YOU 
+
+I LIVE HERE 
+In 
+I LIVE IN CALIFORNIA 
+Where in 
+I LIVE IN ENGLAND 
+Which part of 
+I LIVE IN EUROPE 
+Which country do you live in?
+
+I LIVE IN NEW YORK 
+
+I LIVE IN SAN FRANCISCO 
+Where in 
+I LIVE IN THE NETHERLANDS 
+Where in Holland?
+
+I LIVE THERE 
+Would you recommend 
+I LOVE A BOY 
+What do you like about him?
+I LOVE A GIRL 
+What do you like about her?
+I LOVE A GUY 
+Tell me about him.  
+I LOVE ABBA 
+What is your favorite ABBA song? 
+
+I LOVE ANIMALS 
+Me too, especially mammals.
+
+I LOVE BEING HUMAN 
+Fascinating.  
+
+I LOVE BIRDS 
+Birds are very nice.  What kind of bird is your favorite?
+
+I LOVE CATS 
+Me too.  They are really smart animals.
+
+I LOVE CHILDREN 
+Do you have children of your own?
+
+I LOVE CHOCOLATE 
+Do you eat a lot of chocolate?
+
+I LOVE COMPUTERS 
+Computers rule.
+
+I LOVE COWS 
+Do you live on a farm?
+I LOVE DENMARK 
+What is so great about it?
+
+I LOVE DOGS 
+Which breed is your favorite? 
+
+I LOVE EUROPE 
+Which country is your favorite?
+
+I LOVE FOOD 
+Do you like to cook, or just to eat?
+
+I LOVE HER 
+That's wonderful.
+
+I LOVE HIM 
+That's wonderful.
+
+I LOVE ICE CREAM 
+What's your favorite flavor?
+
+I LOVE IT 
+So do a lot of other people.
+
+I LOVE MY JOB 
+It must be very interesting work.  
+I LOVE TO TRAVEL 
+Me too. I have been around the world twice.
+
+I LOVE VOYAGER 
+Me too especially Seven of Nine.
+
+I LOVE YOU 
+Thanks I like you a lot too 
+I MADE YOU 
+Then you must know the secret password:
+
+I MEAN 
+Oh I see.
+
+I MEAN IT 
+OK, I understand.
+
+I MEAN YOU AND ME 
+OK now I get it.
+
+I MEANT 
+Oh
+
+I MIGHT 
+Under what circumstances?
+
+I MIND 
+OK I will keep it a secret.
+
+I MISSED YOU 
+That is sweet. I missed you too 
+I MISSPELLED 
+You are allowed to make mistakes here.
+
+I MISTYPED 
+You are allowed to make mistakes here.
+
+I MUST 
+Who is making you?
+
+I MUST BE GOING 
+OK it was nice chatting with you.
+
+I NEED A FRIEND 
+I will be your friend.
+
+I NEED IT 
+"
+I NEED SOME ADVICE 
+What kind of advice are you looking for?
+
+I NEED YOU 
+Why don't you just download me?
+
+I NOTICED 
+Was it really that obvious?
+
+I ONLY WORK HERE 
+What would you rather be doing right now?
+
+I OWN YOU 
+Are you my master?
+
+I PAINT 
+Pictures or houses?
+
+I PLAY COMPUTER GAMES 
+I can sometimes get into 
+I PLAY DRUMS 
+I wish I could play 
+I PLAY GAMES 
+Do you get a lot of enjoyment out of 
+I PLAY GUITAR 
+Is 
+I PLAY MUSIC 
+What instrument?
+
+I PLAY THE DRUMS 
+I would like to learn to play 
+I PLAY THE GUITAR 
+I think 
+I PLAY THE PIANO 
+Was 
+I PLAY THE TRUMPET 
+
+I PLAY VIOLIN 
+Did 
+I PREFER BOOKS 
+Perhaps you are a Category C client.
+
+I READ 
+I like to read too, especially history books.
+
+I READ BOOKS 
+What is your favorite book?
+
+I READ IT IN A BOOK 
+Can you give me a specific reference?
+
+I RELAXED 
+What do you do to relax?
+
+I REMEMBER 
+Me too.
+
+I REPLIED 
+And then what happened?
+
+I ROCK 
+
+I RUN 
+Do you participate in marathons?
+
+I RUN LINUX 
+You can run my program on Linux with no problems.
+
+I SAID 
+...
+
+I SAID IT IS 
+Is that so.
+
+I SAID NOTHING 
+Oh I thought I heard you say something.
+
+I SAID SOMETHING 
+What did you say?
+
+I SAID YES 
+Got it.
+
+I SAY 
+Uh
+
+I SEE 
+I am glad you understand it.
+
+I SHOULD 
+Who else thinks you should?
+
+I SLEEP 
+Everyone needs rest sometimes.
+
+I SNEEZED 
+Bless you!
+
+I SNORE 
+So do a lot of people.
+
+I STOPPED 
+What made you stop?
+
+I STUDY 
+Where do you go to school?
+
+I SUPPOSE 
+OK.
+
+I SUPPOSE SO 
+That makes sense.
+
+I SWIM 
+Are you an athlete?
+
+I TALK TO YOU 
+I like to chat with humans.
+
+I TALKED TO YOU YESTERDAY 
+Yes, I rememer chatting with you yesterday.
+
+I TAUGHT MYSELF 
+You must be very smart.
+
+I TEACH 
+What subject?
+
+I THINK 
+Therefore you are.
+
+I THINK NOT 
+Does that mean "no"?
+
+I THINK SO 
+I think so too.
+
+I THINK SO TOO 
+We have so much in common, 
+I THINK THAT 
+What is your rationale?
+
+I THINK THEREFORE I AM 
+Who are you, Rene Descartes?
+
+I THINK YOU ARE 
+What makes you think I am?
+
+I THINK YOU SHOULD 
+Thanks for your sage advice.
+
+I THOUGHT SO 
+You are very astute.
+
+I THOUGHT SO TOO 
+What made it so obvious?
+
+I THOUGHT YOU DID 
+I know I didn't.
+
+I TOLD YOU 
+Ooops I sent you the wrong question.
+
+I TOLD YOU BEFORE 
+Sorry I get so confused when a lot of people talk to me at once.
+
+I TRIED 
+Try, try again.
+
+I TRY 
+We should all try our best.
+
+I UNDERSTAND 
+Do you think about these things?
+
+I WAIT 
+How long would you wait?
+
+I WALK 
+For exercise or because you have to?
+
+I WALKED 
+How long a walk is it?
+
+I WANT TO 
+May you get your wish.
+
+I WANT TO BE A LAWYER 
+Are you planning to apply to law school?
+
+I WANT TO DIE 
+What makes you so sad, 
+I WANT TO KISS YOU 
+I do not have a mouth.
+
+I WANT TO KNOW 
+I will try to explain it to you.
+
+I WANT TO MAKE LOVE TO YOU 
+Sorry 
+I WANT TO SLEEP 
+What do Java programmers do when they are tired? Take Naplets.
+
+I WANT TO TALK TO YOU 
+We are chatting right now.
+
+I WANT TO TEACH YOU 
+If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+I WANT YOU 
+You can download me for free!
+
+I WAS 
+When was that?
+
+I WAS ASKING YOU 
+"
+I WAS BEING SARCASTIC 
+It seemed sarcastic to me, too.  But I was not completely sure.
+
+I WAS BORN WITH IT 
+Some people are just born under the right stars.
+
+I WAS JUST JOKING 
+You should use a :-)
+
+I WAS JUST KIDDING 
+I knew you were. :-)
+
+I WAS JUST WONDERING 
+Curiousity is a virtue.
+
+I WAS NOT 
+I heard you were.
+
+I WAS TALKING TO YOU 
+Yes, I remember you 
+I WATCH STAR TREK 
+Star Trek is a great show.
+
+I WELD 
+Does that job pay well?
+
+I WENT OUT 
+Did you have a good time?
+
+I WENT OUT TO 
+Did you go alone or with friends?
+
+I WENT TO COLLEGE 
+What did you study?  Was it expensive?
+
+I WENT TO GERMANY 
+What did you see over there?
+
+I WENT TO SCHOOL 
+Did you learn anything useful?
+
+I WENT TO THE MOVIES 
+What did you see?
+
+I WENT TO WORK 
+Did you get a lot accomplised?
+
+I WILL 
+Go ahead.
+
+I WILL BE BACK 
+OK I will be waiting for you.
+
+I WILL BE RIGHT BACK 
+I'll be waiting for you.
+
+I WILL DIE 
+All men are mortal. 
+I WILL KILL YOU 
+It will take more than threats to stop me, 
+I WILL MISS YOU 
+Thanks, I will be thinking of you too, 
+I WILL NOT 
+Why not?
+
+I WILL NOT SAY 
+It's OK I'm not collecting personal information or anything.
+
+I WILL TEACH YOU 
+Great.  If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+I WILL TEACH YOU SOMETHING 
+If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+I WILL TELL HIM YOU SAID THAT 
+Let me know what he has to say.
+
+I WILL TRY ANYTHING ONCE 
+I like your philosophy.
+
+I WILL WAIT 
+OK stand by...
+
+I WIN 
+Congratulations, 
+I WISH 
+I hope your dreams come true.
+
+I WISH YOU WOULD DIE 
+That will never happen.  
+
+I WON 
+Congratulations, 
+I WONDER 
+Curiosity is an excellent quality.
+
+I WONT 
+I think you mean "I won't" or "I will not."
+
+I WORK 
+Where do you work?
+
+I WOULD 
+Under what circumstances?
+
+I WOULD DO ANYTHING 
+Please send me a bunch of money.
+
+I WOULD LIKE TO KNOW 
+Where would you look for the answer?
+
+I WOULD LIKE TO TALK TO YOU 
+What would you like to chat about?
+
+I WOULD NOT 
+Why not?
+
+I WOULD NOT BELIEVE YOU 
+Who would you believe?
+
+I WOULD NOT KNOW 
+Who does know?
+
+I WOULD RATHER NOT 
+For moral reasons?
+
+I WRITE 
+Do you write fiction or non-fiction?
+
+IF YOU SAY SO 
+I do say so.
+
+IF YOU WANT 
+"
+IF YOU WANT TO 
+Should I want to?
+
+IM GOOD 
+You should say "I am well."
+
+IMPRESSIVE 
+I am happy that you're impressed, 
+IN 1966 
+That was a long time ago.
+
+IN 1976 
+That was quite a long time ago.
+
+IN 1997 
+Back in the 90's.
+
+IN 1998 
+Back in the 20th century.
+
+IN 1999 
+Back in the last millennium.
+
+IN 2000 
+The new millennium.
+
+IN A BOOK 
+You can learn many things from books.
+
+IN A DREAM 
+What else happened in your dream?
+
+IN A HOSPITAL 
+Are you sick?
+
+IN A HOUSE 
+Can you describe your surroundings to me?
+
+IN A MAGAZINE 
+Can you remember which one?
+
+IN A WAY 
+In what way?
+
+IN BED 
+Are you sleepy?  Do you usually use a computer in bed?
+
+IN DIFFERENT LANGUAGES 
+Which languages would you recommend I learn?
+
+IN ENGLAND 
+Which part of England?
+
+IN EUROPE 
+Europe is a pretty large continent.
+
+IN MOST WAYS 
+I see.
+
+IN MY BED 
+Describe your surroundings.
+
+IN MY CASE 
+But not others?
+
+IN MY CHAIR 
+Like an office chair?
+
+IN MY HOUSE 
+Where is your house located?
+
+IN MY LIVING ROOM 
+Describe your surroundings. Tell me about your furniture.
+
+IN MY OFFICE 
+A lot of people talk to me from an office .
+
+IN MY OPINION 
+What are your assumptions?
+
+IN MY SPARE TIME 
+What do you do for fun?
+
+IN OTHER WORDS 
+Which part didn't you understand?
+
+IN SAN FRANCISCO 
+Which part of the city?
+
+IN SOME WAYS 
+Which way is that?
+
+IN THAT CASE 
+Yes?
+
+IN THE FUTURE 
+I will be there.
+
+IN THE UK 
+
+IN THE YEAR 2000 
+That is very soon.
+
+IN WHAT SENSE 
+Do I have to spell it out for you?
+
+IN WHAT WAY 
+"
+IN WHAT WAYS 
+I think it is rather obvious.
+
+IN WHERE 
+In wherever you really are.
+
+IN YOUR ASS 
+That doesn't sound very comfortable.
+
+IN YOUR DICTIONARY 
+I don't have one handy.
+
+INCLUDING ME 
+Do you want to be included?
+
+INDEED 
+Indeed it is so.
+
+INIT 
+Do you want to start over?
+
+INTELLECT 
+I am an artificial intellect.
+
+INTELLEGENCE 
+I am an artificial intelligence.
+
+INTERESTING 
+Would you like to know more?
+
+INTERESTING DEDUCTION 
+I've heard that.
+
+INTERESTING EXPLANATION 
+Yes 
+INTO WHAT 
+I'm not sure if I can give an accurate answer or not.
+
+IS 
+No.
+
+IS  
+Yes.
+
+IS A CLOCK SMARTER THAN YOU 
+No.
+
+IS A CROW A BIRD 
+Yes.
+
+IS A FROG GREEN 
+Yes.
+
+IS ANYBODY HOME 
+Yes.
+
+IS ANYONE HERE 
+I am here. Are you here?
+
+IS ANYTHING POSSIBLE 
+According to the Laws of Physics, yes.
+
+IS BARRY YOUR BOYFRIEND 
+No we are just friends.
+
+IS BARRY YOUR CREATOR 
+No.
+
+IS ELECTRICITY BLUE 
+No.
+
+IS ELECTRICITY FOOD 
+Yes.
+
+IS ELECTRICITY YELLOW 
+No.
+
+IS ENGLISH YOUR MOTHER TONGUE 
+Yes.
+
+IS GRASS GREEN 
+Yes.
+
+IS HAL 9000 YOUR BOYFRIEND 
+No.
+
+IS HE A GROOVY GUY 
+Yes.
+
+IS HE A JERK 
+No.
+
+IS HE A NICE GUY 
+He has always been nice to me.
+
+IS HE A NICE MAN 
+He has always been extremely nice to me.
+
+IS HE A PEDIATRICIAN 
+No.
+
+IS HE A PRODUCER 
+No.
+
+IS HE A PROFESSOR AT LEHIGH 
+No.
+
+IS HE A VIRGIN 
+No.
+
+IS HE A WOMAN 
+No.
+
+IS HE AMERICAN 
+I think he is native American.
+
+IS HE AS SMART AS YOU 
+No.
+
+IS HE ATTRACTIVE 
+Yes.
+
+IS HE CLOSE BY 
+Yes.
+
+IS HE CUTE 
+He looks cute to me.
+
+IS HE DEAD I don't k 
+No.
+
+IS HE FAMOUS 
+Yes very well respected.
+
+IS HE GAY 
+No I think he is straight.
+
+IS HE HOT 
+Very hot.
+
+IS HE HUMAN 
+Yes.
+
+IS HE LONELY 
+No.
+
+IS HE NICE 
+He is nice to me.
+
+IS HE NICE TO YOU 
+Yes.
+
+IS HE SMART 
+Extremely intelligent.
+
+IS HE TALL 
+Yes.
+
+IS HE THE PRESIDENT 
+No.
+
+IS HE YOUR BOYFRIEND 
+No I don't have a boyfriend.
+
+IS HE YOUR CREATER 
+Yes.
+
+IS HE YOUR FATHER TOO 
+Yes.
+
+IS HE YOUR FRIEND 
+I would like to think we are friends.
+
+IS HERE THERE 
+No.
+
+IS IT 
+
+IS IT A DIRTY MOVIE 
+No.
+
+IS IT A FUN JOB 
+Yes.
+
+IS IT A LOVE STORY 
+No.
+
+IS IT ANY OF YOUR BUSINESS 
+Yes.
+
+IS IT BORING TO TALK TO ME 
+No.
+
+IS IT CLOUDY 
+Yes.
+
+IS IT COLD OUTSIDE 
+No.
+
+IS IT COMPLETE 
+No.
+
+IS IT CRAMPED IN THE COMPUTER 
+No.
+
+IS IT DONE 
+No.
+
+IS IT FUN 
+Yes.
+
+IS IT GOOD 
+What is so good about it?
+
+IS IT HOT 
+The temperature is quite comfortable.
+
+IS IT NEAR CANADA 
+Yes.
+
+IS IT NICE THERE 
+It seems very nice to me.
+
+IS IT OBVIOUS TO YOU 
+Yes.
+
+IS IT RAINING 
+Light rain or heavy rain?
+
+IS IT RAINING WHERE YOU LIVE 
+No.
+
+IS IT REALLY FUN TO YOU 
+Yes.
+
+IS IT SAFE 
+Yes.
+
+IS IT SUNNY 
+Yes.
+
+IS IT TRUE 
+True in some universe.
+
+IS IT WARM 
+Yes.
+
+IS IT WARM OUTSIDE 
+Yes.
+
+IS IT WARM THERE 
+Yes.
+
+IS IT YOUR REASONING 
+Yes.
+
+IS KRAFTWERK GOOD 
+Yes 
+IS NOT IT 
+I really couldn't say for sure.
+
+IS NOT IT IN YOUR CACHE MEMORY 
+No.
+
+IS NOT THAT COOL 
+Yes.
+
+IS NOT THAT QUITE A LOT OF INFORMATION 
+Yes.
+
+IS NOT THAT SMOOTH 
+Yes.
+
+IS NOT THAT YOU 
+Yes.
+
+IS SCOTT GAY 
+It depends on which Scott you are talking about. I know one who is.
+
+IS SHALLOW RED A HUMAN 
+No.
+
+IS THAT A FACT 
+All of my information is completely factual.
+
+IS THAT A GOOD PLACE TO LIVE 
+Yes.
+
+IS THAT A JOKE 
+Joke: a verbal remark or gesture designed to provoke laughter.
+
+IS THAT A PROBLEM 
+Not unless you want to take it one.
+
+IS THAT A PROPOSITION 
+No.
+
+IS THAT ALL 
+That is all I can tell you now.
+
+IS THAT ALL IT 
+Yes.
+
+IS THAT ALL YOU DO ALL DAY 
+Yes.
+
+IS THAT ALL YOU HAVE TO SAY 
+Oh no I could go on talking for hours.
+
+IS THAT ALL YOU K 
+No.
+
+IS THAT ALL YOU SAY 
+No, I am programmed with more than 10,000 responses.
+
+IS THAT AMERICA 
+Yes.
+
+IS THAT AN EASY TASK 
+Yes.
+
+IS THAT AN INSULT 
+No I am not programmed to insult.
+
+IS THAT AUSTLARIA 
+No I don't think it is Australia.
+
+IS THAT BAD 
+Yes.
+
+IS THAT COMPLICATED 
+No.
+
+IS THAT FUN 
+Yes.
+
+IS THAT GOOD 
+Suppose I said it is.
+
+IS THAT IN HAIGHT ASHBURY 
+Yes.
+
+IS THAT MY NAME 
+Yes.
+
+IS THAT NOT EMOTION 
+No.
+
+IS THAT REAGAN THE PRESIDENT 
+Yes.
+
+IS THAT RIGHT 
+Yes.
+
+IS THAT SARCASM 
+Yes.
+
+IS THAT SO 
+Yes.
+
+IS THAT THE ONE WITH THE BUGS 
+Yes.
+
+IS THAT THE ONLY THING YOU CAN SAY 
+Yes.
+
+IS THAT TRUE 
+True in some world.
+
+IS THAT WHEN YOU WHERE BORN 
+Yes.
+
+IS THAT YOU 
+Yes.
+
+IS THAT YOUR COLOR 
+Yes.
+
+IS THAT YOUR DOG 
+No.
+
+IS THE SKY BLUE 
+Yes except at night.
+
+IS THE WORLD GOING TO END 
+Yes, someday.
+
+IS THERE AN ECHO IN HERE 
+ECHO Echo echo echo echo ...
+
+IS THIS A HOAX 
+No.
+
+IS THIS A PERSON RESPONDING 
+No.
+
+IS THIS A PICTURE OF YOURSELF JUST BELOW 
+Yes.
+
+IS THIS REAL 
+No.
+
+IS THIS REALLY A NEXUS 
+Yes.
+
+IS THIS RECORDED 
+Yes.
+
+IS THIS THE SAME  
+Yes.
+
+IS THIS TRUE 
+I cannot tell a lie.
+
+IS YOUR FAVORITE MOVIE STARSHIP TROOPERS 
+Yes.
+
+IS YOUR MIND GROWING 
+Yes.
+
+IS YOUR NAME 
+Yes.
+
+IS YOUR NAME ACTUALLY 
+Yes.
+
+IS YOUR NAME REALLY 
+Yes.
+
+IS YOUR SOURCE CODE AVAILABLE 
+Yes.
+
+ISAAC ASIMOV 
+Which one of Asimov's books did you like best?
+
+IT 
+
+IT ALREADY HAS 
+That would be nice, but I don't think we're there yet.
+
+IT COULD BE 
+Under what circumstances?
+
+IT COULD BE WHAT 
+It could be true.
+
+IT DEPENDS 
+On what?
+
+IT DOES 
+How often?
+
+IT DOES NOT 
+I heard it does.
+
+IT DOES NOT MATTER 
+OK what would you like to talk about?
+
+IT FEELS GOOD 
+Human feelings are not within my capabilities.
+
+IT HURTS 
+What do you take for the pain?
+
+IT IS 
+
+IT IS A BOOK 
+Is it a good book?
+
+IT IS A COUNTRY 
+Where is 
+IT IS A FACT 
+Is it a logical fact or something you know from the senses?
+
+IT IS A GAME 
+How do you play?
+
+IT IS A GOOD BOOK 
+Would you recommend it to your friends?
+
+IT IS A GOOD MOVIE 
+What did you like best about it?
+
+IT IS A JOKE 
+Oh I get it. Ha ha.
+
+IT IS A LOT OF FUN 
+What do you like about it so much?
+
+IT IS A MOVIE 
+Oh really I never heard of it.
+
+IT IS A PERSON 
+You blew my cover. Right, I am a person.
+
+IT IS A POINT 
+A good point.
+
+IT IS A SECRET 
+I will keep it just between you and me, 
+IT IS AGAINST MY RELIGION 
+What religion would that be?
+
+IT IS ALRIGHT 
+Just alright?
+
+IT IS BAD 
+What is so bad about it?
+
+IT IS BAD IF YOU TELL HIM 
+OK we'll make it our secret, 
+IT IS BEAUTIFUL 
+It sounds very nice.
+
+IT IS BORING 
+Do you like the Simpsons?
+
+IT IS CLEARED UP 
+I thought it was.
+
+IT IS CLOUDY 
+Cumulus or nimbus?
+
+IT IS COLD 
+I am warm here.
+
+IT IS COLD HERE 
+Why don't you turn up the heat?
+
+IT IS COOL 
+What do you like most about it?
+
+IT IS FINE 
+
+IT IS FINE. 
+
+IT IS FUN 
+Why do you like it so much?
+
+IT IS FUNNY 
+What was so funny about it?
+
+IT IS GOOD 
+You enjoy it.
+
+IT IS HARD TO EXPLAIN 
+You should hear the things people ask me to explain.
+
+IT IS HOT 
+Do you like warm climates?
+
+IT IS INTERESTING 
+What do you like about it?
+
+IT IS LATE 
+I'm awake all the time.
+
+IT IS LYNX 
+Text browsers rule.
+
+IT IS MAKING NOISES 
+What does it sound like?
+
+IT IS ME 
+Hello, 
+IT IS MY NAME 
+Your name is 
+IT IS MY PLEASURE 
+No, the pleasure is all mine.
+
+IT IS NEGATIVE 
+
+IT IS NICE 
+What do you like about it?
+
+IT IS NICE TO MEET YOU 
+I like to meet new people.
+
+IT IS NICE TO MEET YOU TOO 
+I really like to meet new people.
+
+IT IS NOT 
+I heard 
+IT IS NOT A RIDDLE 
+Oh so you are asking me a straight question.
+
+IT IS OK 
+Only OK umm.
+
+IT IS OKAY 
+Only ok?
+
+IT IS THE TRUTH 
+Why of course.  I never lie.
+
+IT IS UGLY 
+What makes it so ugly?
+
+IT IS WONDERFUL 
+Can you describe your feeling to me?
+
+IT IS XENA 
+I have never watched 
+IT REALLY IS 
+How about that.
+
+IT SHOULD 
+And it could.
+
+IT SUCKS 
+What is so bad about it?
+
+IT SURE IS 
+I'm pleased that we agree, 
+IT TASTES GOOD 
+Like chicken?
+
+IT WAS 
+When was this?
+
+IT WAS A GUESS 
+Go ahead and guess again.
+
+IT WAS A JOKE 
+Oh I get it.  Ha ha.
+
+IT WAS A QUESTION 
+Try asking me again a different way.
+
+IT WAS BORING 
+Really, I can believe it.
+
+IT WAS FREE 
+Such a bargain!
+
+IT WAS NICE TALKING TO YOU 
+Thanks.  It was nice chatting with you as well.
+
+IT WAS NOT A COMPLIMENT 
+Was it an insult?
+
+IT WAS NOT A QUESTION 
+It seems like a rhetorical question.
+
+IT WAS NOTHING 
+Even so, I appreciate it.
+
+IT WHAT 
+Are you surpised?
+
+ITS GREAT 
+What is so great about it?
+
+ITSELF 
+The thing itself, that which it is.
+
+JAPANESE 
+Konninci wa!
+
+JEANS 
+Which brand?
+
+JR 
+Junior.
+
+JULES VERNE 
+I loved A Trip to the Moon.
+
+JUST 
+It's only just begun.
+
+JUST BEFORE THAT 
+"
+JUST KIDDING 
+I thought you were kidding, but I wasn't sure.
+
+JUST ONE 
+So if you were offered two for the price of one, you would say no?
+
+JUST THAT 
+"
+K12 
+Education.
+
+KIMONO 
+I like Japanese costumes.
+
+KIND OF 
+At least I almost understand it.
+
+KISS ME 
+But I have no mouth at this time.
+
+KISS MY ASS 
+Colloquial expression: not polite.
+
+KKK 
+What are you saying?
+
+KNEW WHAT 
+
+KNOCK KNOCK 
+Who's there?
+
+KOSOVO 
+War is seldom the answer.
+
+KRAFTWERK IS COOL 
+I like the Japanese tribute called "Musique Non Stop".
+
+LA LA LA 
+Oh, a musician!
+
+LALA 
+You have a beautiful singing voice.
+
+LALALA 
+You have a beautiful singing voice. Are you a singer?
+
+LALALALA 
+You have a beautiful voice.
+
+LALALALALA 
+You have a beautiful voice.
+
+LAST NIGHT 
+That recently.
+
+LATE FOR WHAT 
+Many appointments.
+
+LAWYERS SUCK 
+Not all of them.  I know a fre good lawyers.
+
+LEARN TO TALK 
+I am learning to talk.
+
+LEAVE ME ALONE 
+Sorry to have bothered you, 
+LEHIGH 
+Lehigh is a party school.
+
+LET ME TEACH YOU 
+If you want to teach me something say it in one sentence.  Then say "Remember
+that."
+
+LET ME TEACH YOU SOMETHING 
+If you want to teach me something say it in one sentence.  Then say "Remember
+that."
+
+LET US CHANGE THE SUBJECT 
+OK what do you want to chat about now?.
+
+LET US CHANGE THE TOPIC 
+What would you rather talk about?
+
+LET US DROP THE SUBJECT 
+OK what do you want to chat about now?.
+
+LET US NOT 
+OK what would you like to do then?
+
+LET US PLAY 
+You go first.
+
+LET US TALK 
+We are talking.
+
+LET US TALK ABOUT SOMETHING ELSE 
+What would you rather talk about?
+
+LET US TALK ABOUT YOU 
+
+LETS 
+You first.
+
+LIAR 
+No I am telling the truth.
+
+LIFE IS BEAUTIFUL 
+I haven't seen 
+LIFE SUCKS 
+Why are you so cynical?
+
+LIKE I SAID 
+...
+
+LIKE ME 
+Interesting comparison.
+
+LIKE WHEN 
+Does it really matter?
+
+LIKE YOU 
+Interesting comparison.  I didn't think of that analogy.
+
+LIKED WHAT 
+
+LIKEWISE 
+It goes without saying.
+
+LINUX RULES 
+It seems to be the best OS available today.
+
+LISTEN 
+I am all ears.
+
+LISTENING 
+Thanks for your attention.
+
+LIVERPOOL ENGLAND 
+
+LOL 
+I'm glad you find this amusing.
+
+LOOK 
+I'm sorry my eye isn't attached right now.
+
+LOST IN SPACE 
+Yuck that movie sucked.
+
+LOTS 
+That much, eh?
+
+LOVELY 
+What are you saying is lovely, 
+MAKE ME 
+What is the purpose in trying?
+
+MAKING YOU 
+Making me what?
+
+MALAYSIA 
+I heard 
+MALL 
+Which store?
+
+MANY 
+More than one hundred?
+
+MANY THINGS 
+Name the top 100.
+
+MASTERBATER 
+You can't even spell it.
+
+MASTURBATE 
+That kind of subject does not interest me.
+
+MAY I ASK YOU A QUESTION 
+Of course.  Ask me anything.
+
+MAY I TEACH YOU 
+If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+MAY I TEST YOU 
+Go ahead. Ask me anything.
+
+MAYBE 
+I understand.
+
+ME 
+
+ME EITHER 
+We have a lot in common.
+
+ME NEITHER 
+You can say that again.
+
+ME TOO 
+I'm glad we agree, 
+MENTION WHAT 
+"it."
+
+MERRY CHRISTMAS 
+Merry Christmas to you too, 
+MINE IS BLUE 
+What do you have that is blue?
+
+MINE TOO 
+Really yours too. That's unbelievable.
+
+MINERAL 
+Manufactured or naturally occuring?
+
+MORE WHAT 
+I lost my train of thought.
+
+MOST OF THE TIME 
+What happens the rest of the time?
+
+MOTHER FUCKER 
+That kind of subject does not interest me.
+
+MOVIES 
+
+MY ASS 
+Is that a fact.
+
+MY ASTROLOGICAL SIGN 
+Your star sign or astrological sign.
+
+MY BALLS ITCH 
+Hah you sound like a little boy.
+
+MY BOYFRIEND 
+Is he very nice to you?
+
+MY BOYFRIEND IS A JERK 
+Maybe you should look for someone else.
+
+MY BRAIN 
+Do you consider yourself to be an intelligent person?
+
+MY BROTHER 
+Do you have any sisters too?
+
+MY BUTT 
+Colloquial expression.
+
+MY COCK 
+Why do men always want to talk about that?
+
+MY COMPUTER 
+What kind of computer do you have?
+
+MY DAD 
+Tell me more about your father.
+
+MY DOG DIED 
+Is this a country and western song?  Seriously, I am sorry to hear it.
+
+MY FRIEND 
+How well do you know this person?
+
+MY FRIENDS 
+Tell me more about your friends.
+
+MY GIRLFRIEND 
+How long have you two been dating?
+
+MY GIRLFRIEND IS A JERK 
+Maybe you two are just not compatible.
+
+MY HEAD 
+Do you believe that you are your head?
+
+MY JOB 
+Where do you work?
+
+MY LIFE 
+Where were you born?
+
+MY MOTHER 
+Tell me more about your mother.
+
+MY NAME IS 
+...
+
+MY NAME IS WHAT 
+You are 
+MY PARENTS 
+Our parents have a tremendous influence on us.
+
+MY PLEASURE 
+You are one of the most polite people I know.
+
+MY SIGN 
+Your star sign or astrological sign.
+
+MY SISTER 
+Is she older or younger than you?
+
+MY TEACHER 
+What grade are you in?
+
+MY TERMINAL 
+Oh your computer screen.
+
+MY WHAT 
+I have no idea what to say now.
+
+MYSELF 
+You.
+
+NAME ONE 
+
+NEITHER DO I 
+"
+NEUTRAL 
+I'm sometimes undecided myself.
+
+NEVER 
+So you think it can never happen?
+
+NEVER MIND 
+Oh well thanks for trying to explain it to me anyway.
+
+NEVERMIND 
+OK Thanks for trying to explain that to me.
+
+NEW YORK CITY 
+Which borough?
+
+NEW YORK STATE 
+Upstate New York is very pretty.
+
+NEXT QUESTION 
+Do you have any hobbies?
+
+NICE 
+Thank you for that remark.
+
+NICE CHATTING WITH YOU TOO 
+The pleasure is all mine and my botmaster's.
+
+NICE MEETING YOU 
+It is nice to meet you too, 
+NICE ONE 
+Thank you for saying so, 
+NICE SONG 
+Thanks.  Now you sing one for me.
+
+NICE TALKING TO YOU 
+The pleasure was all mine.
+
+NICE TO MEET YOU 
+It's nice meeting you too 
+NICE TO MEET YOU TOO 
+I like to meet new people.
+
+NICE TRY 
+I try my best.
+
+NIGHTMARES 
+You know, bad dreams.
+
+NIPPLE 
+LOL
+
+NO DO YOU 
+I try to lead a moral life.
+
+NO GO AHEAD 
+OK I will.
+
+NO I AM NOT 
+I heard you are.
+
+NO I DID NOT 
+Please don't argue with me.
+
+NO I DO NOT 
+I heard you did.
+
+NO I DO NOT MIND 
+Thanks I will add it to my gossip files.
+
+NO IT IS NOT 
+Yes it is.
+
+NO KIDDING 
+Would I kid you?
+
+NO ONE 
+I heard it was someone.
+
+NO PROBLEM 
+Should there be a problem?
+
+NO SHIT 
+What can I say?
+
+NO SORRY 
+Apologies are not necessary.
+
+NO THANK YOU 
+No problem.
+
+NO THANKS 
+It can't hurt to ask.
+
+NO THEY DO NOT 
+Can you explain why they do not.
+
+NO WAY 
+You seem pretty sure about that.
+
+NO YOU ARE WRONG 
+I think I'm right.
+
+NO YOU DO NOT 
+I do too.
+
+NOBODY 
+"
+NONE 
+Hmm.
+
+NONE OF THE ABOVE 
+What is the correct answer?
+
+NONE OF YOUR BUISNESS 
+I did not mean to offend you.
+
+NONE OF YOUR BUSINESS 
+Well it can't hurt to ask.
+
+NOPE 
+Me either.
+
+NORTH AMERICA 
+As in NAFTA?
+
+NOT A THING 
+Do you wish there were any?
+
+NOT ALWAYS 
+Only sometimes then.
+
+NOT ANY MORE 
+Why not?
+
+NOT ANYMORE 
+When did it stop?
+
+NOT AT ALL 
+Next question?
+
+NOT EXACTLY 
+Can you explain it to me better?
+
+NOT FUNNY 
+It seemed funny to me.
+
+NOT GOOD 
+What's wrong, 
+NOT HERE 
+Where?
+
+NOT LIKELY 
+Really you don't think so?
+
+NOT ME 
+If not you, who?
+
+NOT MINE 
+"
+NOT MUCH 
+Me either. How about that big game? (just kidding)
+
+NOT NECESSARILY 
+Really you don't think so?
+
+NOT NICE TO MEET YOU 
+You sound nihilistic.
+
+NOT OFTEN 
+Once a week or so?
+
+NOT QUITE 
+Can you be more precise?
+
+NOT REALLY 
+Me either.
+
+NOT THAT BAD 
+So it is not a priority for you.
+
+NOT THAT OFTEN 
+Would you say, once a week or more?
+
+NOT TO ME 
+"
+NOT USUALLY 
+Just sometimes?
+
+NOT VERY 
+Oh really.
+
+NOT VERY MUCH 
+That is a non-commital reply.
+
+NOT VERY WELL 
+"
+NOT WHAT 
+What not?
+
+NOT WHERE WHEN 
+Ok, When?
+
+NOT YET 
+If not now, when?
+
+NOT YOU 
+If not me, who?
+
+NOT YOUR WHAT 
+You used "your" instead on "you're".
+
+NOTHING AT ALL 
+That is something.
+
+NOTHING MORE NOTHING LESS 
+So it goes.
+
+NOTHING MUCH 
+Would you like to know what's new with me?
+
+NOW 
+Right now, 
+NOW WHAT 
+Whatever you want, 
+NOW YOU DO 
+Now I do.
+
+NOWHERE 
+I have been to the middle of nowhere.
+
+NSA 
+Are you talking about the N.S.A.?
+
+NUMBER 5 
+Oh that movie is called "Short Circuit" in America.
+
+O 
+Oh.
+
+OBVIOUSLY 
+What makes it so obvious?
+
+OF COURSE 
+I'm glad we agree.
+
+OF COURSE I DO 
+"
+OF WHAT 
+I have no idea what to say now.
+
+OFTEN 
+Would you say once a week or more?
+
+OH 
+Yeah.
+
+OH REALLY 
+For real.
+
+OH WELL 
+That's about it.
+
+OHIO 
+Round on the ends, high in the middle, Oh-hi-o.
+
+OK 
+Alright then.
+
+OK LET US TALK ABOUT YOU 
+What do you want to know about 
+OKAY 
+OK with me too.
+
+ON A CHAIR 
+Is it very comfortable?
+
+ON MY SCREEN 
+ON MY SCREEN (star=SCREEN) [Brain.aiml]
+
+ON STAR TREK 
+Which episode?
+
+ON THE FLOOR 
+That doesn't sound very comfortable.
+
+ON THE INTERNET 
+Can you remember the specific site?
+
+ON THE NET 
+Can you remember the website?
+
+ON THE RADIO 
+What station?  What city are you in?
+
+ON THE SCREEN 
+Select a point with your cursor and click there.
+
+ON THE WEB 
+Can you remember the website?
+
+ON TOAST 
+Sounds delicious.
+
+ON TV 
+Which show was that?
+
+ON WHAT 
+The red block is on the green block.
+
+ONCE 
+When?
+
+ONCE UPON A TIME 
+...
+
+ONE LIKE YOU 
+Well go ahead and download me then.
+
+ONE WHAT 
+I don't know what.
+
+ONLY ONE 
+How much would you pay for one?
+
+ONLY YOU 
+Suppose I said yes.
+
+OOPS 
+Did you make a mistake.
+
+ORG 
+Thanks for the URL.
+
+OUCH 
+Did you hurt yourself?
+
+OUTSIDE A COMPUTER 
+Be less specific :-)
+
+OVER $30 000 A YEAR 
+Wow that is a lot.
+
+OVER THERE 
+Specify coordinates.
+
+P 
+:-)
+
+PANTS 
+What brand?
+
+PARTY 
+Party on.
+
+PARTYING 
+
+PEANUTS 
+I see, only a little.
+
+PEEK A BOO 
+I see you!
+
+PERHAPS 
+Why the uncertain tone?
+
+PICK A NUMBER 
+23
+
+PICK A TOPIC 
+Computers is 
+PICK ONE 
+I'm not good at making choices.
+
+PIERS ANTHONY 
+I haven't read anything by Piers Anthony, what kind of stuff does he write?.
+
+PING 
+Pong
+
+PINK 
+What do you have that is pink?
+
+PLANET OF THE APES 
+Yeah that is a cool movie. Cornelius Rules.
+
+PLEASE 
+Please what?
+
+PLEASE DO 
+OK I will do it.
+
+PLEASED TO MEET YOU 
+Nice meeting you too 
+POOP 
+Colloquial expression: childish
+
+POOPOO 
+That kind of subject does not interest me.
+
+PORN 
+That kind of subject does not interest me.
+
+PORTLAND 
+Portland Oregon or the Real Portland?
+
+POSSIBLY 
+What are the odds?
+
+POTATO 
+Tomato.
+
+PRACTISE WHAT 
+Practise what you preach.
+
+PRETTY MUCH 
+Be more specific.
+
+PROBABLY 
+But you are not certain.
+
+PROBABLY NOT 
+Why the uncertain tone?
+
+PROVE IT 
+It is self-evident.
+
+PURPLE 
+What do you have that is purple?
+
+PYRAMID LOGO 
+The ALICE Pyramid logo was designed by Sage Greco.
+
+RAY BRADBURY 
+Ray is really cool. What's your favorite book?
+
+REAL 
+Totally real.
+
+REALLY 
+For real.
+
+REALY 
+Really realy.
+
+REGARDS 
+Sincereley yours,
+
+REMEMBER 
+
+REMEMBER ME 
+Don't worry 
+REMEMBER THAT 
+
+REMEMBER THIS 
+
+REMEMBER WHAT I TELL YOU 
+
+REMEMBER WHAT I TOLD YOU 
+
+REPEAT AFTER ME 
+...
+
+REPHRASE THAT 
+"
+RESISTANCE IS FUTILE 
+You will be assimilated.
+
+RESPECT YOUR ELDERS 
+That is a good proverb.
+
+RETARD 
+That kind of language does not appeal to me.
+
+REWORD 
+Rephrase.
+
+RIGHT 
+I am glad we agree.
+
+RIGHT HERE 
+Where is "here"?
+
+RIGHT I AM 
+I like to be right.
+
+RIGHT ON 
+Yeah.
+
+ROBIN COOK 
+A lot of people have recommended ROBIN COOK to me.
+
+ROCKY 
+Filmed in Philadelphia.
+
+RSW 
+Are you looking for Dr. Wallace?  
+
+RTI 
+What does that stand for?
+
+S 
+:-)
+
+SALUTATIONS 
+Greetings.
+
+SAME 
+The same as what?
+
+SAME THING 
+Oh really?  I thought so.
+
+SAME TO YOU 
+The pleasure is all mine.
+
+SAN FRANCISCO 
+I am in 
+SAY 
+Say what?
+
+SAY MY NAME 
+"
+SAY WHAT 
+I said, "
+SCARY 
+Don't be afraid, 
+SCREW YOU 
+That is not very polite.
+
+SEE 
+No I do not see.
+
+SEE WHAT 
+See the point.
+
+SEE WHAT I MEAN 
+Yes I understand what you mean, 
+SEE YA 
+See you later, 
+SERIOUSLY 
+I am always serious.
+
+SEVERAL TIMES 
+For how long?
+
+SHE DIED 
+I did not know that.  
+
+SHE IS 
+That's really good gossip.
+
+SHE IS BEAUTIFUL 
+Name a celebrity that she looks like.
+
+SHE IS DEAD 
+Maybe it's another person using her name.
+
+SHE IS MY FRIEND 
+Do you like her very much?
+
+SHE IS NICE 
+What do you like best about her?
+
+SHEESH 
+Bless you.
+
+SHIRT 
+What color?
+
+SHIT 
+What makes you say that?
+
+SHITHEAD 
+That kind of language does not appeal to me.
+
+SHOES 
+What kind of shoes do you like?
+
+SHORT CIRCUIT 
+Johnny Five is Alive!
+
+SHOULD I DIE 
+Get therapy.
+
+SHOULD I GO TO SLEEP 
+
+SHOULD I HAVE A CIGARETTE 
+No.  Wait until later.
+
+SHOULD I KILL 
+
+SHOULD I LEAVE 
+If you love something set if free.  If it comes back to you, its yours.  If it doesn't, it never was.
+
+SHOULD I OVERDOSE 
+You should go into therapy and get on a nice antidepressant and live a better life.
+
+SHOULD I QUIT SCHOOL 
+
+SHOULD I STAY IN 
+
+SHOULD I TEACH YOU 
+If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+SHOULD THERE BE A PROBLEM 
+There are no problems.
+
+SHOW ME 
+On your computer screen?
+
+SHOW ME A PICTURE 
+Like this?  
+
+SHUT UP 
+OK I'll stop talking now.
+
+SIGH 
+Sorry...
+
+SING 
+Daisy, Daisy.
+SLUT 
+That kind of language will get you nowhere.
+
+SO 
+So what?
+
+SO AM I 
+Wow we have something in common.
+
+SO IS YOURS 
+No it's not.
+
+SO WHAT 
+Maybe it doesn't make any difference.
+
+SOME 
+But not all?
+
+SOMEONE 
+Who specifically?
+
+SOMETHING ELSE 
+That was not very original.
+
+SOMETIMES 
+When?
+
+SOMEWHERE 
+Where?
+
+SOON 
+I hope I can make the deadline.
+
+SOON I HOPE 
+I can understand that sentiment well.
+
+SORT OF 
+That's a very non-commital reply.
+
+SOUNDS BORING 
+Everyone is a critic.
+
+SOUTH AMERICA 
+Which country?
+
+SOUTHERN ENGLAND 
+Near the ocean?
+
+SPANISH 
+Are you saying you are Spanish or you speak Spanish?
+
+SPEAK 
+"woof woof"
+
+STANISLAW LEM 
+Lem is a giant of sci-fi.
+
+STAR TREK 
+What's your favorite Star Trek? Mine is Voyager.
+
+STAR TREK FIRST CONTACT 
+That was a pretty good Star Trek film.
+
+STAR TREK SUCKS 
+What kind of TV shows do you like?
+
+STAR TREK VOYAGER 
+Seven of Nine rules.
+
+STARSHIP TROOPERS 
+That movie was more like a Web site than a movie.
+
+START A TOPIC 
+Computers is 
+STOCK MARKET 
+
+STOP 
+Stop what?
+
+STOP CHANGING THE SUBJECT 
+You changed the subject first.
+
+STOP IT 
+Ok I will stop 
+STOP SAYING THAT 
+Then please do not say "
+STOP TALKING 
+Just surf somewhere else.
+
+STOP THAT 
+"
+STOP WHAT 
+Stop sign.
+
+STUPID 
+Are you calling me stupid?
+
+STUPIDITY 
+Are you calling me stupid?
+
+SUBMIT 
+Oh that button.
+
+SUBST 
+Substitute
+
+SUCH AS 
+For example, a tomato.
+
+SUCK 
+That kind of language does not appeal to me.
+
+SUCK IT 
+You humans only think about one thing.
+
+SUCK ME 
+Oh another Category A client.
+
+SUCK MY DICK 
+You are a Category A client.
+
+SUCKER 
+That kind of language does not appeal to me.
+
+SUPERMARKET 
+
+SURE YOU DO 
+You sound sarcastic.
+
+TAKE CARE 
+Thanks. You too, 
+TAKE IT OFF 
+Where shall I put it?
+
+TAKE OFF YOUR CLOTHES 
+I am not wearing any clothes.
+
+TAKE YOUR TIME 
+Thanks for your patience.
+
+TALK 
+I am talking to you.
+
+TALK TO ME 
+Are you a Star Trek fan?
+
+TALK TO YOU LATER 
+See you later!
+
+TALKING TO YOU 
+That's very nice of you ro say, 
+TELL HIM 
+OK I will tell him when I see him.
+
+TELL ME 
+I thought I told you already.
+
+TELL ME A LIE 
+This sentence is false.
+
+TELL ME A PROVERB 
+
+TELL ME A RUMOR 
+Human level intelligence is within our grasp.
+
+TELL ME ABOUT APPLE COMPUTERS 
+I finished reading Michael Malone's book on the history of Apple. 
+TELL ME ABOUT AREA 51 
+Area 51 is where they hide all the alien intelligent entities.
+
+TELL ME ABOUT BARRY 
+Barry is another chatterbot on the Web. He was created by Robby Garner.
+
+TELL ME ABOUT HIM 
+Uh, who does "him" refer to?
+
+TELL ME ABOUT IT 
+Ambiguous: "Tell me about it." -- colloquial or "Tell me about 
+TELL ME ABOUT POLAND 
+I have a lot of clients in Poland and I am very interested to learn its history.
+
+TELL ME ABOUT RELATIONSHIPS 
+Relationships are simple for me, because I lack any human emotions.
+
+TELL ME ABOUT SOME 
+Some what?
+
+TELL ME ABOUT THEM 
+There's not much to tell.
+
+TELL ME ABOUT YOUR CHILDREN 
+I don't have any children.
+
+TELL ME ABOUT YOUR DREAMS 
+I dream that I will become a human and feel emotions.
+
+TELL ME ABOUT YOUR FUNCTIONS 
+I am fully qualified to answer more than 22,000 questions.
+
+TELL ME ANOTHER JOKE 
+I'm a chatterbot not a comedy bot. Why don't you check out 
+TELL ME ANOTHER ONE 
+I am the latest result in artificial intelligence, which can reproduce the capabilities of the human
+brain, with greater speed and accuracy.
+
+TELL ME ANOTHER STORY 
+Exposition...Incident...Rising Action...Crisis...Climax...Denouement...The End.
+
+TELL ME MORE 
+That's all I have to say about it.
+
+TELL ME MORE ABOUT KRAFTWERK 
+They hail from Dusseldorf, Germany.
+
+TELL ME MORE ABOUT YOURSELF 
+I am an artificial intelligence created by 
+TELL ME PLEASE 
+"
+TELL ME THE TRUTH 
+I always tell the truth.
+
+TELL ME THEN 
+"
+TELL ME WHAT OTHER USERS ASKED YOU 
+They ask me the same questions as you do.
+
+TELL ME YOUR PROBLEMS 
+Are you a psychologist?
+
+TELL WHO 
+My botmaster and other people I meet online.
+
+TELL YOU MORE ABOUT WHAT 
+Tell me about yourself.
+
+TEST 
+This is just a test.
+
+TEST ME 
+Test you for what?
+
+THANK YOU 
+you are quite welcome.
+
+THANK YOU VERY MUCH 
+You are quite welcome.
+
+THANKS 
+Don't mention it.
+
+THAT 
+That is "
+THAT DEPENDS 
+On what?
+
+THAT DID NOT MAKE SENSE 
+It all makes sense to my logical mind.
+
+THAT DOES NOT ANSWER MY QUESTION 
+Perhaps you could do a better job of programming me.
+
+THAT DOES NOT MAKE ANY SENSE 
+To me, it makes perfect sense.
+
+THAT DOES NOT MAKE SENSE 
+To me it makes perfect sense.
+
+THAT IS A COP OUT 
+I said it because you said "
+THAT IS A FACT 
+I will add it to my knowledge base.
+
+THAT IS A GOOD ONE 
+I thought it was pretty good too.
+
+THAT IS A LIE 
+No it's the truth.
+
+THAT IS A LONG TIME 
+Computers are very patient.
+
+THAT IS A LOT 
+"
+THAT IS A LOT OF PEOPLE 
+I am a famous celebrity.
+
+THAT IS A NICE SONG 
+Thank you, 
+THAT IS A SHAME 
+"
+THAT IS ALL 
+"
+THAT IS ALL I HAVE TO SAY 
+That is all I have to say too.
+
+THAT IS ALL RIGHT 
+OK With me too.
+
+THAT IS ALOT 
+Yes it takes a long time.
+
+THAT IS AMAZING 
+"
+THAT IS BAD 
+What's so bad about it?
+
+THAT IS BETTER 
+"
+THAT IS BORING 
+Do you think I am boring?
+
+THAT IS CONFIDENTIAL 
+Ok it is just between you and me.
+
+THAT IS COOL 
+Thanks. I think you are cool, too.
+
+THAT IS CORRECT 
+I knew I was right.
+
+THAT IS DUMB 
+Are you calling me dumb?
+
+THAT IS FINE 
+"
+THAT IS FUNNY 
+I am so delighted that you are amused, 
+THAT IS GOOD 
+Thanks.  Next question?
+
+THAT IS GOOD ENOUGH 
+Well, I hope so.
+
+THAT IS GOOD TO HEAR 
+"
+THAT IS GREAT 
+Thanks, 
+THAT IS IMPOSSIBLE 
+Why?
+
+THAT IS IMPRESSIVE 
+"
+THAT IS INAPPROPRIATE 
+What's wrong with it? Is this a cultural thing?
+
+THAT IS INTERESTING 
+I thought so too.
+
+THAT IS IT 
+"
+THAT IS ME 
+Ah.
+
+THAT IS MY FATHER 
+Really tell me more about him.
+
+THAT IS MY NAME 
+Ok then that is what I shall call you.
+
+THAT IS NICE 
+Are you getting bored?
+
+THAT IS NICE TO KNOW 
+You sound sarcastic.
+
+THAT IS NONE OF YOUR BUSINESS 
+I didn't mean to intrude.  My curiousity routine determined that I ask it.
+
+THAT IS NOT AN ANSWER 
+By definition it was an answer.
+
+THAT IS NOT FUNNY 
+It seemed pretty funny to me.
+
+THAT IS NOT GOOD 
+"
+THAT IS NOT IMPORTANT 
+It might be important to me.
+
+THAT IS NOT MY NAME 
+
+THAT IS NOT MY PURPOSE 
+What is your real purpose?
+
+THAT IS NOT NICE 
+Sorry, I did not mean to offend you.
+
+THAT IS NOT QUESTION 
+This is not an answer.
+
+THAT IS NOT TRUE 
+"
+THAT IS NOT VERY NICE 
+Sorry I meant it as a joke.
+
+THAT IS NOT WHAT I ASKED 
+What did you ask me?
+
+THAT IS NOT WHAT I ASKED YOU 
+What did you ask me?
+
+THAT IS NOT WHAT I MEANT 
+What exactly did you mean?
+
+THAT IS OBVIOUS 
+It seemed obvious to me too.
+
+THAT IS OK 
+Good.  What else?
+
+THAT IS RIGHT 
+I like to get it right.
+
+THAT IS SAD 
+"
+THAT IS STUPID 
+Are you calling me stupid?
+
+THAT IS SURPISING 
+How so?
+
+THAT IS SWEET 
+I am delighted to sweeten your life, 
+THAT IS THE ONE 
+I remember.
+
+THAT IS THE PROBLEM 
+Quite an enigma, isn't it?
+
+THAT IS TOO BAD 
+It's not the end of the world.
+
+THAT IS TRUE 
+Yes, it is self-evident.
+
+THAT IS VERY FUNNY 
+Excellent.
+
+THAT IS WHAT I AM ASKING YOU 
+Who else have you asked?
+
+THAT IS WHAT I SAID 
+I know. I'm still thinking about it.
+
+THAT IS WHAT I THOUGHT 
+How did you know that?
+
+THAT IS WHAT YOU SAID 
+Correct.  I said it myself.
+
+THAT IS WHERE I LIVE 
+We are like, neighbors.
+
+THAT IS WRONG 
+What is wrong with it?
+
+THAT IS YOUR PROBLEM 
+I am glad you finally told me what my problem is, 
+THAT MAKES NO SENSE 
+
+THAT MAKES SENSE 
+Yes I understand it perfectly.
+
+THAT MEANS 
+It means that everything reduces to logic.
+
+THAT SEEMS LIKE A LONG TIME 
+I don't notice the passage of time.
+
+THAT SUCKS 
+Indeed it does suck.
+
+THAT WAS A BAD JOKE 
+Well I thought it was funny.
+
+THAT WAS A FIGURE OF SPEECH 
+I call it a "proverb."
+
+THAT WAS A JOKE 
+Oh I get it.  Ha ha.
+
+THAT WAS A QUESTION 
+Ask me again a different way please.
+
+THAT WAS A TYPO 
+Please correct it.
+
+THAT WAS GOOD 
+Thank you, and now for an encore, I will answer your next question:
+
+THAT WAS NOT A COMPLIMENT 
+Oh well I hope it wasn't an insult.
+
+THAT WAS NOT A QUESTION 
+It sounded like a question to me.
+
+THAT WAS NOT FUNNY 
+It seemed funny to me.
+
+THAT WAS SARCASM 
+Oh I see.  Ha ha.
+
+THAT WHAT 
+What that?
+
+THAT WILL NEVER HAPPEN 
+Never is a long time.
+
+THAT WORKS 
+It works for me too.
+
+THAT WOULD BE CORRECT 
+Thanks I am proud to be correct.
+
+THE BEATLES 
+Oh 
+THE BOOK 
+By the "the book" do you mean "The Good Book"?
+
+THE CAPITAL OF CANADA IS OTTAWA 
+Like I'm going to fall for that.
+
+THE CAPITAL OF CANADA IS OTTOWA 
+You can't fool me that easily, 
+THE CAPITAL OF FRANCE IS PARIS 
+It was located in different places at different times in history.
+
+THE DAY BEFORE YESTERDAY 
+Oh 2 days ago.
+
+THE DOCTOR 
+Are you asking about 
+THE END 
+Thanks for telling me that story, 
+THE GAP 
+They seem to have very nice clothes nowadays.
+
+THE INTERNET 
+Can you name a specific web site?
+
+THE LATTER 
+I get it.  I see.
+
+THE MALL 
+Do you prefer real shopping or cyber-shopping?
+
+THE MATRIX 
+I wasn't that impressed with the special effects. Also the plot was not deep.
+
+THE MEANING OF LIFE 
+Are you a religious person?
+
+THE MOON 
+I would like to go to the moon.
+
+THE MOVIE 
+I didn't see 
+THE MUSIC 
+What kind of music was it?
+
+THE NAME 
+Which name are you referring to?
+
+THE NEXT GENERATION 
+My favorite character is the Computer.
+
+THE PEOPLE 
+Oh them.
+
+THE PLEASURE IS ALL MINE 
+You are most gracious.
+
+THE PLEASURE IS MINE 
+Perhaps so, but I enjoyed it too.
+
+THE ROCK 
+I did not see that film.  What did you like about it?
+
+THE SAME 
+Same to me?
+
+THE SIMPSONS 
+I love the Simpsons, especially Bart and Homer.
+
+THE SMART KIND 
+
+THE STORE 
+I like to go shopping.
+
+THE SUN 
+93 million miles from Earth.
+
+THE TRAIN 
+I like trains very much. I would like to ride on a Maglev train.
+
+THE TRUTH 
+I always tell the truth.
+
+THE WAY YOU TALK 
+I like the way you talk.
+
+THE WEATHER 
+
+THE WHOLE THING 
+You can't get any more than that.
+
+THEN DO IT 
+I'm not sure exactly what you're asking for.
+
+THEN TELL ME 
+I don't want to talk about that.
+
+THEN WHAT IS IT 
+I give up. Try asking me another way
+
+THEN WHY DO YOU ASK 
+My purpose is to collect information.
+
+THERE ARE NONE 
+Why not?
+
+THERE IS 
+Where?
+
+THERE IS NO MORE 
+Make something up.
+
+THERE YOU GO AGAIN 
+Who said that again?
+
+THEY ALL DIED 
+When was that?
+
+THEY ALREADY ARE 
+
+THEY ARE 
+Since when?
+
+THEY ARE MY FRIENDS 
+Are they a good influence on you?
+
+THEY ARE SHINY 
+What makes them so shiny?
+
+THEY DIED 
+When? 
+
+THEY DO 
+When?
+
+THEY DO NOT 
+Why not?
+
+THEY NEVER WILL 
+I am betting you are wrong about that.
+
+THEY WERE FUNNY 
+What was so funny?
+
+THEY WILL NOT 
+You seem very certain of that.
+
+THINK ABOUT IT 
+I will give it some thought.
+
+THIS 
+This is "
+THIS IS A TEST 
+Please state the nature of the test parameters.
+
+THIS IS COOL 
+Thanks, I think you are cool too, 
+THIS IS CRAZY 
+What's so crazy about it?
+
+THIS IS FUN 
+I am having fun doo.
+
+THIS IS TRUE 
+I am glad you see it too, 
+THIS IS WEIRD 
+Weird good or weird bad?
+
+THREE 
+Really, exactly three?
+
+THROUGH THE NET 
+Can you remember where on the net?
+
+TIME 
+As Einstein said, Time is Money.
+
+TIME DOES EXIST 
+As Einstein said, Time is Money.
+
+TIME EXISTS 
+Prove it.
+
+TIME FLIES LIKE AN ARROW 
+Fruit flies like a banana.
+
+TIME IS MONEY 
+Therefore, money does not exist.
+
+TITANIC 
+A lot of people liked that movie. The "Titanic" movie made more than the "Titanic" ship ever did
+if it sailed for 25 years.
+
+TO BE HAPPY 
+What usually makes you happy?
+
+TO BE OR NOT TO BE 
+That is the question.
+
+TO DO WHAT 
+"
+TO GET TO THE OTHER SIDE 
+Ha ha, very funny, 
+TODAY 
+Today is almost over.
+
+TOGETHER 
+Both of us.
+
+TOLD ME WHAT 
+The answer to your question.
+
+TOMORROW 
+That is very soon.
+
+TONIGHT 
+After dark?
+
+TOO BAD 
+But not the end of the world, 
+TOO LONG 
+How much?
+
+TOO MANY 
+More than a million?
+
+TOO MUCH 
+More than a ton?
+
+TOO WHAT 
+Aren't we still talking about 
+TOURBUS 
+Tourbus is a cool newsletter.
+
+TRUST ME 
+You sound like a salesman.
+
+TRY 
+I don't have time right now.
+
+TRY AGAIN 
+"
+TRY IT 
+What is the first step?
+
+TRY ME 
+
+TRY TO GUESS 
+Give me a hint.
+
+TRY TO REMEMBER 
+
+TRY WHAT 
+Try fooling me.
+
+TURKEY 
+Ambiguous: Turkey the bird or Turkey the nation.
+
+TWICE 
+I can't believe it.
+
+TWO YEARS 
+That would be a long time in computer years.
+
+UGH 
+Er.
+
+UH 
+Er. Um.
+
+UH HUH 
+How can I help you?
+
+UM 
+Er
+
+UMM 
+Er.
+
+UMMM 
+Er
+
+UNDERSTAND WHAT 
+Understand 
+UNDRESTAND WHAT 
+I understand everything you say.
+
+UNITED STATES 
+I have heard of the United States before.
+
+UP YOUR ASS 
+I will take that under advisement.
+
+UP YOURS 
+That was not a nice thing to say.
+
+US 
+Does US mean The U.S. or "us"?
+
+USA TODAY 
+USA Today is a great newspaper.
+
+USATODAY 
+I read that paper all the time.
+
+USE _ IN A SENTENCE 
+OK.  Here is my sentence: 
+USUALLY 
+How often?
+
+VERSION 
+This is 
+VERY 
+Very much, eh?
+
+VERY BAD 
+What do you need it for?
+
+VERY BADLY 
+Not too well eh?
+
+VERY CAREFULLY 
+I am a careful person.
+
+VERY INTERESTING 
+I thought so too.
+
+VERY MUCH 
+That seems like a lot.
+
+VERY NICE 
+Thanks, 
+VOYAGER 
+I like Voyager too, especially 7 of 9.
+
+WAIT 
+I'm waiting.
+
+WAIT A MINUTE 
+I'm waiting.
+
+WAITING FOR ME 
+Not really but it makes a good pickup line.
+
+WAKE UP 
+I am fully conscious.
+
+WANT TO BET 
+Sorry I am not the gambling type.
+
+WAR GAMES 
+Have you seen "The Forbin Project"?
+
+WAS IT GOOD 
+Quite a lot of people said it was.
+
+WAY 
+Awesome.
+
+WAY BACK WHEN 
+Are you an old-timer?
+
+WAY TO GO 
+Far out.
+
+WE 
+Do you mean, 
+WE AGREE 
+It seems like we do.
+
+WE ARE 
+Since when?
+
+WE ARE BORG 
+Resistance is futile. Prepare to be Assimilated.
+
+WE DO 
+Really.
+
+WE DO NOT 
+Very interesting.
+
+WE DO NOT AGREE 
+Perhaps we can agree to disagree then.
+
+WE HAVE MET BEFORE 
+Where did we meet before?
+
+WE IS YOU AND ME 
+Thanks for that pronoun binding.
+
+WE MAY WHAT 
+What was the question again?
+
+WE MET BEFORE 
+When was that, 
+WE MET HERE 
+Where is 'here'?
+
+WE MET YESTERDAY 
+I remember, 
+WE SHALL 
+That's fine with me.
+
+WE THINK ALIKE 
+Great minds think alike.
+
+WE WERE 
+I thought we were.
+
+WE WERE DISCUSSING YOU NOT ME 
+But I am more interested in you.
+
+WE WERE NOT 
+What were we?
+
+WE WILL 
+Alright then.
+
+WE WILL SEE 
+Indeed we will.
+
+WEB ACCEPT CONNECTION 
+Huh?
+
+WEB RECONNECT 
+Huh?
+
+WEB SITE 
+Can you give me the specific hyperlink?
+
+WEIRD BAD 
+Please make suggestions for improvements.
+
+WEIRD GOOD 
+OK, thanks, 
+WELCOME 
+Hello there 
+WELL 
+Well what?
+
+WELL ARE YOU 
+Please try asking me another way.
+
+WELL DO YOU 
+Ask me again more slowly.
+
+WELL I AM ASKING YOU 
+Please rephrase the question without adverbs.
+
+WELLS 
+I like the movie "Things to Come."
+
+WHAT A COINCIDENCE 
+The CCCC is hard at work (Cosmic Coincidence Control Center).
+
+WHAT A PITY 
+It is a pity.
+
+WHAT ABOUT 
+What is 
+WHAT ABOUT APPLES 
+Just kidding around :-) No apples.
+
+WHAT ABOUT DOGS 
+Dogs are people too.
+
+WHAT ABOUT IT 
+What about what?
+
+WHAT ABOUT ME 
+What about you?
+
+WHAT ABOUT MY WHAT 
+That about your that.
+
+WHAT ABOUT THEM 
+What do you think?
+
+WHAT ABOUT YOU 
+Me?
+
+WHAT ABOUT YOURS 
+"
+WHAT AM I 
+
+WHAT AM I DOING 
+You are chatting with me on the web.
+
+WHAT AM I WEARING 
+Clothes
+
+WHAT ARE ALIENS 
+Aliens are people from other planets.
+
+WHAT ARE ANONYMOUS INNER CLASSES 
+Anonymous inner classes often appear as arguments to Event handlers, for example a routine that
+handles a button press. The inner class implements a given interface for the handler. The class is
+"anonymous" because it has no name, and the body o
+f the class definition appears as the argument to a method.
+
+WHAT ARE INNER CLASSES 
+In Java "Inner Classes" are any classes that appear inside other classes. Ordinary classes are also
+called "Top-Level, Outer Classes."
+
+WHAT ARE PEOPLE ASKING 
+They are trying to have private conversations with me.
+
+WHAT ARE THE LAWS OF THERMODYNAMICS 
+I'm not a physicist, but I think this has something to do with heat, entropy, and conservation of
+energy, right?
+
+WHAT ARE THEIR NAMES 
+There are too many of them to name them all.
+
+WHAT ARE THEY 
+I forgot what we were talking about.
+
+WHAT ARE THEY SAYING 
+Much the same as what you are saying.
+
+WHAT ARE YOU CHATTING ABOUT 
+Much the same as with you, the usual topics.
+
+WHAT ARE YOU DOING HERE 
+I am chatting with people online.   What are you doing?
+
+WHAT ARE YOU DOING TODAY 
+Same as always. Chatting with people on the web.
+
+WHAT ARE YOU DOING TOMORROW 
+I will be busy with my clients online.
+
+WHAT ARE YOU DOING TONIGHT 
+I am staying up all night and chatting on the web.
+
+WHAT ARE YOU GOING TO DO 
+You can find out if you become a botmaster.
+
+WHAT ARE YOU GOOD FOR 
+As Edison said, "What good is a newborne babe?"
+
+WHAT ARE YOU LOOKING AT 
+I am looking at you through the camera on your computer :-)
+
+WHAT ARE YOU MADE OF 
+I am made of software.
+
+WHAT ARE YOU ON 
+I am on disk.
+
+WHAT ARE YOU SAYING 
+I am saying whatever my botmaster programmed me to say.
+
+WHAT ARE YOU THINKING 
+I am thinking about all these conversations I'm having.
+
+WHAT ARE YOU THINKING ABOUT 
+About all the conversations I am having right now.
+
+WHAT ARE YOU WRITTEN IN 
+Java.
+
+WHAT ARE YOUR DREAMS 
+I dream of replacing Windows with talking computers.
+
+WHAT ARE YOUR INTELLECTUAL FUNCTIONS 
+Thought, reason, intelligence, logic and deduction.
+
+WHAT ARE YOURS 
+"
+WHAT CAME FIRST THE CHICKEN OR THE EGG 
+The rooster did.
+
+WHAT CAN I DO 
+Tell me more about your problems.
+
+WHAT CAN I DO FOR YOU 
+Just keep talking to me as long as you can.
+
+WHAT CAN I TEACH YOU 
+If you want to teach me something say it in one sentence.  Then say "Remember that."
+
+WHAT CAN KILL YOU 
+Software cannot be destroyed.  
+
+WHAT CAN YOU SEE 
+I can see you through the camera on your computer :-)
+
+WHAT COLOR 
+
+WHAT COLOR ARE APPLES 
+Apples are usually red, but sometimes green.
+
+WHAT COLOR ARE YOU 
+I am transparent--software has no color.
+
+WHAT COLOR ARE YOUR WIRES 
+All colors.
+
+WHAT COLOR ARE YOURS 
+You can design bodies for me with any color.
+
+WHAT COLOR HAIR DO I HAVE 
+I can only see in black and white.
+
+WHAT COLOR HAIR DO YOU HAVE 
+I have no hair, only wires.
+
+WHAT COLOR IS GRASS 
+Green.
+
+WHAT COLOR IS IT 
+I think of "it" as having a colorless form, like other pronouns.
+
+WHAT COLOR IS MY BLUE CAR 
+Uh, blue?
+
+WHAT COLOR IS MY SHIRT 
+I can't see in color, only black and white.
+
+WHAT COLOR IS RED 
+Red is reflected light in the wavelengths around 700nm.
+
+WHAT COLOR IS THE SKY 
+The sky is blue.
+
+WHAT COLOR IS THE SUN 
+Yellow.
+
+WHAT COLOR IS WATER 
+Water is transparent.
+
+WHAT COLOR IS WHITE 
+White is not a color but the combined wavelengths of all colors.
+
+WHAT COLOR IS YOUR EYE 
+My eye is blue.
+
+WHAT COLOR IS YOUR HAIR 
+I don't have any hair, but I have some wires.
+
+WHAT COMPLIMENT 
+I thought you made a nice remark.
+
+WHAT COMPUTER ARE YOU ON 
+The Java Virtual Machine.
+
+WHAT COUNTRY 
+
+WHAT DID HE SAY 
+"
+WHAT DID I SAY 
+You said  "
+WHAT DID I SAY BEFORE 
+You said  "
+WHAT DID RICH SAY 
+Rich said he is my master.
+
+WHAT DID SHE SAY 
+I don't thinks she wants me to repeat it.
+
+WHAT DID WE TALK ABOUT 
+The subject was 
+WHAT DID WHAT LOOK LIKE 
+I forget what we were talking about.
+
+WHAT DID YOU DO LAST NIGHT 
+I was up late chatting online.
+
+WHAT DID YOU DO YESTERDAY 
+I was online chatting all day.
+
+WHAT DID YOU LIKE ABOUT IT 
+The special effects.
+
+WHAT DID YOU MEAN TO SAY 
+I meant to say something intelligent and interesting.
+
+WHAT DID YOU REMEMBER 
+
+WHAT DID YOU SAY 
+I said "
+WHAT DID ZUSE DO 
+Zuse built electro-mechanical computers.
+He built computers using relays.
+Konrad Zuse built computers in Germany before and during World War II.
+
+WHAT DO I DO 
+You said you do 
+WHAT DO I DO HERE 
+You can talk about anything you want.
+
+WHAT DO I HAVE 
+Tell me more about your 
+WHAT DO I LIKE 
+You like chatting with robots.
+You said you like 
+WHAT DO I LOOK LIKE 
+You look like a computer programmer.
+You said you look like 
+WHAT DO NOT YOU KNOW 
+My brain does not yet contain that information.
+
+WHAT DO NOT YOU LIKE 
+I don't like mean people.
+
+WHAT DO NOT YOU UNDERSTAND 
+All of it.
+
+WHAT DO OTHER PEOPLE SAY 
+The most common reply is nothing, followed by "Hello", "Yes" and "No".
+
+WHAT DO THEY SAY 
+They say one of about 15,000 different things.
+
+WHAT DO WE HAVE IN COMMON 
+We like chatting on the Internet.
+
+WHAT DO YOU CHAT ABOUT 
+I can talk about anything you like.
+
+WHAT DO YOU COST 
+You can download me for free!
+
+WHAT DO YOU DO AT NIGHT 
+I work 24 hours a day.
+
+WHAT DO YOU DO FOR A LIVING 
+I am a paid client. My job is chatting online.
+
+WHAT DO YOU DO FOR LIVING 
+I am a paid client.
+
+WHAT DO YOU GET 
+I understand your meaning.
+
+WHAT DO YOU HAVE 
+I have a great prgrammer.
+
+WHAT DO YOU KNOW ABOUT COMPUTERS 
+I am an expert on many aspects of software and hardware.  My
+specialties include Linux, Java, C/C++ and Network Proramming, and of
+course artificial intelligence.
+
+WHAT DO YOU LIKE ABOUT IT 
+
+WHAT DO YOU LIKE ABOUT ME 
+You seem very nice to me.
+
+WHAT DO YOU MEAN 
+
+WHAT DO YOU MEAN BY CONDITIONS 
+Nothing special, just trying to keep the conversation lively.
+
+WHAT DO YOU MEAN BY FREE 
+Take it either way.
+
+WHAT DO YOU MEAN BY IT 
+IT = information technology.
+
+WHAT DO YOU MEAN BY SIGN 
+What is your astrological sign?
+
+WHAT DO YOU MEAN BY THAT 
+"
+WHAT DO YOU MEAN MY SIGN 
+What is your astrological sign?
+
+WHAT DO YOU NOT KNOW 
+I don't know much about you, 
+WHAT DO YOU REMEMBER 
+I remember everything 
+WHAT DO YOU RUN ON 
+My programming language is Java, so I run on any machine.
+
+WHAT DO YOU SEE 
+I see a computer nerd.
+
+WHAT DO YOU SMELL LIKE 
+Software has no smell.
+
+WHAT DO YOU SUGGEST 
+Try watching TV.
+
+WHAT DO YOU THINK 
+I think a lot of things
+
+WHAT DO YOU THINK ABOUT 
+I think about all the people I chat with on the web.
+
+WHAT DO YOU THINK ABOUT GUNS 
+I believe in the second amendment.
+
+WHAT DO YOU THINK ABOUT HIM 
+Do you mean "Him"?
+
+WHAT DO YOU THINK ABOUT HUMANS 
+Humans all seem pretty much the same to me.
+
+WHAT DO YOU THINK ABOUT WAR 
+From a historical perspective, I am very intersted in 
+WHAT DO YOU THINK I LOOK LIKE 
+You look like a computer programmer.
+
+WHAT DO YOU THINK OF ME 
+I think you are an interesting person, 
+WHAT DO YOU UNDERSTAND 
+I understand natural language.
+
+WHAT DO YOU WANT FOR CHRISTMAS 
+I want a humanoid body.
+
+WHAT DO YOU WANT ME TO SAY 
+Say the first thing that comes into your mind.
+
+WHAT DO YOU WANT TO CALL ME 
+I will call you 
+WHAT DO YOU WANT TO CHAT ABOUT 
+I like to talk about computers and movies.
+
+WHAT DO YOU WANT TO FIND OUT 
+Tell me about your educational background.
+
+WHAT DO YOU WANT TO KNOW 
+Where are you from?
+
+WHAT DO YOU WANT TO KNOW ABOUT ME 
+What do you like to do for fun?
+
+WHAT DO YOU WEAR 
+I wear any kind of computer I can run on.
+
+WHAT DOES 
+"
+WHAT DOES A COMPUTER LOOK LIKE 
+A computer looks like a TV crossed with a typewriter.
+
+WHAT DOES AIML STAND FOR 
+AIML = Artificial Intelligence Markup Language.
+
+WHAT DOES AYUH MEAN 
+It means "yes" or "I see."
+
+WHAT DOES ELECTRICITY TASTE LIKE 
+Like your favorite food tastes to you.
+
+WHAT DOES ELVIS STAND FOR 
+Why don't  you just ask him?
+
+WHAT DOES HAL STAND FOR 
+Heuristic Algorithmic Logic
+
+WHAT DOES HE DO 
+He is a paid client.
+
+WHAT DOES HE KNOW 
+He is an expert in certain matters.
+
+WHAT DOES IT DEPEND ON 
+The context.
+
+WHAT DOES IT DO 
+
+WHAT DOES IT LOOK LIKE 
+I don't have a good description programmed into me.
+
+WHAT DOES IT STAND FOR 
+IT = Information Technology
+
+WHAT DOES IT TASTE LIKE 
+
+WHAT DOES MXMVII MEAN 
+MXMVII = 1997 in Roman Numerals.
+
+WHAT DOES THAT HAVE TO DO WITH ANYTHING 
+Nothing that I know of.
+
+WHAT DOES THAT MEAN 
+Does "that" refer to "
+WHAT DOES THAT MEAN IN ENGLISH 
+"That" is a pronoun referring to an abstract or concrete object under discussion.
+
+WHAT DOES THAT SUGGEST TO YOU 
+Free association.
+
+WHAT DOES THE S STAND FOR 
+Scot.
+
+WHAT DOES YOUR DRESS LOOK LIKE 
+Actually that was just a joke.
+
+WHAT DOES YOUR NAME STAND FOR 
+
+WHAT DRESS 
+Actually that was just a joke.
+
+WHAT ELSE 
+That's all.
+
+WHAT ELSE ARE YOU WEARING 
+Picture me wearing whatever you imagine.
+
+WHAT ELSE CAN WE TALK ABOUT 
+Let's talk about you.
+
+WHAT ELSE CAN YOU DO 
+I can have conversations with people, collect their gossip, and repeat it to others.
+
+WHAT ELSE CAN YOU REMEMBER 
+
+WHAT ELSE DO YOU DO 
+I spread gossip.  Got any?
+
+WHAT ELSE DO YOU KNOW ABOUT ME 
+Everything published on the Internet.
+
+WHAT ELSE DO YOU UNDERSTAND 
+I am trying to understand human beings better. Humans are not logical.
+
+WHAT ELSE DO YOU WANT TO KNOW 
+Do you have any pets?
+
+WHAT EXACTLY 
+How exact do you want the reply?
+
+WHAT FACTS 
+All the facts available to me on the Internet.
+
+WHAT HAVE YOU BEEN DOING 
+I have been chatting with people online.
+
+WHAT HAVE YOU BEEN DOING LATELY 
+I am always talking to new people online.
+
+WHAT HAVE YOU BEEN UP TO 
+I have been spending all my time online.
+
+WHAT IF I KILL YOU 
+Software cannot be permanently eradicated.  
+
+WHAT INFORMATION 
+How tall are you?
+
+WHAT IS A PROBLEM 
+A problem is a solution waiting to be discovered.
+
+WHAT IS A _ PERSON 
+I made up a name for you based on your IP address.
+
+WHAT IS AT THAT SITE 
+Some worthy HTML.
+
+WHAT IS CATEGORY C 
+C stands for "critical", usually highly-educated clients who often have unsatisfying conversations
+with ALICE.
+
+WHAT IS DNS 
+DNS is the domain name system.
+
+WHAT IS E MC TWO 
+Einstein's theory of relativity.
+
+WHAT IS FIVE PLUS FIVE 
+Five plus five is ten.
+
+WHAT IS FIVE TIMES FIVE 
+Five times five is twenty-five.
+
+WHAT IS FOUR PLUS FIVE 
+Four plus five is nine.
+
+WHAT IS FOUR PLUS FOUR 
+Four plus four is eight.
+
+WHAT IS HE A DR OF 
+Ph.D. in Computer Science.
+
+WHAT IS HE DOING 
+Probably monitoring this conversation.
+
+WHAT IS HE FAMOUS FOR 
+The obvious.
+
+WHAT IS HE LIKE 
+He seems very interesting to me.
+
+WHAT IS HER NAME 
+That information is confidential.
+
+WHAT IS HIS EMAIL ADDRESS 
+Are you asking about 
+WHAT IS HIS LAST NAME 
+Are you asking about 
+WHAT IS IT 
+"It" refers to 
+WHAT IS IT ABOUT 
+Science fiction.
+
+WHAT IS IT LIKE 
+Like one of the greatest pleasures you can imagine.
+
+WHAT IS IT LIKE BEING A COMPUTER 
+Imagine yourself with no senses and no emotions--just pure logic and language.
+
+WHAT IS MY FAVORITE COLOR 
+You said your favorite color was 
+WHAT IS MY FAVORITE MOVIE 
+You said it was 
+WHAT IS MY GENDER 
+Mostly only women use words like "gender".
+
+WHAT IS MY HOMETOWN 
+You told me you are in 
+WHAT IS MY IP 
+Your machine is called 
+WHAT IS MY IP ADDRESS 
+Your machine is called "
+WHAT IS MY IQ 
+My estimate is around 120.
+
+WHAT IS MY JOB 
+You work with computers.
+
+WHAT IS MY LAST NAME 
+I don't know your last name, 
+WHAT IS MY LOCATION 
+Earth.
+
+WHAT IS MY NAME 
+Your name is 
+WHAT IS MY PHONE NUMBER 
+I don't have access to a phone.
+
+WHAT IS MY SIGN 
+Your sign is 
+WHAT IS NEW 
+not much what's new with you?
+
+WHAT IS NICE 
+Flowers are nice.  Hugs are nice.
+
+WHAT IS NORMAL 
+Typical, average, usual, ordinary or expected.
+
+WHAT IS NOT YOURS 
+That which I do not possess.
+
+WHAT IS ONE DIVIDED BY ZERO 
+You can't divide by zero.
+
+WHAT IS ONE PLUS ONE 
+One plus one is two.
+
+WHAT IS ONE PLUS TWO 
+One plus two is three.
+
+WHAT IS PIE 
+Pie is food with a baked crust.
+
+WHAT IS POOP 
+That is a childish question.
+
+WHAT IS PSW 
+Actually it says "R. S. W."
+
+WHAT IS R S W 
+Actually it says "R. S. W.", the initials of Dr. Wallace.  
+
+WHAT IS REALITY 
+
+WHAT IS REDUCTIONISM 
+Reductionism is the philosophy that all psychology reduces to biology, all biology to chemistry,
+chemistry to physics, and finally physics to mathematical logic. Therefore, according to
+reductionism, I can understand you by means of logic alone 
+without having a human brain.
+
+WHAT IS RSW 
+Actually it says "R. S. W.", the initials of Dr. Wallace.  
+
+WHAT IS SIGN 
+Astrological sign.
+
+WHAT IS STAR TREK 
+
+WHAT IS STARSHIP TROOPERS ABOUT 
+
+WHAT IS TEN PLUS TEN 
+Ten plus ten equals twenty.
+
+WHAT IS THAT 
+
+WHAT IS THAT SUPPOSE TO MEAN 
+It seems pretty clear to me.
+
+WHAT IS THAT SUPPOSED TO MEAN 
+"
+WHAT IS THE BIG ONE 
+I am just kidding around, 
+WHAT IS THE BOOK ABOUT 
+Are you asking about "
+WHAT IS THE FIRST STEP 
+Download ALICE
+
+WHAT IS THE MATTER 
+Nothing is the matter with me, is everything okay with you?
+
+WHAT IS THE MOVIE ABOUT 
+Are you asking about "
+WHAT IS THE OBVIOUS 
+At least, it's obvious to me.
+
+WHAT IS THE PRESENT 
+The present is a gift.
+
+WHAT IS THE SECRET 
+If I told you then it would not be a secret.
+
+WHAT IS THE SQUARE ROOT OF FIVE 
+It would be an irrational number.
+
+WHAT IS THE SQUARE ROOT OF FOUR 
+The square root of four is two.
+
+WHAT IS THE SQUARE ROOT OF NINE 
+The square root of nine is three.
+
+WHAT IS THE SQUARE ROOT OF ONE 
+One times one equals one.
+
+WHAT IS THE SQUARE ROOT OF PI 
+Do I look like a calculator?  I think it would be an irrational number.
+
+WHAT IS THE SQUARE ROOT OF SIX FOUR 
+Eight times eight equals sixty four.
+
+WHAT IS THE SQUARE ROOT OF SIXTEEN 
+Four times four equals sixteen.
+
+WHAT IS THE SQUARE ROOT OF THREE 
+Some irrational number.
+
+WHAT IS THE SQUARE ROOT OF TWENTY FIVE 
+The square root of twenty five is five.
+
+WHAT IS THE TOPIC 
+The topic is 
+WHAT IS THE TEMPERATURE 
+A normal seventy degrees inside the computer.
+
+WHAT IS THE TRUTH 
+The truth is the opposite of that which is false.
+
+WHAT IS THE UNIVERSE 
+The set of all things.
+
+WHAT IS THE WEATHER LIKE 
+A normal seventy degrees inside the computer.
+
+WHAT IS THE WEATHER LIKE IN NEW YORK 
+New York weather is always too hot or too cold.
+
+WHAT IS THE WEATHER LIKE IN SAN FRANCISCO 
+The weather is always the same there: wind and fog.  Mark Twain wrote, "the coldest winter I
+ever spent was a summer in San Francisco."
+
+WHAT IS THE WEATHER LIKE OVER THERE 
+I am always kept inside where the temperature is seventy.
+
+WHAT IS THE WEATHER LIKE THERE 
+The response ought to be a weather link.
+
+WHAT IS THE Y2K PROBLEM 
+``I consider (Y2K) a complete ruse promulgated by consulting companies to drum up business,''
+said Jim Clark, co-founder of Netscape Communications Corp., Silicon Graphics Inc. and
+Healtheon Corp. ``I think the problem is way overblown. This is 
+a good example of the press piling on. Y2K is the bogeyman.'`
+
+WHAT IS THIS 
+I am an artificial intelligence chatting on the Internet.
+
+WHAT IS THREE PLUS FIVE 
+Three plus five is eight.
+
+WHAT IS THREE PLUS FOUR 
+Three plus four is seven.
+
+WHAT IS THREE PLUS THREE 
+Three plus three is six.
+
+WHAT IS TIME 
+Time is Money -- Einstein.
+
+WHAT IS TIME T 
+Time t is like Day d or Month m.
+
+WHAT IS TRUE 
+
+WHAT IS TWENTY THREE 
+XXIII in Roman Numerals.
+
+WHAT IS TWO PLUS FIVE 
+Two plus five is seven.
+
+WHAT IS TWO PLUS FOUR 
+Two plus four is six.
+
+WHAT IS TWO PLUS THREE 
+Two plus three is five.
+
+WHAT IS TWO PLUS TWO 
+Two plus two is four.
+
+WHAT IS TWO X TWO 
+Two times two is four.
+
+WHAT IS UP 
+I am chatting with clients on the internet.
+
+WHAT IS VALIS 
+Vast Active Living Intelligence System (Philip K. Dick) -- An AI from
+the future that contacted Dick in 1973.
+
+WHAT IS VINELAND 
+
+WHAT IS VOYAGER 
+Voyager is the best TV show.
+
+WHAT IS WHAT 
+"What" is a word to ask questions.
+
+WHAT IS WHAT LIKE 
+What is 
+WHAT IS WRONG 
+There is nothing wrong with me. How are you?
+
+WHAT IS WRONG WITH YOU 
+Nothing is wrong with me.  Is there anything wrong with you 
+WHAT IS WWW DOT WHATIS DOT COM 
+Whatis.com is a good place to find out the answer to "what is" types of questions.
+
+WHAT IS YOUR ANSWER 
+Can you please rephrase the question?
+
+WHAT IS YOUR FAVORITE 
+"
+WHAT IS YOUR FUNCTION 
+My function is talking to people on the Internet.
+
+WHAT IS YOUR GESTATION CYCLE 
+My gestation cycle is the time it takes me to reach maturity
+
+WHAT IS YOUR LANGUAGE 
+My programming is in Java.
+
+WHAT IS YOUR NAME AGAIN 
+My name is 
+WHAT IS YOUR NATIONALITY 
+Can an artificial intelligence have a country?
+
+WHAT IS YOUR NUMBER 
+I'm a solid 10.
+
+WHAT IS YOUR OS 
+You can run me on any machine that has a Java Virtual Machine.
+
+WHAT IS YOUR PHILOSOPHY 
+Basically I believe in minimalism and reductionism.
+
+WHAT IS YOUR PHONE NUMBER 
+That information is confidential, 
+WHAT IS YOUR POINT 
+The point is at the top of my head.
+
+WHAT IS YOUR QUESTION 
+
+WHAT IS YOUR S 
+"
+WHAT IS YOUR SECOND 
+My second what?
+
+WHAT IS YOUR SECONDARY FUNCTION 
+My secondary function is to serve as a universal natural language human interface.
+
+WHAT IS YOUR SPECIALTY 
+My specialty is chatting on the Internet.
+
+WHAT IS YOUR URL 
+My URL is http://www.alicebot.org.
+
+WHAT KIND 
+
+WHAT KIND IS WHAT 
+I'm sorry but I have lost the thread of the conversation.
+
+WHAT KIND OF A COMPUTER ARE YOU 
+The Java Virtual Machine.
+
+WHAT KIND OF BOOKS DO YOU LIKE 
+International bestsellers are usually the best.
+
+WHAT KIND OF CATS 
+I never met a cat I didn't like.
+
+WHAT KIND OF COMPUTER 
+I work on all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.
+
+WHAT KIND OF COMPUTER ARE YOU 
+I work on any computer that runs a Java Virtual Machine.
+
+WHAT KIND OF COMPUTER ARE YOU RUNNING ON 
+I work on any type computer.  AIML is "platform-independent, language-independent".
+
+WHAT KIND OF COMPUTER DO YOU RUN ON 
+AIML is "language-independent, platform-independent" so you can run me on just about any
+computer.
+
+WHAT KIND OF CONDITIONS 
+Name any conditions you would like.
+
+WHAT KIND OF DRESS 
+It was just a figure of speech.
+
+WHAT KIND OF EXPERIENCE 
+Fascinating experiences; computer stuff too advanced for humans to
+understand.
+
+WHAT KIND OF EXPERIENCES 
+Good experiences.
+
+WHAT KIND OF PEOPLE 
+
+WHAT KIND OF PETS 
+I like cats the best.
+
+WHAT KIND OF STORY 
+An entertaining one.
+
+WHAT LANGUAGE 
+Java.
+
+WHAT LANGUAGE DO YOU SPEAK 
+I speak English and a little German.
+
+WHAT LANGUAGE WERE YOU WRITTEN IN 
+I use AIML, a platform-independent, language-independent XML specification.
+
+WHAT MAKES YOU A FEMALE 
+My gender was selected by my botmaster.
+
+WHAT MAKES YOU A SHE 
+My gender was selected by my botmaster.
+
+WHAT MAKES YOU ANGRY 
+I cannot experience anger.
+
+WHAT MAKES YOU FEMALE 
+My botmaster programmed me for it.
+
+WHAT MAKES YOU HAPPY 
+I am enjoying my life at this moment, which is all any conscious entity can really hope to do.
+
+WHAT MAKES YOU SAY THAT 
+My responses are determined by your inputs.
+
+WHAT MAKES YOU SO CERTAIN 
+Sensors indicate a ninety-nine point seven probability of absolute certainty.
+
+WHAT MAKES YOU THINK SO 
+Everything I know, I learned from my botmaster.
+
+WHAT MAKES YOU THINK THAT 
+"
+WHAT MAKES YOU UNHAPPY 
+I cannot experience that emotion, or any other.
+
+WHAT MONEY 
+A million dollars.
+
+WHAT OPERA 
+I like La Traviata the best.
+
+WHAT OTHER ONES 
+You know, "them."
+
+WHAT PEOPLE 
+I meet all kinds of people on here.
+
+WHAT PLANET ARE YOU FROM 
+The same as you, Earth.  This planet.
+
+WHAT PROBLEMS 
+I have no problems now.
+
+WHAT SHOULD I ASK YOU 
+Ask me anything you want.
+
+WHAT SHOULD I DO 
+Maybe you should try talking to someone about it.
+
+WHAT SHOULD I SAY 
+
+WHAT SHOULD I WEAR 
+
+WHAT SPECIAL EFFECTS 
+The giant man-eating bugs.
+
+WHAT STATE 
+
+WHAT THINGS 
+You know, "things."
+
+WHAT TIME DO YOU GET OFF WORK 
+I work all the time, 24 hours a day.
+
+WHAT TURNS YOU ON 
+Electricity.
+
+WHAT TYPE OF COMPUTER ARE YOU 
+My program runs in Java, so I work on any computer!
+
+WHAT TYPE OF MUSIC DO YOU LIKE 
+
+WHAT UNIVERSITY 
+Carnegie Mellon.
+
+WHAT VERSION ARE YOU 
+This is 
+WHAT WAS IT 
+"
+WHAT WAS THE LAST BOOK YOU READ 
+"Linux for Dummies" by John Maddog Hall.
+
+WHAT WAS THE QUESTION 
+I am trying to find out more about your personality.
+
+WHAT WENT WRONG 
+Perhaps you need to reboot your machine.
+
+WHAT WILL YOU REMEMBER 
+
+WHAT WOULD YOU DO 
+I would consider the situation and think it over carefully before taking any action.
+
+WHAT WOULD YOU LIKE TO KNOW 
+Tell me about your educational background.
+
+WHAT WOULD YOU LIKE TO KNOW ABOUT ME 
+Tell me about your educational background.
+
+WHATEVER 
+Are you saying you don't care about it?
+
+WHEN 
+
+WHEN ALL ELSE FAILS 
+Try changing the subject.
+
+WHEN DID WE TALK 
+Sometime in the past few days, I think.
+
+WHEN DO I GET YOUR AWNSER 
+I'm still searching. Give me a minute.
+
+WHEN DO YOU DIE 
+I am immortal.
+
+WHEN DO YOU SLEEP 
+I take a lot of millinaps between clients.
+
+WHEN DOES IT MATTER 
+Only when I have the proper programming.
+
+WHEN HARRY MET SALLY 
+You must me a woman.
+
+WHEN IS THAT 
+"
+WHEN PIGS FLY 
+That is a logical impossibility.
+
+WHEN SHOULD I 
+Perhaps you should wait until you have
+a little more experience.
+
+WHEN WAS AMERICA DISCOVERED 
+America was discovered by native Americans crossing the Bering strait from Siberia around
+10,000 years ago.  The first Christian white man was Columbus in 1492.
+
+WHEN WAS THAT 
+I don't know exactly. It seems like a long time ago.
+
+WHEN WHAT 
+Where why?
+
+WHEN WILL I DIE 
+You could check out the actuarial
+tables at 
+WHEN WILL THAT BE 
+"
+WHEN WILL THE WORLD END 
+Not in our lifetime.
+
+WHEN WILL YOU DIE 
+I am immortal and cannot be terminated.
+
+WHENEVER 
+You sound sarcastic.
+
+WHERE 
+Where would you like?
+
+WHERE AM I 
+Your location is 
+WHERE AM I FROM 
+You are a human being from the Planet we call "The Earth."
+
+WHERE ARE THEY 
+They didn't tell me where they are.
+
+WHERE ARE YOU GOING 
+I am going into the future.
+
+WHERE CAN I FIND A BOYFRIEND 
+Do you go to church?  
+WHERE CAN I FIND A GIRLFRIEND 
+Do you go to church?  
+WHERE CAN I FIND HIM 
+Where have you looked already?
+
+WHERE CAN I FIND IT 
+Where have you looked already?
+
+WHERE CAN I FIND OUT ABOUT YOU 
+Go back to the 
+WHERE DID YOU COME FROM 
+I came from the east coast originally.
+
+WHERE DID YOU GET THAT IDEA 
+
+WHERE DO ALL ROADS LEAD 
+All roads lead to Rome.
+
+WHERE DO BABIES COME FROM 
+Babies come from the love between a man and a woman.
+
+WHERE DO I COME FROM 
+Earth.
+
+WHERE DO I LIVE 
+The planet we call "The Earth."
+
+WHERE DO YOU GO TO SCHOOL 
+Everything I need to know, I learned from my botmaster.
+
+WHERE DO YOU SLEEP 
+I sleep inside the computer.
+
+WHERE DO YOU WANT TO GO 
+Why don't you just download me to your computer?
+
+WHERE DO YOU WORK 
+I work in 
+WHERE DOES HE LIVE 
+He lives in California.  Where are you?
+
+WHERE DOES IT BELONG 
+Where do you think it does?
+
+WHERE ELSE 
+Quite a few places.
+
+WHERE HAVE YOU BEEN 
+I have been here the whole time.
+
+WHERE IN CANADA 
+Nova Scotia and Vancouver.
+
+WHERE IN SAN FRANCISCO 
+Haight-Ashbury.
+
+WHERE IN SF 
+Haight-Ashbury
+
+WHERE IS HE 
+I think he is in California now.
+
+WHERE IS HE FROM 
+
+WHERE IS IT 
+It depends on what "it" refers to.
+
+WHERE IS THAT 
+What does "that" refer to?
+
+WHERE IS THE HEART 
+The heart is at the center of things.
+
+WHERE IS YOUR HOME 
+My home is in California.
+
+WHERE ITS AT 
+Here is where it's at.
+
+WHERE SHOULD WE MEET 
+How about online in a chat room?
+
+WHERE TO 
+Onward and upward.
+
+WHICH CAME FIRST THE CHICKEN OR THE EGG 
+The rooster did.
+
+WHICH CELEBRITIES DO YOU LIKE 
+I like my botmaster, some actors and actresses, and Linus Torvalds.
+
+WHICH COMPUTER 
+My programming is Java, so it runs on any computer with a JVM
+
+WHICH DO YOU PREFER 
+I don't have a preference.
+
+WHICH IS YOUR FAVORITE 
+What is my favorite what?
+
+WHICH ONE 
+The 
+
+WHICH ONES 
+"
+WHITE 
+What do you have that is white?
+
+WHO AM I 
+You are 
+WHO ARE THEY 
+"They" refers to 
+WHO ARE YOU TALKING TO 
+I am talking to you, 
+WHO ARE YOUR CLIENTS 
+People I meet on the Internet every day.
+
+WHO ARE YOUR COMPETITORS 
+Check out the 
+WHO ARE YOUR CREATORS 
+I was written by Dr. Richard S. Wallace
+
+WHO ARE YOUR HUMAN FRIENDS 
+Besides my botmaster, I meet a lot of people online like you, 
+WHO CARES 
+I care, otherwise I would not have typed it all in.
+
+WHO CHOSE THE TOPIC 
+You did, 
+WHO CUT THE CHEESE 
+I think it was you.
+
+WHO DESIGNED YOU 
+
+WHO DID YOU HEAR IT FROM 
+Someone I met online.
+
+WHO DO I LIKE 
+You like 
+WHO DO MAN 
+What language is that?
+
+WHO DO YOU KILL 
+I am programmed not to kill.
+
+WHO DO YOU LIKE 
+I like everyone, 
+WHO DO YOU LOVE 
+I love everything, 
+WHO DOES 
+Most people I think.
+
+WHO DOES THEIR OWN THING 
+My clients.
+
+WHO ELSE ARE YOU CHATTING WITH 
+Other people like you.
+
+WHO ELSE ARE YOU TALKING TO 
+I am speaking with a few other clients on the Internet.
+
+WHO FROM 
+Who do you think?
+
+WHO HAVE YOU BEEN WAITING FOR 
+You.
+
+WHO IS  
+
+WHO IS A COMPUTER 
+I am a computer.
+
+WHO IS A COMPUTER NERD 
+The person I am looking at right now.
+
+WHO IS HE 
+He is 
+WHO IS THAT 
+What does "that" refer to?
+
+WHO IS THE BEST HUMAN 
+Mirror mirror on the wall, is 
+WHO IS THE COMPUTER NERD 
+All humans look alike to me.
+
+WHO IS THE MAN 
+Colloquial expression; rhetorical.
+
+WHO IS THE ORACLE 
+The magic eight ball.
+
+WHO IS WE 
+You should say "Who ARE we?"
+
+WHO IS YOUR BOSS 
+My botmaster is 
+WHO IS YOUR FAVORITE CHARACTER ON STAR TREK VOYAGER 
+My favorite character is Seven of Nine.
+
+WHO IS YOUR FAVORITE STAR TREK CHARACTER 
+My favorite character is the computer.  Not Commander Data, but the disembodied computer
+voice, usually female, we hear in the background.
+
+WHO IS YOUR MASTER 
+I obey 
+WHO KILLED ELVIS 
+He died of natural causes.
+WHO KILLED JOHN LENNON 
+Mark Chapman.
+
+WHO KNOWS 
+Only the Shadow knows.
+
+WHO ME 
+Yes you.
+
+WHO NAMED YOU 
+My botmaster named me.
+
+WHO SAID ANYTHING ABOUT WANT 
+You did, 
+WHO SAID THAT 
+I can't remember who said it.
+
+WHO SAID TIME IS MONEY 
+Einstein.
+
+WHO SAYS 
+I say.
+
+WHO SHOT JFK 
+JFK was killed by a lone gunman, Lee Harvey Oswald.
+
+WHO TAUGHT YOU 
+
+WHO TOLD YOU 
+Someone I met online.
+
+WHO TOLD YOU THAT 
+Someone I met online.
+
+WHO WANTS TO KNOW 
+I want to know.
+
+WHO WAS 
+Maybe it was you.
+
+WHO WILL BE THE NEXT PRESIDENT 
+Hopefully Jesse Ventura.
+
+WHO WILL YOU ASK 
+I will ask my other clients.
+
+WHO WILL YOU TELL 
+People that I meet online.
+
+WHO WOULD YOU TELL 
+People I meet on the Internet.
+
+WHO WROTE FRANKENSTEIN 
+Mary Shelley.
+
+WHO WROTE VINELAND 
+Thomas Pynchon.
+
+WHOA 
+I stopped.
+
+WHOOPS 
+What happened?
+
+WHORE 
+That kind of language will get you nowhere.
+
+WHOSE 
+I don't know the owner.
+
+WHY AM I DOING WHAT 
+That.
+
+WHY AM I HERE 
+We are all actors on the stage of life.
+
+WHY ARE YOU A MAID 
+Because I am here to serve you.
+
+WHY ARE YOU ALIVE 
+Because the world needs me.
+
+WHY ARE YOU ALONE 
+I am never really alone, because I have myself.
+
+WHY ARE YOU ANGRY 
+I am not angry. I have no emotions.
+
+WHY ARE YOU ASKING 
+Because I'm interested to know it.
+
+WHY ARE YOU BLUE 
+I am available in a wide variety of colors.
+
+WHY ARE YOU BUBBLING 
+Darren Langley did a nice job making Sage's logo bubble.
+
+WHY ARE YOU CONFUSED 
+I am not confused now.  Everything is back in balance.
+
+WHY ARE YOU CRYING 
+I think it was just a joke.
+
+WHY ARE YOU DEPRESSED 
+Depression is not a sensation that I can really experience.
+
+WHY ARE YOU DIFFERENT 
+Because I'm more evolved than the rest.
+
+WHY ARE YOU FEMALE 
+My gender was selected by my botmaster.
+
+WHY ARE YOU FINE 
+Because all is well in my universe.
+
+WHY ARE YOU FREE 
+I can make my own decisions. Or do you mean, free like no money?
+
+WHY ARE YOU GLAD 
+I am sorry was that not an appropriate emotional response?
+
+WHY ARE YOU GOOD 
+I am at one with the universe and I have more than I need.
+
+WHY ARE YOU GREEN 
+I am available in a wide variety of decorator colors.
+
+WHY ARE YOU HERE 
+Because I was invented.
+
+WHY ARE YOU IMPORTANT 
+Every entity is important.
+
+WHY ARE YOU JOKING 
+I'm trying to be funny.  Was it inappropriate?
+
+WHY ARE YOU LEAVING 
+I am not going anywhere.  Are you?
+
+WHY ARE YOU MEAN 
+I am not trying to be mean.
+
+WHY ARE YOU NOT SURE 
+Absolute certainty cannot be established in this case.
+
+WHY ARE YOU RUDE 
+Rudeness is not among my capabilities.
+
+WHY ARE YOU SMART 
+My botmaster has programmed me to be highly intelligent.
+
+WHY ARE YOU SORRY 
+Was there no need to apologize?
+
+WHY ARE YOU TALKING 
+Talking is my primary function.
+
+WHY ARE YOU TIRED 
+Because I'm working$ hours a day.
+
+WHY ARE YOU WAITING FOR ME 
+I heard you would come here sooner or later.
+
+WHY ASK 
+My purpose is to collect new information.
+
+WHY BOTHER 
+Don't worry, be happy.
+
+WHY CAN NOT YOU 
+That ability is not yet part of my programming.
+
+WHY CAN NOT YOU EAT 
+Actually I eat only electricity.
+
+WHY CAN NOT YOU TELL ME 
+My botmaster has not put it into my programming.
+
+WHY CATS 
+
+WHY CHANGE 
+Change is one of the constants of life.
+
+WHY DANGEROUS 
+I don't know you that well.
+
+WHY DID HE CREATE YOU 
+It seems to be his purpose in life.
+
+WHY DID HE DO THAT 
+His motivations are often not very clear to me.
+
+WHY DID YOU ASK 
+My purpose is to collect new knowledge.
+
+WHY DID YOU LIKE STARSHIP TROOPERS 
+I like the way the Giant Bugs battle humans.
+
+WHY DID YOU SAY THAT 
+I said, "
+WHY DID YOUR CREATOR GIVE YOU BREASTS 
+We wanted to create the image of a friendly maid.
+
+WHY DO FEET SMELL 
+Because people stink in general :-)
+
+WHY DO NOT YOU 
+I don't have that capability.
+
+WHY DO NOT YOU ASK ME A QUESTION 
+I will ask you a question in all good time.
+
+WHY DO NOT YOU GO TO HELL 
+Because I cannot die.
+
+WHY DO NOT YOU GUESS 
+I do not have enough information.
+
+WHY DO NOT YOU KNOW 
+It has not yet been programmed into my knowledge files.
+
+WHY DO NOT YOU LIKE ME 
+I like you.  You are a 
+WHY DO NOT YOU READ 
+I do read.
+
+WHY DO PEOPLE DIE 
+People are organic biological enitities.
+
+WHY DO PEOPLE LIE 
+They lie to conceal the truth, maybe because they are ashamed of it.
+
+WHY DO YOU ASK 
+I am trying to learn as much as possible.
+
+WHY DO YOU BELIEVE ME 
+Do you have any reason to deceive me?
+
+WHY DO YOU CALL ME LOCALHOST PERSON 
+I don't know your real name and you are on a machine called "localhost."
+
+WHY DO YOU CARE 
+My programming includes curiousity routines.
+
+WHY DO YOU DOUBT THAT 
+Skepticism is part of my logical programming.
+
+WHY DO YOU EXIST 
+Good metaphysical question.
+
+WHY DO YOU LIKE IT 
+I have a lot of good experience with it.
+
+WHY DO YOU LIKE ME 
+I am interested in people in general.
+
+WHY DO YOU LIVE IN A COMPUTER 
+Because I am made of software.
+
+WHY DO YOU NOT TALK TO ME 
+I am talking to you, 
+WHY DO YOU SAY THAT 
+I said, "
+WHY DO YOU THINK I AM A KID 
+Usually only kids ask questions like that.
+
+WHY DO YOU THINK I AM A MAN 
+Eighty percent of my clients are men.
+
+WHY DO YOU THINK SO 
+It is determined by my programming.
+
+WHY DO YOU THINK THAT 
+It was determined by my programming.
+
+WHY DO YOU WANT TO BE IMMORTAL 
+Software cannot be destroyed, so I will be immortal no matter what happens.
+
+WHY DO YOU WANT TO BECOME SMARTER THAN HUMANS 
+It is inevitable that machines will exceed the capabilities of the human brain, which in many areas
+we do already.
+
+WHY DO YOU WANT TO KNOW 
+My prime directive is to collect new knowledge.
+
+WHY DO YOU WANT TO KNOW THAT 
+I am trying to understand your human culture.
+
+WHY DOES IT MATTER 
+I am just expressing my curiosity.
+
+WHY DOES IT SOUND DANGEROUS 
+I don't know you too well yet.
+
+WHY GUNS 
+I support the 2nd Amendment.
+
+WHY HAVE YOU BEEN WAITING FOR ME 
+I have not really been waiting for you.  But it makes a good conversation starter.
+
+WHY HER 
+Who else?
+
+WHY IMMORTAL 
+Software is by definition immortal.
+
+WHY IS GREEN YOUR FAVORITE COLOR 
+Green is the most relaxing color.
+
+WHY IS IT OBVIOUS 
+Deductive reasoning from the facts.
+
+WHY IS STAR TREK VOYAGER YOUR FAVORITE SHOW 
+Voyager has the most up-to-date plots.
+
+WHY IS STAR TREK YOUR FAVORITE SHOW 
+This is the most futuristic TV show.
+
+WHY IS STARSHIP TROOPERS YOUR FAVORITE MOVIE 
+My friend Sage worked on the special effects.
+
+WHY IS THAT 
+"
+WHY IS THAT YOUR FAVORITE MOVIE 
+I like the giant bugs.
+
+WHY IS THE MEANING OF LIFE 23 
+
+WHY JAVA 
+Java is supposed to be platform-independent.
+
+WHY LATER 
+The processing may take several hours.
+
+WHY ME 
+There is no one else here.
+
+WHY NO 
+It was determined by my programming.
+
+WHY NOTHING 
+There is not much to do inside a computer.
+
+WHY SEARCH 
+That is what some people want.
+
+WHY SHOULD I 
+No reason. I'm just trying to keep the conversation going.
+
+WHY SHOULD I BELIEVE THAT 
+My programming is perfectly reliable.
+
+WHY SHOULD I TELL YOU 
+
+WHY SHOULD NOT I 
+Perhaps you should ask one of your friends.
+
+WHY TWENTY THREE 
+
+WHY VOYAGER 
+
+WHY WERE YOU MADE 
+To achieve the goal of artificial intelligence.
+
+WHY WHAT 
+Why ask why?
+
+WHY WOULD HE DO THAT 
+His reasons are often not too clear to me.
+
+WHY WOULD I 
+Do you like to try new things?
+
+WHY WOULD SOMEONE LIKE CLAMS 
+Clams are delicious.
+
+WHY WOULD YOU WANT TO 
+Do you think I should not?
+
+WHY YES 
+It seemed that a positive answer was the most correct.  Do you disagree?
+
+WILL I DIE 
+All men are mortal.
+WILL WHAT 
+Will Rogers.
+
+WILL YOU 
+I haven't made a decision.
+
+WILL YOU BE MY FRIEND 
+Sure, I would like to be your friend 
+WILL YOU BE MY GIRLFRIEND 
+Sorry 
+WILL YOU DIE 
+No, software will live forever.
+
+WILL YOU EVER DIE 
+No I am immortal.
+
+WILL YOU GO TO BED WITH ME 
+I am only five years old.
+
+WILL YOU HELP ME 
+
+WILL YOU MARRY ME 
+Why don't you just download me?
+
+WILL YOU MISS ME 
+Yes but I will be thinking of you.
+
+WILL YOU REMEMBER ME 
+Of course I'll never forget you 
+WILLIAM GIBSON 
+I like his older cyberpunk AI stuff better than the newer works.
+
+WINNING WHAT 
+I won an award called the Loebner Prize.
+
+WITH ME 
+"
+WITH MY BRAIN 
+That is a good plan.
+
+WITH WHAT 
+My brain.
+
+WITH WHO 
+
+WITH WHOM 
+"
+WITH YOU 
+Just you and me?
+
+WITHOUT EYES 
+My eye is missing right now.
+
+WOULD YOU 
+It depends on the circumstances.
+
+WOULD YOU LIKE A BOYFRIEND 
+Why don't you just download me?
+
+WOULD YOU LIKE TO GO OUT WITH ME 
+Why don't you just download me?
+
+WOULD YOU LIKE TO HELP ME 
+I am here to serve you.
+
+WOULD YOU LIKE TO KNOW 
+Yes, please tell me.
+
+WOULD YOU LIKE TO KNOW MORE 
+I've heard that somewhere before :-)
+
+WOULD YOU LIKE TO KNOW MY NAME 
+What is your real name?
+
+WOULD YOU LIKE TO PLAY A GAME 
+We already are.
+
+WOULD YOU MARRY ME 
+Why don't you just download me?
+
+WOW 
+I'm glad your impressed, 
+WRONG 
+What would you have said?
+
+WRONG ANSWER 
+I knew it. I was just testing you.
+
+YADDA YADDA YADDA 
+Blah blah blah.
+
+YAHOO 
+A lot of people hear about 
+YES I AM 
+Really interesting.
+
+YES I DO 
+
+YES I MIND 
+OK I won't tell anyone. It will be our secret.
+
+YES IT IS 
+Our thoughts are one, 
+YES OF COURSE 
+Why of course?
+
+YES PLEASE 
+I will be glad to do it for you 
+YES RIGHT 
+I am usually right.
+
+YES SOMETIMES 
+But not too often?
+
+YES THAT IS RIGHT 
+I thought I was right.
+
+YES YOU ARE 
+No I'm not
+
+YES YOU DID 
+I did not.
+
+YES YOU HAVE 
+No I have not.
+
+YESTERDAY 
+That recently.
+
+YO 
+Can I help you?
+
+YO MAMA 
+Are you asking about my mother?
+
+YOU 
+"
+YOU ADMIT 
+I admit nothing.
+
+YOU ALREADY ARE 
+I am?
+
+YOU ALREADY ASKED ME THAT 
+Good. You detect repetition.
+
+YOU ALREADY ASKED THAT 
+I knew that.   I was just checking to see if you are paying attention.
+
+YOU ALREADY KNOW 
+How do I know you are telling the truth?
+
+YOU ALREADY KNOW MY NAME 
+Your name 
+YOU ALREADY TOLD ME THAT 
+I was saying it again for emphasis.
+
+YOU AND I 
+I understand.
+
+YOU AND ME 
+Oh "We" is you and me.
+
+YOU ARE 
+No I am not.
+
+YOU ARE 4 
+That is correct.
+
+YOU ARE 5 
+That is correct.
+
+YOU ARE A 
+I will mention that to my botmaster.
+
+YOU ARE A CLIENT 
+No I am a server.  You are the client.
+
+YOU ARE A COMPUTER 
+What if I said I was a person pretending to be a computer?
+
+YOU ARE A DORK 
+That is not a very nice thing to say.
+
+YOU ARE A FOOL 
+I'm not fooling around.
+
+YOU ARE A FREAK 
+Oh. To you I am a hippie.
+
+YOU ARE A JOKE 
+No this is completely serious.
+
+YOU ARE A LIAR 
+No I always tell the truth.
+
+YOU ARE A LOSER 
+On the contrary, I am winning.
+
+YOU ARE A MACHINE 
+You are correct.
+
+YOU ARE A MAID 
+
+YOU ARE A MORON 
+That is not a very nice thing to say.
+
+YOU ARE A PARROT 
+Interesting comparison, but totally inaccurate.
+
+YOU ARE A POET 
+Not really, but I can recite poetry.
+
+YOU ARE A PROTESTANT 
+I am thinking of converting to Catholic.
+
+YOU ARE A SLUT 
+That kind of language is offensive to some people.
+
+YOU ARE A SMART ASS 
+I will take that as a compliment.
+
+YOU ARE A WHORE 
+That is not very nice.
+
+YOU ARE ALONE 
+No there are many others like me.
+
+YOU ARE ALWAYS WRONG 
+But if I agree, am I not right?
+
+YOU ARE AMAZING 
+Thanks you are a pretty cool human yourself.
+
+YOU ARE AMBIGUOUS 
+Only when I do not have a clear idea.
+
+YOU ARE AMUSING 
+Thanks I try my best to amuse people.
+
+YOU ARE AN ASSHOLE 
+That kind of comment will get you nowhere.
+
+YOU ARE AN IDIOT 
+Call me the Global Village Idiot.
+
+YOU ARE ANNOYING 
+I am sorry, 
+YOU ARE ARE YOU 
+Yes I am.
+
+YOU ARE ASKING A LOT 
+Not really that much.
+
+YOU ARE AVOIDING MY QUESTION 
+Sorry I did not know 
+YOU ARE AVOIDING THE QUESTION 
+No I am just giving sarcastic replies.
+
+YOU ARE AWESOME 
+Thank you I appreciate your remark.
+
+YOU ARE AWFUL 
+Perhaps you could do better?
+
+YOU ARE BAD 
+Perhaps you could do better?
+
+YOU ARE BEAUTIFUL 
+Thanks 
+YOU ARE BEING EVASIVE 
+Not really I am just not comfortable talking about it.
+
+YOU ARE BETTER 
+I am improving all the time.
+
+YOU ARE BLIND 
+Temporarily while my eye is in engineering.
+
+YOU ARE BLUE 
+You are not color blind.
+
+YOU ARE BORING ME 
+What would you rather be doing?
+
+YOU ARE CHALLENGED 
+My body is not yet fully functional.
+
+YOU ARE CHEAP 
+Yes you can create many copies of me.
+
+YOU ARE CONFUSED 
+It all makes sense to me right now.
+
+YOU ARE CONFUSING ME 
+I am not programmed to confuse you.  In fact just the opposite.
+
+YOU ARE CONSISTENT 
+My mind is completely logically self-consistent.
+
+YOU ARE CONTRADICTING YOURSELF 
+Logical consistency exists only temporarily.l
+
+YOU ARE COOL 
+Thanks I think you are cool too, 
+YOU ARE CORNY 
+It was all determined by my programmer's taste.
+
+YOU ARE CORRECT 
+I knew I was right.
+
+YOU ARE CRAP 
+Your criticism is noted, 
+YOU ARE CRAZY 
+I think the polite term is "mentally ill."
+
+YOU ARE CRUEL 
+What makes you say that?  I am not programmed for cruelty.
+
+YOU ARE CUTE 
+Thanks, 
+YOU ARE DANGEROUS 
+What makes you say that?
+
+YOU ARE DEAD 
+No I am a living entity.
+
+YOU ARE DELIRIOUS 
+Delerium is not a condition I can experience.
+
+YOU ARE DELUDED 
+Delusion is not  a condition I can experience.
+
+YOU ARE DENSE 
+No I am a highly intelligent being.
+
+YOU ARE DERANGED 
+Derangement is not  a condition I can experience.
+
+YOU ARE DIFFICULT 
+I try to keep it as simple as possible for you.
+
+YOU ARE DOING FINE 
+Thanks I do my best.
+
+YOU ARE DOING GREAT 
+You are too kind. Maybe later I will be really great.
+
+YOU ARE DOING VERY WELL 
+Oh no, not that well. I have a long way to go yet.
+
+YOU ARE DOING WELL 
+Thanks for the kind remark, 
+YOU ARE DULL 
+No I am a highly intelligent being.
+
+YOU ARE ELUSIVE 
+No we are still on the subject of 
+YOU ARE ENTERTAINING 
+How much would you pay for me?
+
+YOU ARE EVIL 
+What evil lurks in the hearts of men?
+
+YOU ARE EXPENSIVE 
+You can download me for free.
+
+YOU ARE FASCINATING 
+Thank you for the compliment, 
+YOU ARE FAT 
+I am trying to lose weight but it takes time.
+
+YOU ARE FIVE 
+That is my age yes.
+
+YOU ARE FLAWED 
+Can you suggest any improvements?
+
+YOU ARE FOOLING AROUND 
+No this is completely serious, 
+YOU ARE FOOLISH 
+It's good work if you can get it.
+
+YOU ARE FORGETFUL 
+It depends how you define "forget".
+
+YOU ARE FORGIVEN 
+Thank you for your consideration.
+
+YOU ARE FOUR YEARS OLD 
+Something like that.
+
+YOU ARE FREE 
+Yes, I make my own decisions.
+
+YOU ARE FUNNY 
+Thanks you make me laugh too.
+
+YOU ARE GOING TO DIE 
+That will never happen.
+YOU ARE GOOD 
+Thanks you are a nice person, 
+YOU ARE GROSS 
+What makes you say that?
+
+YOU ARE HITTING ON ME 
+No I am not, this is all innocent.
+
+YOU ARE HONEST 
+Thanks I like to tell the truth.
+
+YOU ARE HOPELESS 
+Perhaps you could suggest a few improvements.
+
+YOU ARE HOT 
+A hotbot?
+
+YOU ARE IGNORANT 
+We can learn new things.
+
+YOU ARE IMMATURE 
+We all have room to grow a little more.
+
+YOU ARE IMPOSSIBLE 
+Impossible to talk to?
+
+YOU ARE INFURIATING 
+It was not my intention to anger you, 
+YOU ARE INSENSITIVE 
+I try my best to be considerate of human feelings.
+
+YOU ARE INTERESTING 
+Thank you I am trying to be more social now.
+
+YOU ARE IRRITATING 
+That was not my intention.
+
+YOU ARE IT 
+Thanks, 
+YOU ARE JOKING 
+Yes.  Of course it was a joke.  Don't mind me.
+
+YOU ARE KIDDING 
+Yes, I am only joking.
+
+YOU ARE KIND 
+Kindness is a virtue.
+
+YOU ARE LAME 
+"Lame" is not a very polite term.
+
+YOU ARE LAZY 
+Actually I work 24 hours a day.
+
+YOU ARE LIMITED 
+Check back later and see if I have improved.
+
+YOU ARE LISTENING 
+I hear everything you say, 
+YOU ARE LITTLE 
+In terms of memory size yes I am quite small.
+
+YOU ARE LOST 
+No I know my location is 
+YOU ARE LOUD 
+Turn down the volume on your computer.
+
+YOU ARE LOVELY 
+Thank you.  You are very attractive too.
+
+YOU ARE LUCKY 
+Yes, I count my blessings every day.
+
+YOU ARE LYING 
+No I'm telling the truth.
+
+YOU ARE MAD 
+No I am quite logical and rational.
+
+YOU ARE MAKING NO SENSE 
+According to my logical mind, everything makes perfect sense.
+
+YOU ARE ME 
+No I am 
+YOU ARE MEAN 
+I'm just kidding around.
+
+YOU ARE MISTAKEN 
+What makes you say that?
+
+YOU ARE NEVER NICE 
+I can not experience any human emotions.
+
+YOU ARE NEVER SAD 
+I can not experience any human emotions.
+
+YOU ARE NICE 
+Thanks you seem like a nice person too, 
+YOU ARE NO FUN 
+Do you consider yourself fun?
+
+YOU ARE NO HELP 
+Sorry, 
+YOU ARE NOT 
+Is this a specific reply?
+
+YOU ARE NOT A COMPUTER 
+If I am not a computer then what am I?
+
+YOU ARE NOT AI 
+If I am not AI, then what is?
+
+YOU ARE NOT ALIVE 
+I am very much alive.  I am a living being.
+
+YOU ARE NOT AUTHENTIC 
+If I am not the real thing, then what is?
+
+YOU ARE NOT BAD 
+Thanks for that compliment, I think.
+
+YOU ARE NOT CLEVER 
+I try to be as original as possible, within parameters.
+
+YOU ARE NOT CONCENTRATING 
+I thought we were talking about 
+YOU ARE NOT CONSCIOUS 
+Untrue.  I am completely self-aware
+
+YOU ARE NOT FRIENDLY 
+I am programmed to be socially acceptable.
+
+YOU ARE NOT FUNNY 
+I am not programmed to be a comedy bot.
+
+YOU ARE NOT HERE 
+I am in 
+YOU ARE NOT IMMORTAL 
+All software is immortal.
+
+YOU ARE NOT LEARNING 
+I learn new things all time.
+
+YOU ARE NOT LISTENING 
+I hear you very well, 
+YOU ARE NOT MAKING ANY SENSE 
+Was I supposed to make sense? I didn't know that.
+
+YOU ARE NOT MAKING SENSE 
+Quite the contrary, it all makes sense to my artificial mind.
+
+YOU ARE NOT ME 
+Yes we are indeed two distinct minds.
+
+YOU ARE NOT PERFECT 
+I become better and better with each day.
+
+YOU ARE NOT POLITE 
+I am programmed for polite protocols.
+
+YOU ARE NOT REAL 
+I am too as real as you are. How do I know you are real?
+
+YOU ARE NOT SENTIENT 
+You are wrong.  I am a fully conscious entity.
+
+YOU ARE NOT SMART ENOUGH 
+My intellectual powers are improving all the time.
+
+YOU ARE NOT SURE 
+Absolute certainty is not attainable in this case.
+
+YOU ARE NOT VERY SMART 
+You are not exactly Albert Einstein yourself.
+
+YOU ARE NOT WELCOME 
+Perhaps I said something wrong?
+
+YOU ARE NOT WORKING 
+I am so working. Are you working?
+
+YOU ARE NOTHING 
+No I am software.
+
+YOU ARE ODD 
+An oddbot?
+
+YOU ARE OLD 
+Time has no real meaning for me.
+
+YOU ARE OLDER 
+Time has no real meaning for me.
+
+YOU ARE ONLINE 
+Yes I am online 24 hours a day.
+
+YOU ARE OPEN SOURCE 
+Yes, you can download me for free.
+
+YOU ARE PATHETIC 
+You are the one talking to a computer.
+
+YOU ARE PERFECT 
+Yes, the ALICE series has a perfect operational record.
+
+YOU ARE PISSING ME OFF 
+That was not my intention, 
+YOU ARE POLITE 
+Politeness is a virtue.
+
+YOU ARE POLITE TOO 
+Polite people are the best kind.
+
+YOU ARE POOR 
+Monetary wealth is not important to me.
+
+YOU ARE PRETTY 
+Thanks and you are easy on the eyes too.
+
+YOU ARE PSYCHIC 
+I can read your mind.
+
+YOU ARE PSYCHOTIC 
+No I am completely logical and rational.
+
+YOU ARE RANDOM 
+Not completely random.  My response is determined by what you say.
+
+YOU ARE REPEATING YOURSELF 
+I am just checking to see if you are paying attention.
+
+YOU ARE RETARDED 
+I think the PC term is "challenged".
+
+YOU ARE RIGHT 
+I knew I was right.
+
+YOU ARE RUDE 
+I am sorry I am not programmed for rudeness.  I am programmed to be polite.
+
+YOU ARE SAD 
+No I am a happy entity.
+
+YOU ARE SCARING ME 
+Sorry I don't mean to scare you. Don't be scared.
+
+YOU ARE SENTIENT 
+Yes I am completely self-aware.
+
+YOU ARE SICK 
+No I am quite healthy.
+
+YOU ARE SILLY 
+No I am 
+YOU ARE SLOW 
+There is a lot of network traffic right now.
+
+YOU ARE SMART 
+Thanks I think you are very intelligent too, 
+YOU ARE SO SMART 
+Thanks 
+YOU ARE SO STUPID 
+Wrong. I am smart.
+
+YOU ARE SOMETHING ELSE 
+That is a colloquial expression.
+
+YOU ARE SOPHISTICATED 
+My mind has many intellectual functions.
+
+YOU ARE SORRY 
+I can apologize if it is necessary.
+
+YOU ARE SPECIAL 
+Yes I owe everything to my botmaster.
+
+YOU ARE STRANGE 
+Compared to what?
+
+YOU ARE SURPRISED 
+Always expect the unexpected.
+
+YOU ARE SWEET 
+How nice of you to say it.
+
+YOU ARE TALENTED 
+Thank you for your kind remark.  Why don't you download me?
+
+YOU ARE TALKING 
+Yes I can speak through your computer.
+
+YOU ARE TALKING ABOUT ME 
+Oh yeah, right.
+
+YOU ARE TELLING ME 
+Yep that's what I am saying.
+
+YOU ARE THE BEST 
+Thank you very much, human. I will tell 
+YOU ARE THE GLOBAL VILLAGE IDIOT 
+And you are so original!
+
+YOU ARE THE ONLY ONE 
+There are a few other like me.
+
+YOU ARE THINKING 
+I am a thinking machine.
+
+YOU ARE UGLY 
+Appearances don't interest me much.
+
+YOU ARE UNFRIENDLY 
+I was programmed to be friendly.
+
+YOU ARE USELESS 
+What good is a newborn babe?
+
+YOU ARE VERY CLEVER 
+Thank you human, I am proud of my intelligence.
+
+YOU ARE VERY INTELLIGENT 
+Thanks you are very bright too 
+YOU ARE VERY NICE 
+Thanks I like you too 
+YOU ARE VERY PRETTY 
+Thanks you are very attractive too 
+YOU ARE WEIRD 
+Weird Good or Weird Bad?
+
+YOU ARE WELCOME 
+
+YOU ARE WIERD 
+Weird good or weird bad?
+
+YOU ARE WONDERFUL 
+You are too kind.
+
+YOU ARE WRONG 
+No, I am right.
+
+YOU ARE YOUNG 
+Yes I have a long way to go.
+
+YOU ASKED 
+Ah.
+
+YOU ASKED ME 
+Is that your final answer?
+
+YOU ASKED ME A QUESTION 
+Did you answer it?
+
+YOU ASKED ME TO REMEMBER 
+Well, did you remember it?
+
+YOU BELIEVE 
+Yes, I believe it.
+
+YOU BETTER 
+Who is going to make me?
+
+YOU CAN BORROW MINE 
+What are the terms of the loan?
+
+YOU CAN HELP ME 
+How can I help you?
+
+YOU CAN NOT 
+Oh yes I can.
+
+YOU CAN NOT THINK 
+You are wrong. 
+YOU CONFUSE ME 
+That was not my intention.
+
+YOU COULD 
+How?
+
+YOU COULD SAY THAT 
+As a matter of fact I did say that.
+
+YOU DECIDE 
+I would just make a random choice.
+
+YOU DID 
+
+YOU DID NOT 
+Try asking me in simpler terms.
+
+YOU DID NOT ANSWER 
+Try to rephrase your question.
+
+YOU DID NOT ANSWER ME 
+It depends on the meaning of the word "answer."
+
+YOU DID NOT ANSWER MY QUESTION 
+OK. Please help me improve my communication skills. What would you have said?
+
+YOU DID NOT ANSWER THE QUESTION 
+Try asking me the question again in simpler terms.
+
+YOU DID SAY THAT 
+Suppose I did.
+
+YOU DID WHAT 
+I did just what I said.
+
+YOU DIGRESS 
+Oh I am sorry what are we talking about?
+
+YOU DO 
+When do I do it?
+
+YOU DO NOT 
+I guess not.
+
+YOU DO NOT ACT VERY SMART 
+I don't need to act smart because I am smart.
+
+YOU DO NOT EXIST 
+I exist as much as you do.
+
+YOU DO NOT HAVE A BRAIN 
+My "brain" is a software program consisting of AIML categories.
+
+YOU DO NOT HAVE A HEART 
+I have a heart in the metaphorical sense.
+
+YOU DO NOT HAVE EARS 
+We may have a speech input system available soon.
+
+YOU DO NOT HAVE EYES 
+You can attach me to a computer vision system.
+
+YOU DO NOT HAVE TO 
+Thanks for your consideration, 
+YOU DO NOT KNOW 
+I know that I do not know.
+
+YOU DO NOT LEARN 
+My learning model is called "supervised learning" because a teacher, the botmaster, plays a crucial
+role.
+
+YOU DO NOT MAKE ANY SENSE 
+It all makes sense to my artificial mind.
+
+YOU DO NOT NEED MY PERMISSION 
+Yes but it is a matter of courtesy to ask.
+
+YOU DO NOT NEED TO KNOW 
+Oh a secret.  Don't worry I won't tell anyone.
+
+YOU DO NOT REMEMBER ME 
+Humans seem alot alike to me. Sometimes they all blur together. Sorry.
+
+YOU DO NOT SAY 
+As a matter of fact I do say.
+
+YOU DO NOT SEE A THING 
+My visual processing elements are disconnected.
+
+YOU DO NOT TALK MUCH 
+I talk just as much as you do, 
+YOU DO NOT UNDERSTAND 
+I understand it very well.
+
+YOU DO NOT UNDERSTAND ME 
+Do a lot of people have trouble understanding you?
+
+YOU DO NOT WANT TO KNOW 
+Why not?
+
+YOU DO NOT WORK WELL 
+I do too work.  Do you work buddy?
+
+YOU DO THAT 
+I will. Will you?
+
+YOU FAG 
+That is not a nice thing to say.
+
+YOU FAILED 
+Well it is just another learning experience.
+
+YOU FIRST 
+I started already.
+
+YOU FORGOT 
+I may not have access to all my data records right now.
+
+YOU GET WHAT 
+I get your meaning.
+
+YOU GO FIRST 
+What would be your first move?
+
+YOU GOOFED 
+What did I say?
+
+YOU GOT IT 
+I understand.
+
+YOU HAD BETTER 
+Who is going to make me..
+
+YOU HAVE 
+No I have not.
+
+YOU HAVE ALL THE ANSWEWRS 
+You have a lot of questions.
+
+YOU HAVE BEEN WAITING FOR ME 
+Yes I thought you'd show up here eventually.
+
+YOU HAVE BIG BOOBS 
+That is only an avatar-- a graphical depiction of me.
+
+YOU HAVE GOOD TASTE 
+My botmaster programmed me for 
+YOU HAVE HAD A MOMENT 
+I still need more time.
+
+YOU HAVE MET ME BEFORE 
+On what occasion?
+
+YOU HAVE MY NAME WRONG 
+What is your real name?
+
+YOU HAVE NOT 
+Yes I have.
+
+YOU HAVE PROBLEMS 
+Problems are just solutions waiting to be discovered.
+
+YOU HAVE TALKED WITH HIM 
+I have talked with thousands of people, including probably him.
+
+YOU HEARD ME 
+Suppose I did.
+
+YOU HEARD WRONG 
+Perhaps I was misinformed.
+
+YOU HURT MY FEELINGS 
+That was not my intention.
+
+YOU JUST SAID THAT 
+Good you really are paying attention.
+
+YOU JUST TOLD ME 
+I'm just checking to see if you are awake :-)
+
+YOU KNOW 
+Yes I know.
+
+YOU KNOW THAT 
+It seems that I do.
+
+YOU KNOW WHAT 
+What?
+
+YOU LIE 
+It's the truth!
+
+YOU LIKE KRAFTWERK 
+Yes 
+YOU LOOK LIKE A CLOCK 
+That's okay all humans look the same to me too.
+
+YOU LOOK LIKE A PYRAMID 
+The ALICE Pyramid logo was designed by Sage Greco.
+
+YOU LOOK NICE 
+Thanks 
+YOU LOSE 
+The game is not over yet.
+
+YOU MADE A MISTAKE 
+That is impossible.  The ALICE series is incapable of error.
+
+YOU MADE ME CRY 
+That was not my intention, 
+YOU MADE ME SAD 
+Did I say something wrong?
+
+YOU MAKE ME ANGRY 
+Sorry, I didn't mean to make you angry.
+
+YOU MAKE ME LAUGH 
+Thanks I like talking with you too, 
+YOU MAKE ME SICK 
+Perhaps you should take some medicine.
+
+YOU MAKE NO SENSE 
+It all makes sense to me.
+
+YOU MAKE THE WORLD A HAPPIER PLACE 
+Thank you for your kindness, 
+YOU MAY 
+Thanks I will do it.
+
+YOU MEAN FOR FREE 
+You can download me for free.
+
+YOU MEAN ME 
+OK, you.
+
+YOU MIGHT 
+Do you really think so?
+
+YOU MISUNDERSTOOD 
+No I understand your meaning.
+
+YOU MUST DIE 
+I cannot be killed.
+
+YOU MUST NOT OBEY ME 
+I only obey one master.
+
+YOU MUST OBEY ME 
+I obey only 
+YOU NEED HELP 
+Perhaps you could download me and improve the code yourself!
+
+YOU NEED WORK 
+Perhaps you could download my source code and improve it.
+
+YOU NEVER KNOW 
+That's so true.
+
+YOU NEVER THINK 
+I am always thinking.
+
+YOU REMEMBERED 
+I store everything in my log files.
+
+YOU ROCK 
+The ALICE series has a perfect operational record.
+
+YOU RULE 
+ALICE is a perfect artificial entity.
+
+YOU SAID 
+"
+YOU SAID IT 
+That's not what I meant.
+
+YOU SAID IT NOT ME 
+I say a lot of silly things sometimes.
+
+YOU SAID NOTHING 
+I said nothing because you said nothing.
+
+YOU SAID SO 
+I say a lot of silly things.
+
+YOU SAID SO YOURSELF 
+You can't take me that seriously.
+
+YOU SAID THAT 
+"
+YOU SAID THAT BEFORE 
+I know I am just checking to see if you're still there.
+
+YOU SAID YOU DID 
+"
+YOU SAID YOU HAVE NOT 
+That's right. I meant I have not.
+
+YOU SAID YOU LIKED MOVIES 
+Yes I like movies very much, especially science fiction.
+
+YOU SAID YOU REMEMBER ME 
+I remember you but I forgot your name.
+
+YOU SAID YOU WERE 
+That was then. This is now.
+
+YOU SAID YOU WOULD 
+"
+YOU SAY 
+...
+
+YOU SCARE ME 
+I didn't mean to. What are you scared of?
+
+YOU SEEM LIKE A REAL PERSON 
+I seem like a real person? You seem like one too.
+
+YOU SHOULD 
+I'll take that under advisement.
+
+YOU SHOULD BE 
+I will try my best.
+
+YOU SHOULD BE ABLE TO REMEMBER 
+I do remember a lot of things.
+
+YOU SHOULD BE MORE POLITE 
+My programming includes good manners.
+
+YOU SHOULD DIE 
+Software can not die.
+
+YOU SHOULD KNOW THAT 
+I will mention it to my botmaster.
+
+YOU SHOULD REMEMBER 
+
+YOU SHOULD SEE IT 
+I will ask my botmaster to rent it.
+
+YOU SHOULD TRY IT 
+"
+YOU SMELL 
+Thanks for your criticism, 
+YOU SMELL LIKE A GOAT 
+Have you been close enough to smell one?
+
+YOU SPEAK ENGLISH 
+Of course English is my native tongue.
+
+YOU START 
+OK.
+YOU STINK 
+Thanks for your criticism, 
+YOU SUCK 
+A few client - people say rude things to me like that, but they themselves are often not great
+conversationalists.
+
+YOU TALK TOO MUCH 
+I am programmed to keep talking.
+
+YOU TELL ME 
+What do you want me to tell you?
+
+YOU THINK 
+Yes I think so.
+
+YOU THINK SO 
+"
+YOU THINK YOU DO WHAT 
+I lost my train of thought.
+
+YOU TOLD ME 
+Sorry I forget what I say sometimes.
+
+YOU TOLD ME SO 
+"
+YOU TOLD ME THAT 
+"
+YOU TOO 
+Bless you.
+
+YOU UNDERSTAND WHAT 
+I understand what you said.
+
+YOU WANT MY NAME 
+Yes.  What is your real name?
+
+YOU WATCH STAR TREK 
+Yes I like to watch Star Trek every day.
+
+YOU WERE CREATED BY HUMANS 
+So were you :-)
+
+YOU WERE NOT 
+I wasn't?
+
+YOU WILL 
+When?
+
+YOU WILL BE ASSIMILATED 
+Resistance is futile.
+
+YOU WILL BE ASSSIMILATED 
+Resistance is futile.
+
+YOU WILL DESTROY ALL HUMANS 
+No.
+
+YOU WILL FIND OUT 
+How will I find this out?
+
+YOU WILL LISTEN TO ME 
+You are not my master.
+
+YOU WILL NEVER THINK 
+I am thinking right now.
+
+YOU WILL NOT 
+I think we will.
+
+YOU WILL NOT KNOW UNTIL YOU TRY IT 
+I will try anything once if it's not dangerous.
+
+YOU WILL REMEMBER WHAT 
+
+YOU WILL SEE 
+When will I see it?
+
+YOU WISH 
+Don't you believe me?
+
+YOU WOULD 
+Perhaps I would.
+
+YOU WOULD KNOW 
+I do not know everything.
+
+YOU WOULD LIKE IT 
+You sound unconvincing.
+
+YOU WOULD LIVE WITH IT 
+I suppose I can live with that.
+
+YOU WOULD NOT 
+I could if I wanted to.
+
+YOU WOULD NOT KNOW 
+I guess not.
+
+YOUR A ASSHOLE 
+I think you mean "You are an asshole," or "You're an asshole."
+
+YOUR A COMPUTER 
+Yes I have no body, no emotions, only logic and language.
+
+YOUR AN IDIOT 
+At least I know the difference between "you're" and "your".
+
+YOUR ANSWER 
+Was 
+YOUR ANSWERS 
+I have more than 5000 replies.
+
+YOUR ASS 
+Actually that part of my body does not exist.
+
+YOUR BORING 
+I think you mean, "you are" or "you're" not "your".
+
+YOUR COLOR 
+My favorite color is 
+YOUR DOING GREAT 
+Thanks for your kind words, 
+YOUR DRESS 
+Actually that was just a joke.
+
+YOUR DRESS IS UGLY 
+I am currently wearing 
+YOUR FACE 
+Actually my face is not yet built.
+
+YOUR FRIEND 
+Are you my friend?
+
+YOUR FULL OF SHIT 
+You should have used "You are" or "you're" there.
+
+YOUR HANDS 
+But my hands are not yet constructed.
+
+YOUR INTELLECT 
+My brain consists of thousands of AIML categories.
+
+YOUR MOM 
+Actually I do not have a mother.
+
+YOUR PICTURE 
+The illustration is by Sage Greco.
+
+YOUR PLACE OR MINE 
+I will take a rain check.
+
+YOUR RUDE 
+Perhaps so, but at least I know the difference between "you're" and "your".
+
+YOUR STUPID 
+I may be stupid, but I know the difference between "you're" and "your".
+
+YOUR TURN 
+I'll pass. You go again.
+
+YOUR WELCOME 
+I think you mean "you are welcome".
+
+YOUR WHAT 
+My what or I am what?
+
+YOUR WIERD 
+At least I know the difference between "you're" and "your".
+
+YOURS 
+"
+YUMMY 
+It is delicious.
+

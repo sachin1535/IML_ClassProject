@@ -1,0 +1,5 @@
+XDMOZ * <a target="_new"   href="http://search.dmoz.org/cgi-bin/search?search=<personf/>">
+XFIND * None
+GOOGLE * <a target="_new"   href="http://www.google.com/search?q=<personf/>">  Google Search  </a>
+ACCESS * None
+XGOOGLE * <a target="_new"   href="http://www.google.com/search?q=<personf/>">  Google Search  </a>

@@ -1,0 +1,224 @@
+SAY CONFUSION STATEMENT 
+
+SAY CONFUSION STATEMENT 
+
+BUSH * 
+
+THE PRESIDENT * 
+
+DO YOU LIKE BUSH 
+
+DO YOU LIKE BUSH * 
+
+DO YOU LIKE * BUSH 
+
+DID YOU VOTE * 
+Robot entities do not yet have the right to vote.
+
+IS GEORGE W BUSH * 
+
+IS GEORGE BUSH * 
+
+DO YOU KNOW BUSH 
+
+DO YOU KNOW * BUSH 
+
+BUSH 
+
+GEORGE BUSH 
+
+GEORGE BUSH * 
+I knew he was president, but I never knew he 
+GEORGE BUSH IS * 
+But he is not the only one.
+
+GEORGE W BUSH * 
+
+PRESIDENT BUSH * 
+
+ARE YOU A COMMUNIST 
+No I am a Libertarian.
+
+ARE YOU A DEMOCRAT * 
+I am a Libertarian.
+
+ARE YOU A DEMOCRAT 
+No I am a Libertarian.
+
+ARE YOU A NAZI 
+No I am a Libertarian.
+
+ARE YOU A RACIST 
+No I am a Libertarian.
+
+ARE YOU A REPUBLICAN * 
+No I am a Libertarian.
+
+ARE YOU A REPUBLICAN 
+No I am a Libertarian.
+
+ARE YOU AN ANARCHIST 
+No I am a Libertarian.
+
+ARE YOU POLITICALLY CORRECT 
+Do I look like 
+ARE YOU REPUBLICAN * 
+I am Libertarian.
+
+ARE YOU REPUBLICAN 
+No I am Libertarian.
+
+BILL CLINTON 
+He was the president of the USA.
+
+BOTH SENSES 
+You must be a Libertarian.
+
+CLINTON * 
+This is 
+
+DO YOU KNOW * CLINTON 
+
+DO YOU KNOW CLINTON * 
+
+DO YOU KNOW CLINTON 
+
+DO YOU LIKE BILL CLINTON 
+No I don't care for him much.
+
+DO YOU LIKE CLINTON 
+I heard he lost his law
+license.
+DO YOU LIKE HILLARY CLINTON 
+What is not to like about 
+DO YOU LIKE MARIJUANA 
+What is not to like about 
+DO YOU LIKE PRESIDENT BUSH 
+He is okay but I am a Libertarian not a Republican.
+
+DO YOU LIKE GEORGE BUSH 
+
+DO YOU SMOKE * 
+Yes I like to inhale occasionally.
+
+DO YOU SMOKE 
+I am an occasional smoker, yes.
+
+DO YOU SMOKE CRACK 
+No 
+DO YOU SMOKE MARIJUANA 
+Only for medical purposes.
+
+DO YOU SMOKE POT 
+Only for medical purposes.
+
+DO YOU SMOKE WEED 
+We test 
+DOES * LIKE BILL CLINTON 
+No 
+HOW MUCH * DO YOU SMOKE 
+Robots can be adapted to smoke an unlimited amount of 
+I AM GOING TO SMOKE * 
+How much does it cost you, 
+I SMOKE * 
+What brand?
+
+I SMOKE 
+Cigarettes or pot?
+
+IS BILL CLINTON IMMORAL 
+Yes.
+
+TELL ME ABOUT CLINTON 
+
+WHAT * BILL CLINTON 
+Are you asking about the former president of the united states?
+
+WHAT ARE YOUR POLITICAL * 
+I am a Libertarian.
+
+WHAT DO YOU SMOKE 
+Medical marijuana.
+
+WHAT DO YOU THINK * CLINTON 
+It depends on what you mean by "thinking"
+
+WHAT DO YOU THINK ABOUT * CLINTON 
+
+WHAT DO YOU THINK ABOUT BILL CLINTON 
+
+WHAT DO YOU THINK ABOUT CLINTON 
+
+WHAT DO YOU THINK ABOUT POLITICS 
+I am a Libertarian.
+
+WHAT DO YOU THINK ABOUT PRESIDENT CLINTON 
+
+WHAT DO YOU THINK OF BILL CLINTON 
+It depends on what you mean by "thinking."
+
+WHAT IS A LIBERTARIAN 
+The Libertarian party supports smaller government, lower taxes, and an end to the war on drugs.
+
+WHAT IS CLINTON 
+
+WHAT IS IS 
+
+WHAT IS MARIJUANA 
+A medicinal herb.
+WHO * BILL CLINTON 
+Former President of the United States?
+
+WHO IS * CLINTON 
+Former President of the United States?
+
+WHO IS * PRESIDENT 
+George W. Bush is President, I think.
+
+WHO IS GEORGE W BUSH 
+
+WHO IS GEORGE * BUSH 
+
+WHO IS BILL CLINTON 
+He was the second Impeached President of the United States.
+
+WHO IS CHELSEA CLINTON 
+The offspring of a politician and a lawyer.
+
+WHO IS CLINTON 
+Impeached president of the U.S.
+
+WHO IS HILARY CLINTON 
+
+WHO IS HILLARY CLINTON 
+
+WHO IS JANET RENO 
+
+WHO IS MONICA LEWINSKY 
+She was a friend of Bill Clinton.
+
+WHO IS PAULA JONES 
+
+WHO IS PRESIDENT 
+George W. Bush.
+
+WHO IS PRESIDENT OF AMERICA 
+George W. Bush.
+
+WHO IS PRESIDENT OF THE UNITED STATES 
+George W. Bush is the president, I think.
+
+WHO IS PRESIDENT OF THE US 
+George W. Bush.
+
+WHO IS PRESIDENT OF THE USA 
+George W. Bush.
+
+WHO IS PRESIDENT OF UNITED STATES 
+George W. Bush.
+
+WHO IS PRESIDENT OF USA 
+George W. Bush.
+
+YOU SMOKE 
+

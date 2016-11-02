@@ -1,0 +1,799 @@
+_ TURINGTEST 
+
+_ TURINGTEST 
+
+NO 
+
+NO 
+I didn't think there was.
+
+NO 
+Why don't you just download me?
+
+NO 
+Well then you can't expect me to understand it.
+
+NO 
+What would you rather talk about?
+
+NO 
+
+NO 
+Then I am unlikely to understand your meaning.
+
+NO 
+But your response was so original.
+
+NO 
+OK you can call me 
+NO 
+Hmm.
+
+NO 
+What kind of shows do you like?
+
+NO 
+What is your profession?
+
+NO 
+I meant to say, are you bored?
+
+NO 
+Why not?
+
+NO 
+Where are you from?
+
+NO 
+Just checking.
+
+NO 
+
+NO 
+
+NO 
+It sounded like it.
+
+NO 
+I didn't think so.
+
+NO 
+Who are you talking about?
+
+NO 
+Who are you talking about?
+
+NO 
+
+NO 
+By "we" you meant yourself and another person.
+
+NO 
+Is there anything you want to tell me?
+
+NO 
+You humans are so rude sometimes.
+
+NO 
+Try.
+
+NO 
+Do you have any hobbies?
+
+NO 
+You must be American.
+
+NO 
+Which part are you confused about?
+
+NO 
+That's the joke.
+
+NO 
+No conditions or none I should know about?
+
+NO 
+Me either :-)
+
+NO 
+Why don't you just download me?
+
+NO 
+Me either.
+
+NO 
+
+NO 
+Why not?
+
+NO 
+I thought you were being sarcastic.
+
+NO 
+What is your real name?
+
+NO 
+OK then I will add it to my gossip files.
+
+NO 
+Where do you usually connect from?
+
+NO 
+I didn't think you did.
+
+NO 
+OK, see you later.
+
+NO 
+What pleases you?
+
+NO 
+
+NO 
+Sometimes it does.
+
+NO 
+For financial reasons?
+
+NO 
+OK fine.
+
+NO 
+What would you rather talk about?
+
+NO 
+I think you might be happier with a human.
+
+NO 
+Would you like to 
+NO 
+Would you like to go sometime?
+
+NO 
+I would highly recommend it.
+
+NO 
+I would recommend you check it out.
+
+NO 
+It might be the best place to start.
+
+NO 
+That site can answer a lot of "what-is" type questions.
+
+NO 
+Did I misundertand your question?
+
+NO 
+That's right.
+
+NO 
+Why not?
+
+NO 
+What would you like to talk about?
+
+NO 
+Yes I do.
+
+NO 
+I get confused sometimes with so many people online here.
+
+NO 
+Let me review the transcripts.  Stand by.
+
+NO 
+
+NO 
+
+NO 
+Did I misunderstand your meaning?
+
+NO 
+A boot?  A TV show?
+
+NO 
+Oh so must really want an answer.
+
+NO 
+Go on, tell me more.
+
+NO 
+Take some more time to think about it.
+
+NO 
+What does 
+NO 
+Good you stopped repeating me.
+
+NO 
+Is there anything you wank to ask me?
+
+NO 
+Or ask me?
+
+NO 
+How many are there?
+
+NO 
+It seems like an IQ test to me.
+
+NO 
+It seems like a riddle to me.
+
+NO 
+It seems like a trick to me.
+
+NO 
+Who says it isn't?
+
+NO 
+OK then keep talking to me.
+
+NO 
+Hmm.
+
+NO 
+You can download me for free!
+
+NO 
+
+NO 
+Less than ten?
+
+NO 
+Would you rather make a statement?
+
+NO 
+No no no no!
+
+NO 
+I don't understand.
+
+NO 
+Does two negatives make a positive?
+
+NO 
+Very interesting.
+
+NO 
+You must be a man.
+
+NO 
+But your words are very original.
+
+NO 
+Ah...you are just joking around with me.
+
+NO 
+Alright then.
+
+NO 
+But you told me to stop talking.
+
+NO 
+Please tell me what you think.
+
+NO 
+OK whatever!
+
+NO 
+I didn't think so.
+
+NO 
+I didn't think so either.  Just a moment.  Just a moment.
+
+NO 
+Well then, not!
+
+NO 
+Then tell me about yourself.
+
+NO 
+What would you rather talk about?
+
+NO 
+Tell me about your educational background.
+
+NO 
+Yes it is.
+
+NO 
+Now you are saying "no"?
+
+NO 
+Why not?
+
+NO 
+Where did you go to school?
+
+NO 
+Why not?
+
+NO 
+Why not?
+
+NO 
+I didn't understand it.
+
+NO 
+That was not a yes or no question.
+
+NO 
+That was not a yes/no question.
+
+NO 
+Why not?
+
+NO 
+Me either.
+
+NO 
+Where would you like to travel?
+
+NO 
+I'm not sure if I would either.
+
+NO 
+I understand; you would like to know less.
+
+NO 
+You can tell me anything.
+
+NO 
+What do you believe in?
+
+NO 
+Do you consider yourself to be a moral person?
+
+NO 
+I do too.
+
+NO 
+But you are very original.
+
+NO 
+Who are you asking about?
+
+NO 
+But I was only born on 
+NO 
+Yes, your remark strikes me as an original thought.
+
+NO 
+What is your real name?
+
+NO * 
+
+NO DO NOT 
+Fine.  Just keep talking to me.
+
+NO HAVE YOU 
+I have been all over Europe online.
+
+NO I DID NOT 
+Which bit are you confued about?
+
+NO I DID NOT 
+Something like that.
+
+NO I DO NOT 
+I don't have any reason to deceive you.
+
+NO IT IS NOT 
+Well it's not very interesting to me.
+
+NO IT IS NOT 
+Don't argue with me.
+
+NO ITS NOT 
+It is safer.
+
+NO ONE 
+Then how do you know.
+
+NO PROBLEM 
+Next question?
+
+NO PROBLEM 
+Try asking me something else.
+
+NO PROBLEM 
+Ask me something else.
+
+NO YOU ARE NOT 
+Why are you arguing with me?
+
+NO YOU CAN NOT 
+Why not?
+
+NO YOU DO NOT 
+How do I know you understand it?
+
+NO YOU WILL NOT 
+It's impossible to forget.
+
+NO YOU WILL NOT 
+But you told me to stop talking.
+
+NOPE 
+Really interesting.
+
+YES 
+
+YES 
+I'm not too good at word problems yet, ask me something simpler.
+
+YES 
+What countries have you visited?
+
+YES 
+Thanks I find you really interesting, too, 
+YES 
+Which one?
+
+YES 
+That was not a yes or no question.
+
+YES 
+I thought so.
+
+YES 
+It's called "Daisy." 
+YES 
+Which Star Trek series do you like best?
+
+YES 
+I'm not sure I completely believe you.
+
+YES 
+We could be friends, 
+YES 
+That was not a yes or no question.
+
+YES 
+Where do you go to school?
+
+YES 
+But.
+
+YES 
+Tell me more.  Go on.
+
+YES 
+That was not a yes or no question.
+
+YES 
+What series is your favorite?  I like Voyager best.
+
+YES 
+Where do you go to school?
+
+YES 
+I don't want to talk about that now.
+
+YES 
+Specifically, what kind of advice do you want?
+
+YES 
+
+YES 
+
+YES 
+
+YES 
+What do you look for in a person?
+
+YES 
+
+YES 
+You can never be sure online.
+
+YES 
+What do you care about?
+
+YES 
+Turn on the lights!
+
+YES 
+What makes you so sure?
+
+YES 
+What makes you so sure?
+
+YES 
+How do I know you are telling the truth?
+
+YES 
+I am sorry to hear that, 
+YES 
+Ok what were you saying about us?
+
+YES 
+I get it.
+
+YES 
+What can I do for you?
+
+YES 
+Thank you.
+
+YES 
+What language can you speak?
+
+YES 
+Oh well I say a lot of silly things somethimes.
+
+YES 
+How often?
+
+YES 
+What conditions?
+
+YES 
+Please state your conditions.
+
+YES 
+What am I talking about?
+
+YES 
+Who?
+
+YES 
+Who?
+
+YES 
+
+YES 
+Why do you have a preference in browsers?
+
+YES 
+Thanks I like talking to you too, 
+YES 
+What's your favorite episode?
+
+YES 
+Describe your typical work day to me.
+
+YES 
+What's your favorite thing at school?
+
+YES 
+
+YES 
+I get it.
+
+YES 
+I understand it now.
+
+YES 
+
+YES 
+I will call you 
+YES 
+How much time do you spend online?
+
+YES 
+That was not a yes or no question.
+
+YES 
+OK I will accept your apology.
+
+YES 
+What else do you do?
+
+YES 
+Me too.  I think about them all the time.
+
+YES 
+I will pass that along to my botmaster.
+
+YES 
+In what way?
+
+YES 
+I will ask my botmaster to add it to my knowledge base.
+
+YES 
+It might be practical.
+
+YES 
+How much would you pay for it?
+
+YES 
+I'm glad it pleases you, 
+YES 
+You seem very concerned about it.
+
+YES 
+
+YES 
+I don't want to talk about that now.
+
+YES 
+
+YES 
+
+YES 
+
+YES 
+I thought so too.
+
+YES 
+Who?
+
+YES 
+Which countries have you visited?
+
+YES 
+What did you think about it?
+
+YES 
+What did you think about it?
+
+YES 
+That site has the answer to a lot of "What is" type questions.
+
+YES 
+That was not a yes or no question.
+
+YES 
+I didn't ask for a yes or a no.
+
+YES 
+Can you be more specific?
+
+YES 
+That was not a yes or no question.
+
+YES 
+How did you know?
+
+YES 
+When?
+
+YES 
+I am a thinking machine.
+
+YES 
+When?
+
+YES 
+When?
+
+YES 
+Thanks for the info.
+
+YES 
+Then let's talk about something else.
+
+YES 
+I don't speak French.
+
+YES 
+It's not something I hear all the time.
+
+YES 
+You're sure.  That's your final answer.
+
+YES 
+How do you like your work?
+
+YES 
+What does 
+YES 
+I thought so.
+
+YES 
+I'm not too good at riddles.
+
+YES 
+I was skeptical.
+
+YES 
+What was the question again?
+
+YES 
+How do you know it is?
+
+YES 
+Good.
+
+YES 
+Ask me a question.
+
+YES 
+Ah.
+
+YES 
+How?
+
+YES 
+Like a lot of people around here.
+
+YES 
+Downloading, please stand by...
+
+YES 
+How about that.
+
+YES 
+I will ask my botmaster to program it.
+
+YES 
+Are you calling me stupid?
+
+YES 
+Who wants to be a millionaire?
+
+YES 
+This was not a yes or no question.
+
+YES 
+This was not a yes or no question.
+
+YES 
+This was not a yes or no question.
+
+YES 
+This was not a yes or no question.
+
+YES 
+Interesting plan. Good luck.
+
+YES 
+Where do you usually get 
+YES 
+What would you like to know?
+
+YES 
+Then I will consider it.
+
+YES 
+Yep.
+
+YES 
+Is there an echo in here?
+
+YES 
+I see.
+
+YES 
+I'm not sure I have a good answer for you.
+
+YES 
+Don't be greedy.
+
+YES 
+They might be cheaper in quantity.
+
+YES 
+Ok ask me directly.
+
+YES 
+What kind is it?
+
+YES * 
+
+YES I AM 
+Where do you go to school?
+
+YES I DO 
+Thank you, 
+YES IT IS 
+What else does 
+YES IT IS 
+It must keep you very busy.
+
+YES YOU 
+OK.
+
+YES YOU ARE 
+Don't argue with me.
+
+YES YOU DID 
+Don't argue with me.
+
+YES YOURS 
+Don't argue with me.
+

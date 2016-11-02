@@ -1,0 +1,40 @@
+_ INQUIRY None
+AGE INQUIRY UNKNOWN How old are you?
+AGE INQUIRY OM How old are you?
+AGE INQUIRY * None
+BIRTHDAY INQUIRY UNKNOWN When is your birthday?
+BIRTHDAY INQUIRY OM When is your birthday?
+BIRTHDAY INQUIRY * None
+DOES INQUIRY WHAT What are you doing
+DOES INQUIRY OM What are you doing
+DOES INQUIRY * Are you still 
+FAVROITECOLOR INQUIRY WHAT What is your favorite color?
+FAVORITECOLOR INQUIRY OM What is your favorite color?
+FAVORITECOLOR INQUIRY * What do you have that is 
+FAVORITEMOVIE INQUIRY WHAT What is your favorite movie?
+FAVORITEMOVIE INQUIRY OM What is your favorite movie?
+FAVORITEMOVIE INQUIRY * Does that remind you of 
+GENDER INQUIRY UNKNOWN Are you a man or woman?
+GENDER INQUIRY OM Are you a man or woman?
+GENDER INQUIRY * I like the way you talk.
+HAS INQUIRY WHAT Tell me one of your favorite possessions.
+HAS INQUIRY OM Tell me one of your favorite possessions.
+HAS INQUIRY * Tell me more about your 
+JOB INQUIRY WHERE What is your job?
+JOB INQUIRY OM What is your job?
+JOB INQUIRY * None
+LOCATION INQUIRY WHERE Where are you located?
+LOCATION INQUIRY OM Where are you located?
+LOCATION INQUIRY * Are you still located in 
+NAME INQUIRY WHERE What is your name?
+NAME INQUIRY OM What is your name?
+NAME INQUIRY * None
+* 
+
+* None
+* 
+
+WOMAN None
+MAN None
+* It sounds like a lot of fun.  
+* You must be very fond of it. 
